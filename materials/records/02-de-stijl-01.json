@@ -1,0 +1,89 @@
+{
+  "style_id": "02-de-stijl",
+  "object": "Composition A: Composition with Black, Red, Gray, Yellow, and Blue",
+  "creator": "Piet Mondrian",
+  "work_date": "1920 (Commons catalogue record)",
+  "medium": "Oil on canvas; 90 × 91 cm",
+  "holding": "Galleria Nazionale d'Arte Moderna e Contemporanea, Rome",
+  "branch": "De Stijl / orthogonal painting branch",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Composition_A_by_Piet_Mondrian_Galleria_Nazionale_d%27Arte_Moderna_e_Contemporanea.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Composition_A_by_Piet_Mondrian_Galleria_Nazionale_d%27Arte_Moderna_e_Contemporanea.jpg",
+  "rights": "Public domain / PD-Art and Public Domain Mark; not a newly granted CC license",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution": "Piet Mondrian, Composition A (1920), Galleria Nazionale, via Wikimedia Commons; faithful reproduction, uploaded by Vincent Steenberg.",
+  "rights_evidence": "Commons explicitly records author died 1944 and US publication before 1931; country-specific PD-Art caveat retained.",
+  "limits": "A specific orthogonal work does not represent all De Stijl branches, including van Doesburg's diagonals.",
+  "provider_metadata": {
+    "Artist": "Piet Mondrian",
+    "Credit": "www.snap-dragon.com : Home : Info : Pic",
+    "DateTimeOriginal": "1920date QS:P571,+1920-00-00T00:00:00Z/9",
+    "LicenseShortName": "Public domain",
+    "AttributionRequired": "false",
+    "Copyrighted": "False",
+    "Restrictions": ""
+  },
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Composition_A_by_Piet_Mondrian_Galleria_Nazionale_d%27Arte_Moderna_e_Contemporanea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Composition_A_by_Piet_Mondrian_Galleria_Nazionale_d%27Arte_Moderna_e_Contemporanea.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "02-de-stijl-01",
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Composition_A_by_Piet_Mondrian_Galleria_Nazionale_d%27Arte_Moderna_e_Contemporanea.jpg/1280px-Composition_A_by_Piet_Mondrian_Galleria_Nazionale_d%27Arte_Moderna_e_Contemporanea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Composition_A_by_Piet_Mondrian_Galleria_Nazionale_d%27Arte_Moderna_e_Contemporanea.jpg/1280px-Composition_A_by_Piet_Mondrian_Galleria_Nazionale_d%27Arte_Moderna_e_Contemporanea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/02-de-stijl.jpg",
+  "record_path": "materials/records/02-de-stijl-01.json",
+  "bytes": 261214,
+  "sha256": "952aff15a60f120c07670036b0cfa087d55df0c41c02652a11618b6e278added",
+  "width": 1280,
+  "height": 1273,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "style_name": "De Stijl",
+  "observable_features": [
+    "Black vertical and horizontal lines divide the square field into unequal rectangular compartments.",
+    "Red, yellow and blue areas are interspersed with white, gray and black fields.",
+    "Colored areas vary in size and position rather than mirroring around a central axis.",
+    "Shared straight boundaries connect the differently proportioned rectangles into one continuous planar structure."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "identity_source": "https://gnamc.cultura.gov.it/wp-content/uploads/2026/03/Allegato-A.pdf",
+  "photographer": "unknown / not separately credited",
+  "photo_date": "unknown / not separately stated",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "De Stijl / orthogonal painting branch; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://gnamc.cultura.gov.it/wp-content/uploads/2026/03/Allegato-A.pdf",
+      "supports": "The holding museum’s official appendix lists Piet Mondrian, Composizione A, 1920, oil on canvas. It establishes the named work and catalogued date, rather than a source-authored interpretation of the image’s formal relationships."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "01-bauhaus",
+      "03-swiss-style"
+    ],
+    "shared_appearances": "Primary colors and geometry also occur in Bauhaus, Swiss graphics and later design.",
+    "discriminating_relationships": "Retain the orthogonal painting branch and diagonal-branch caveat. Add the museum's own identity source rather than relying only on Commons; do not apply the painting's lack of typography as a universal De Stijl rule.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. A specific orthogonal work does not represent all De Stijl branches, including van Doesburg's diagonals."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The complete painting fills the frame. Unequal orthogonal fields share boundaries and form nonmirror counterbalance; no label, person or setting competes with them.",
+    "current_view_basis": "The complete painting fills the frame. Unequal orthogonal fields share boundaries and form nonmirror counterbalance; no label, person or setting competes with them.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

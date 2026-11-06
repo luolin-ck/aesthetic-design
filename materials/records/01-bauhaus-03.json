@@ -1,0 +1,87 @@
+{
+  "asset_id": "01-bauhaus-03",
+  "style_id": "01-bauhaus",
+  "local_path": "materials/images/01-bauhaus.jpg",
+  "record_path": "materials/records/01-bauhaus-03.json",
+  "reference_role": "style_reference",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "image_transformation": "None locally. Exact normally exposed public provider variant retained unchanged.",
+  "retrieval_method": "Normal public provider image/thumbnail download; no login, paywall or access-control bypass.",
+  "source_verification_scope": "Exact public image association, provider identity and stated rights checked. Not independent physical authentication.",
+  "rights_scope": "Provider statement retained for this image only; the depicted work, trademarks and particular uses can have separate rights.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "object": "Bauhaus Building, Dessau — workshop glazed corner and bridge",
+  "creator": "Walter Gropius",
+  "work_date": "Building designed and built 1925–1926; photograph of its later surviving/restored state",
+  "photographer": "Leojng",
+  "photo_date": "2019-11-16 16:19:55 (Commons metadata)",
+  "branch": "Historical Bauhaus architecture; workshop facade and connected building volumes",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Fassade_des_Bauhausgeb%C3%A4des,_Dessau_2019.jpg",
+  "identity_source": "https://bauhaus-dessau.de/orte/bauhausgebaeude/",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Fassade_des_Bauhausgeb%C3%A4des%2C_Dessau_2019.jpg/1280px-Fassade_des_Bauhausgeb%C3%A4des%2C_Dessau_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Fassade_des_Bauhausgeb%C3%A4des%2C_Dessau_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "rights": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "rights_category": "open_license",
+  "attribution": "Leojng, Fassade des Bauhausgebädes, Dessau 2019.jpg, photographed 16 November 2019, Wikimedia Commons, CC BY-SA 4.0. Provider 1280px thumbnail retained without local modifications.",
+  "rights_evidence": "The exact Commons file/API record credits Leojng, states the photograph date and CC BY-SA 4.0. This license applies to the photo; it is not a new license to every use of the depicted architecture.",
+  "claim_scope": "A clearly visible glazed corner and workshop-to-bridge volume relationship in the actual Bauhaus school building. Architecture branch only; broader Modernism overlaps and visual resemblance cannot establish historical identity.",
+  "limits": "A close workshop-facade and bridge exterior view, not the entire building plan or all Bauhaus media. Three small visitors at the far lower-left bridge opening do not cover the main glazed corner. Natural tree reflections and sunlight remain; they are not facade ornament. No BAUHAUS end-wall lettering or projecting main entrance canopy is visible in this view. Do not infer interior circulation, load-bearing details, energy performance or a new object’s historical identity.",
+  "observable_features": [
+    "Two large multi-storey glazed workshop planes meet at an exposed corner and are divided by a fine repeated metal grid.",
+    "White horizontal base and roof bands frame the transparent gridded volume without applied historical decoration.",
+    "At the left a lower horizontally glazed bridge volume joins the taller workshop block; its opening and connecting relationship remain legible.",
+    "The facade and internal floor-edge bands are readable across the main image, with no tree branches or foreground objects crossing the central corner."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Fassade_des_Bauhausgeb%C3%A4des,_Dessau_2019.jpg",
+      "supports": "The exact file record identifies a 2019 view of the Bauhaus building in Dessau, credits Leojng and specifies CC BY-SA 4.0."
+    },
+    {
+      "url": "https://bauhaus-dessau.de/orte/bauhausgebaeude/",
+      "supports": "The building’s own institution identifies Gropius’s 1925–1926 Bauhaus school building and discusses its steel/concrete/glass architectural context. It establishes building identity and history; the selected photograph provides the particular view."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "04-modernism",
+      "02-de-stijl",
+      "later glass-and-steel architecture"
+    ],
+    "shared_appearances": "Glazed grids, white planes and clear geometric volumes occur in broader Modernism.",
+    "discriminating_relationships": "Use the documented school-building identity alongside the workshop curtain-wall corner and connecting volume relationships. They illustrate a specific Bauhaus architectural branch; neither glass nor right angles alone distinguishes all Bauhaus work from Modernism.",
+    "cannot_conclude": "A close workshop-facade and bridge exterior view, not the entire building plan or all Bauhaus media. Three small visitors at the far lower-left bridge opening do not cover the main glazed corner. Natural tree reflections and sunlight remain; they are not facade ornament. No BAUHAUS end-wall lettering or projecting main entrance canopy is visible in this view. Do not infer interior circulation, load-bearing details, energy performance or a new object’s historical identity."
+  },
+  "selection_quality": {
+    "improvement": "Brighter, closer main facade with a clear glazed corner; no foreground tree canopy over the subject.",
+    "remaining_distractions": "Three small visitors only at the far lower-left opening; natural reflections and shadows do not conceal the main relationships."
+  },
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Fassade_des_Bauhausgeb%C3%A4des,_Dessau_2019.jpg",
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Fassade_des_Bauhausgeb%C3%A4des%2C_Dessau_2019.jpg/1280px-Fassade_des_Bauhausgeb%C3%A4des%2C_Dessau_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Fassade_des_Bauhausgeb%C3%A4des%2C_Dessau_2019.jpg/1280px-Fassade_des_Bauhausgeb%C3%A4des%2C_Dessau_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "bytes": 351043,
+  "sha256": "fd04f3661b8d65017de194474be53ff99a13af9a4ffb8938d754797fbd3c81b9",
+  "width": 1280,
+  "height": 961,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "replaces_asset_id": "01-bauhaus-01",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "The twilight photo underexposes the base and solid end wall, while top-edge foliage and reflected canopy compete with the facade. A closer brighter workshop-corner view makes the glazing/volume relationship more legible.",
+    "current_view_basis": "Two large multi-storey glazed workshop planes meet at an exposed corner and are divided by a fine repeated metal grid. White horizontal base and roof bands frame the transparent gridded volume without applied historical decoration. At the left a lower horizontally glazed bridge volume joins the taller workshop block; its opening and connecting relationship remain legible. The facade and internal floor-edge bands are readable across the main image, with no tree branches or foreground objects crossing the central corner.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "27d7d3423c61b4ab4f3e62f3dadb0a7e7ab7398348bbf3353723b8d9845ac171"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

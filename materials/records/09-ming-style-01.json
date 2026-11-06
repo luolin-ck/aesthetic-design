@@ -1,0 +1,84 @@
+{
+  "style_id": "09-ming-style",
+  "object": "Yokeback armchair, Met object 1997.92",
+  "creator": "Chinese maker not named",
+  "work_date": "17th century; late Ming–early Qing",
+  "medium": "Huanghuali wood (Dalbergia odorifera)",
+  "holding": "The Metropolitan Museum of Art",
+  "branch": "Ming-style hardwood chair; period and visible form remain separate",
+  "source_page": "https://www.metmuseum.org/art/collection/search/39493",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39493/1297923/main-image",
+  "image_url_existing_verified_record": "https://images.metmuseum.org/CRDImages/as/original/1997_92_O2_sf.jpg",
+  "rights": "Public Domain on official record; Met OA CC0",
+  "license_url": "https://www.metmuseum.org/hubs/open-access",
+  "attribution": "Yokeback armchair, China, 17th century, The Met, Purchase, The Dillon Fund Gift, 1997, 1997.92; CC0.",
+  "limits": "A photograph illustrates visible components/voids, not the internals of this chair or the wood species/age/joints of a new object.",
+  "retrieval_method": "Existing authentic Met CC0 image retained unchanged; official record rechecked on 2026-11-04.",
+  "asset_id": "09-ming-style-01",
+  "downloaded_from": "https://images.metmuseum.org/CRDImages/as/original/1997_92_O2_sf.jpg",
+  "resolved_image_url": "https://images.metmuseum.org/CRDImages/as/original/1997_92_O2_sf.jpg",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/09-ming-style.jpg",
+  "record_path": "materials/records/09-ming-style-01.json",
+  "bytes": 4195861,
+  "sha256": "909f104223cc9ed326a0ecf15fd27068c84c7806953a3b7dd02a3e3b220535fb",
+  "width": 2667,
+  "height": 4000,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "style_name": "Ming Style",
+  "observable_features": [
+    "A wide curved crest rail spans two upright posts and a broad central back splat.",
+    "Curved arms extend forward from the back posts, with slender intermediate supports below.",
+    "Large open voids flank the back splat and remain between the arms, seat and legs.",
+    "The rectangular seat frame, gently shaped apron, legs and lower stretchers make a legible hierarchy of visible components."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "identity_source": "https://www.metmuseum.org/art/collection/search/39493",
+  "photographer": "unknown / not separately credited",
+  "photo_date": "unknown / not separately stated",
+  "rights_evidence": "The exact Met object page was rechecked on 2026-11-04 and explicitly marks the image Public Domain with a Download Image control; the Met Open Access policy applies to this public-domain image.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Ming-style hardwood chair; period and visible form remain separate; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/39493",
+      "supports": "The Met identifies Yokeback armchair, China, 17th century, late Ming–early Qing dynasty, huanghuali (Dalbergia odorifera), accession 1997.92. This is exact-object dating and material documentation; it does not show the chair’s concealed joints or certify a modern chair’s construction."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "10-imperial-court-decoration",
+      "11-neo-chinese",
+      "20-nordic"
+    ],
+    "shared_appearances": "Bare wood, simple outlines and open frames are cross-cultural and survive beyond the Ming period.",
+    "discriminating_relationships": "Retain. Visible crest/back/arm/seat/leg relations support the type; do not infer concealed tenons from the photograph or classify every bare wooden chair as Ming-style.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. A photograph illustrates visible components/voids, not the internals of this chair or the wood species/age/joints of a new object."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The complete frontal chair is isolated on neutral gray and large enough to read crest rail, splat, arm turns, supports, seat frame and stretchers with their voids. Framing is tight but the outer frame and feet are visible; hidden joints/side profile remain unverified.",
+    "current_view_basis": "The complete frontal chair is isolated on neutral gray and large enough to read crest rail, splat, arm turns, supports, seat frame and stretchers with their voids. Framing is tight but the outer frame and feet are visible; hidden joints/side profile remain unverified.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "included",
+  "embedded_credit": {
+    "field": "Artist",
+    "value": "Beatrice Pinto",
+    "role_status": "Embedded image credit retained; precise role not independently confirmed. This is not a verified photographer attribution."
+  }
+}

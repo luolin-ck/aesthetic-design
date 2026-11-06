@@ -1,0 +1,82 @@
+{
+  "asset_id": "22-industrial-02",
+  "style_id": "22-industrial",
+  "object": "LocHal Public Library, Tilburg — exposed hall frame and inserted stair/library levels",
+  "creator": "CIVIC architects (architecture), Braaksma & Roos (restoration), Inside Outside / Petra Blaisse (interior concept/textiles), Mecanoo (library interior)",
+  "work_date": "Original locomotive hall 1932, per CIVIC; renovation/interior realization 2018, per Mecanoo",
+  "photographer": "Stijn Bollaert",
+  "photo_date": "not separately established by the inspected provider page",
+  "branch": "Industrial adaptive-reuse interior in a former locomotive hall",
+  "source_page": "https://www.civicarchitects.eu/nl/projects/lochal-tilburg",
+  "identity_source": "https://www.mecanoo.nl/Projects/project/221/LocHal-Library",
+  "image_url": "https://www.civicarchitects.eu/content/2-projects/6-lochal-tilburg/04-civic-architects-lochal-tilburg-copyright-stijn-bollaert.jpg",
+  "local_path": "materials/images/22-industrial-lochal.jpg",
+  "rights_category": "restricted_public_preview",
+  "rights": "Copyright Stijn Bollaert; no open reuse license established",
+  "rights_evidence": "CIVIC explicitly assigns photographic image rights to Stijn Bollaert; this exact linked gallery file includes the same credit. No CC/PD permission is stated.",
+  "license_url": null,
+  "attribution": "Stijn Bollaert, LocHal Public Library Tilburg, published by CIVIC architects in its project gallery. Public architectural preview; no general reuse license established.",
+  "claim_scope": "A contemporary industrial adaptive-reuse interior whose exposed hall frame, roof construction, large window grid and new library circulation are jointly visible. Historic reuse and present formal organization are separate evidence; not every reused factory automatically has an industrial-looking interior.",
+  "observable_features": [
+    "A high exposed roof of repeated trusses, beams and suspended service/lighting tracks spans the open interior.",
+    "Large gridded glazing and repeated tall dark vertical members set the hall scale and organize several levels.",
+    "New stairs, glass-edged landings, book rows and restrained reading furniture sit within the larger frame rather than covering it with a closed ceiling.",
+    "Riveted/paint-varied older-looking frame elements coexist with darker new-looking insertions; two small people at the lower edge do not obscure the roof, bays or stairs."
+  ],
+  "limits": "The people and small wayfinding signs remain real parts of the public interior, but do not dominate the defining frame. The image cannot prove which member bears load, service operation, hidden material composition or structural safety. Exact old/new component assignments and dates come from project documentation, not visual aging alone. Do not infer that darkness, rust, an old factory address or one metal lamp is necessary or sufficient for industrial style.",
+  "association_evidence": [
+    {
+      "url": "https://www.civicarchitects.eu/nl/projects/lochal-tilburg",
+      "supports": "CIVIC identifies the former 1932 locomotive hall, contemporary reinterpretation of its industrial logic, large open space, exposed basic steel/concrete/glass/wood relationships and named team. The exact photo is linked in the gallery and credited to Stijn Bollaert."
+    },
+    {
+      "url": "https://www.mecanoo.nl/Projects/project/221/LocHal-Library",
+      "supports": "Mecanoo documents the 2018 interior realization, the named design-team roles, former locomotive-hall program, old industrial columns and new oak/steel insertions. Its own photo credit is different and does not license the selected CIVIC/Stijn Bollaert image."
+    }
+  ],
+  "bytes": 875666,
+  "sha256": "15009bca0c71a05699cdd435cb8d62597a41261d03ce873799517bd41d472ea6",
+  "width": 1667,
+  "height": 2500,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "reference_role": "style_reference",
+  "retrieval_method": "Normal public provider image/thumbnail downloaded unchanged; no access-control bypass.",
+  "image_transformation": "None locally; exact delivered public provider image retained.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "downloaded_from": "https://www.civicarchitects.eu/content/2-projects/6-lochal-tilburg/04-civic-architects-lochal-tilburg-copyright-stijn-bollaert.jpg",
+  "resolved_image_url": "https://www.civicarchitects.eu/content/2-projects/6-lochal-tilburg/04-civic-architects-lochal-tilburg-copyright-stijn-bollaert.jpg",
+  "provider_image_page": "https://www.civicarchitects.eu/nl/projects/lochal-tilburg",
+  "record_path": "materials/records/22-industrial-02.json",
+  "rights_scope": "The image and depicted work may have separate rights. Preserve the exact source license/credit; this package grants no broader reuse permission.",
+  "source_verification_scope": "Exact image association, provider credit/rights and named work context checked; visible relations inspected separately from documentary claims.",
+  "confusion_check": {
+    "nearest_alternatives": [
+      "Modernism",
+      "generic contemporary library",
+      "industrial heritage without a visible industrial interior"
+    ],
+    "shared_appearances": "Steel, glass, neutral surfaces and open plans also occur in generic contemporary Modernism.",
+    "discriminating_relationships": "Here repeated shed-scale framing, roof fabrication, exposed tracks and inherited grid govern the main interior and remain legible through the inserted library/stair program. The distinction is the continuing industrial construction vocabulary, not merely the documented former use.",
+    "cannot_conclude": "The people and small wayfinding signs remain real parts of the public interior, but do not dominate the defining frame. The image cannot prove which member bears load, service operation, hidden material composition or structural safety. Exact old/new component assignments and dates come from project documentation, not visual aging alone. Do not infer that darkness, rust, an old factory address or one metal lamp is necessary or sufficient for industrial style."
+  },
+  "replaces_asset_id": "22-industrial-01",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "Several foreground diners, menus, mismatched cafe furniture, strong lamps and large venue lettering compete with the industrial shell. The main view is visually busy despite correct reuse identity.",
+    "current_view_basis": "A high exposed roof of repeated trusses, beams and suspended service/lighting tracks spans the open interior. Large gridded glazing and repeated tall dark vertical members set the hall scale and organize several levels. New stairs, glass-edged landings, book rows and restrained reading furniture sit within the larger frame rather than covering it with a closed ceiling. Riveted/paint-varied older-looking frame elements coexist with darker new-looking insertions; two small people at the lower edge do not obscure the roof, bays or stairs.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "7277f645afc6a8ec2b4410a9153c54051fc73d25dacfd6b8e54422e6f38078a8"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

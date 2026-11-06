@@ -1,0 +1,79 @@
+{
+  "style_id": "08-literati-ink",
+  "object": "Garden of the Inept Administrator, Met object 1979.458.1a–ii",
+  "creator": "Wen Zhengming",
+  "work_date": "1551",
+  "medium": "Album of eight leaves; ink on paper",
+  "holding": "The Metropolitan Museum of Art",
+  "branch": "Ming literati ink album",
+  "source_page": "https://www.metmuseum.org/art/collection/search/39654",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39654/200747/main-image",
+  "image_url_existing_verified_record": "https://images.metmuseum.org/CRDImages/as/original/DP235628_CRD.jpg",
+  "rights": "Public Domain on official record; Met OA CC0",
+  "license_url": "https://www.metmuseum.org/hubs/open-access",
+  "attribution": "Wen Zhengming, Garden of the Inept Administrator, 1551, The Met, Gift of Douglas Dillon, 1979, 1979.458.1a–ii; CC0.",
+  "limits": "The primary image is one garden scene, not proof that the separate Fishing Stone poem leaf is visibly present. Match exact leaf before describing poem/image correspondence; album-level metadata is not eight downloaded leaves.",
+  "retrieval_method": "Existing authentic Met CC0 image retained unchanged; official record rechecked on 2026-11-04.",
+  "asset_id": "08-literati-ink-01",
+  "downloaded_from": "https://images.metmuseum.org/CRDImages/as/original/DP235628_CRD.jpg",
+  "resolved_image_url": "https://images.metmuseum.org/CRDImages/as/original/DP235628_CRD.jpg",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/08-literati-ink.jpg",
+  "record_path": "materials/records/08-literati-ink-01.json",
+  "bytes": 2595248,
+  "sha256": "8499b9616822c173e3be4ac370cbe9aa552117fe67946ebc9072337d0857e6a0",
+  "width": 2986,
+  "height": 2843,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "style_name": "Literati Ink",
+  "observable_features": [
+    "A dense bamboo grove balances a more sparsely drawn pavilion and open foreground.",
+    "Repeated bamboo stalk and leaf strokes contrast with the thin straight lines of roofs, railings and a diagonal walkway.",
+    "Pavilion, gates and path connect several small garden spaces across the sheet.",
+    "Large unfilled passages and light ink washes separate built and planted elements; a red seal sits apart near the lower right."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "identity_source": "https://www.metmuseum.org/art/collection/search/39654",
+  "photographer": "unknown / not separately credited",
+  "photo_date": "unknown / not separately stated",
+  "rights_evidence": "The exact Met object page was rechecked on 2026-11-04 and explicitly marks the image Public Domain with a Download Image control; the Met Open Access policy applies to this public-domain image.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Ming literati ink album; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/39654",
+      "supports": "The Met identifies Wen Zhengming’s Garden of the Inept Administrator, 1551, ink on paper, as an album of eight views, accession 1979.458.1a–ii. Its essay discusses the album’s relationship among poems, calligraphy and painting and distinguishes it from Wen’s larger 1535 album; it does not imply that every downloaded leaf contains all three."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "07-song-dynasty-objects",
+      "11-neo-chinese",
+      "12-wabi-sabi"
+    ],
+    "shared_appearances": "Restrained ink and blank paper occur across multiple periods and present-day design.",
+    "discriminating_relationships": "Retain. Keep album-level poetry/calligraphy context separate from the selected image, which does not show all eight leaves. State that it is Ming, not a Song work, despite restrained ink language.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. The primary image is one garden scene, not proof that the separate Fishing Stone poem leaf is visibly present. Match exact leaf before describing poem/image correspondence; album-level metadata is not eight downloaded leaves."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The complete garden sheet is visible at high resolution without frame, people or museum labels. Pale ink is intrinsic to the work; varied bamboo strokes, pavilion linework, density/void and red seal remain legible. Do not treat the paper tone or absent separate poem leaf as the style criterion.",
+    "current_view_basis": "The complete garden sheet is visible at high resolution without frame, people or museum labels. Pale ink is intrinsic to the work; varied bamboo strokes, pavilion linework, density/void and red seal remain legible. Do not treat the paper tone or absent separate poem leaf as the style criterion.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "included"
+}

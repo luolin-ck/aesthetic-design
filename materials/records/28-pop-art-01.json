@@ -1,0 +1,74 @@
+{
+  "style_id": "28-pop-art",
+  "object": "Campbell's Soup Cans, MoMA 476.1996.1–32",
+  "creator": "Andy Warhol",
+  "work_date": "1962",
+  "photographer": "unknown",
+  "photo_date": "unknown",
+  "branch": "Historical American Pop Art; repeated consumer imagery",
+  "source_page": "https://www.moma.org/collection/works/79809",
+  "image_url": "https://www.moma.org/media/W1siZiIsIjMxODI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1aa5582cbc77afb5",
+  "rights": "© 2026 Andy Warhol Foundation / ARS, NY / TM Licensed by Campbell's Soup Co.; All rights reserved",
+  "license_url": null,
+  "attribution": "Andy Warhol, Campbell's Soup Cans, 1962. Acrylic with metallic enamel paint on canvas, 32 panels. The Museum of Modern Art. © 2026 Andy Warhol Foundation / ARS, NY / TM Licensed by Campbell's Soup Co. All rights reserved.",
+  "rights_evidence": "MoMA object page gives the copyright statement and directs image reproduction requests to Art Resource or Scala Archives in Licensing. No open license is stated.",
+  "identity_source": "https://www.moma.org/collection/works/79809",
+  "limits": "MoMA records acrylic with metallic enamel paint on canvas, with hand-painted imagery and hand-stamped bottom fleur-de-lys. Do not label this set screenprinted; its production method comes from the museum record, not the panel arrangement alone.",
+  "observable_features": [
+    "Thirty-two panels repeat one can composition",
+    "Flavor labels vary within the repeated arrangement",
+    "Commercial packaging becomes a viewing sequence rather than a price catalog"
+  ],
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "28-pop-art-01",
+  "downloaded_from": "https://www.moma.org/media/W1siZiIsIjMxODI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1aa5582cbc77afb5",
+  "resolved_image_url": "https://www.moma.org/media/W1siZiIsIjMxODI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1aa5582cbc77afb5",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/28-pop-art.jpg",
+  "record_path": "materials/records/28-pop-art-01.json",
+  "bytes": 883660,
+  "sha256": "6e245b19c261071eaf0791ab402591bd03b7d53fb269e70db9f6f00fd2d13c0d",
+  "width": 2000,
+  "height": 1200,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Historical American Pop Art; repeated consumer imagery; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.moma.org/collection/works/79809",
+      "supports": "MoMA identifies Andy Warhol’s Campbell’s Soup Cans as a 1962 work comprising 32 canvases. Its account places the work in Pop Art and explains that the can compositions were hand painted, with hand-stamped details; this is not a silkscreened series."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "ordinary commercial product catalog",
+      "Maximalism",
+      "graphic repetition without Pop context"
+    ],
+    "shared_appearances": "Branded products and repetition also occur in advertising and shopping catalogs.",
+    "discriminating_relationships": "Retain the mass-media/consumer-image artistic reframing, separate from merely seeing a brand or repeated grid. Existing corrected acrylic/metallic enamel medium is accurate; do not label this set screenprinted.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. MoMA records acrylic with metallic enamel paint on canvas, with hand-painted imagery and hand-stamped bottom fleur-de-lys. Do not label this set screenprinted; its production method comes from the museum record, not the panel arrangement alone."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "All 32 consumer-image panels and their repeated can silhouette with label variation fill the frame. Frames and small shadows separate the panels without audience, labels or exhibition noise. Commercial imagery is the actual artwork subject, not unrelated advertising.",
+    "current_view_basis": "All 32 consumer-image panels and their repeated can silhouette with label variation fill the frame. Frames and small shadows separate the panels without audience, labels or exhibition noise. Commercial imagery is the actual artwork subject, not unrelated advertising.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

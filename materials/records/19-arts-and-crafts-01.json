@@ -1,0 +1,72 @@
+{
+  "style_id": "19-arts-and-crafts",
+  "object": "Honeysuckle, Met accession 30.95.46a–f",
+  "creator": "William Morris",
+  "work_date": "design registered 1876; printed 1876–77",
+  "photographer": "unknown",
+  "photo_date": "unknown",
+  "branch": "Arts and Crafts printed textile",
+  "source_page": "https://www.metmuseum.org/art/collection/search/222341",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/222341/1865540/main-image",
+  "rights": "Public Domain; The Met Open Access",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "William Morris, Honeysuckle, design registered 1876, printed 1876–77. Linen. The Metropolitan Museum of Art, 30.95.46a–f, Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915. Public Domain.",
+  "rights_evidence": "The object page explicitly labels the image Public Domain and states that Open Access public-domain images are available for unrestricted commercial and noncommercial use without permission or fee.",
+  "identity_source": "https://www.metmuseum.org/art/collection/search/222341",
+  "limits": "Only the displayed view is inspected; no claim about unseen parts, a newly supplied object's manufacture, or authenticity.",
+  "observable_features": [
+    "Repeated honeysuckle and foliage units",
+    "Interconnected stems and alternating negative spaces",
+    "Motif rhythm extending across a textile surface"
+  ],
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "19-arts-and-crafts-01",
+  "downloaded_from": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/222341/1865540/main-image",
+  "resolved_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/222341/1865540/main-image",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/19-arts-and-crafts.jpg",
+  "record_path": "materials/records/19-arts-and-crafts-01.json",
+  "bytes": 625281,
+  "sha256": "b177e3f60dd84f3091c5e10b483906900817201d0217203302ffbb0dc8ba2f35",
+  "width": 1073,
+  "height": 1200,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Arts and Crafts printed textile; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/222341",
+      "supports": "The Met identifies Honeysuckle as a textile designed by William Morris, registered in 1876 and printed in 1876–77, with accession 30.95.46a–f. This supports the named design and its date; the museum record does not establish the labor conditions or manufacture of another Morris-like pattern."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "Art Nouveau",
+      "generic botanical pattern"
+    ],
+    "shared_appearances": "Botanical decoration also occurs in Art Nouveau and generic printed textiles.",
+    "discriminating_relationships": "Retain as Morris textile branch. Explain flat repeating units and ground relationships; the photo does not prove hand printing, labor conditions or the movement identity of a new object. Do not require foliage for every historical Arts and Crafts object.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. Only the displayed view is inspected; no claim about unseen parts, a newly supplied object's manufacture, or authenticity."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The flat textile fragment displays several clear repeats: interwoven stems, alternating flowers/foliage and rhythmical negative spaces. The narrow irregular fabric edge does not obscure the pattern.",
+    "current_view_basis": "The flat textile fragment displays several clear repeats: interwoven stems, alternating flowers/foliage and rhythmical negative spaces. The narrow irregular fabric edge does not obscure the pattern.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "included"
+}

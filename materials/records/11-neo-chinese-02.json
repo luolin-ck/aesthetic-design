@@ -1,0 +1,76 @@
+{
+  "style_id": "11-neo-chinese",
+  "asset_id": "11-neo-chinese-02",
+  "file_key": "11-neo-chinese-tsingpu-overview",
+  "object": "The Brick Wall / Tsingpu Yangzhou Retreat — overhead courtyard-network view 03",
+  "source_page": "https://neriandhu.com/en/works/the-brick-wall-tsingpu-yangzhou-retreat",
+  "image_url": "https://cdn.neriandhu.com/files/images/181/3/neri-and-hu-the-wall-tsingpu-yangzhou-retreat-03.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "downloaded_from": "https://cdn.neriandhu.com/files/images/181/3/neri-and-hu-the-wall-tsingpu-yangzhou-retreat-03.jpg",
+  "resolved_image_url": "https://cdn.neriandhu.com/files/images/181/3/neri-and-hu-the-wall-tsingpu-yangzhou-retreat-03.jpg",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/11-neo-chinese-tsingpu-overview.jpg",
+  "record_path": "materials/records/11-neo-chinese-02.json",
+  "bytes": 461363,
+  "sha256": "dfe8a923a9ba8676b8ed4b63fa5b10dafae62cfa8f0f469f8a6cb17f8fad3fe7",
+  "width": 1800,
+  "height": 1054,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "case_id": "tsingpu-yangzhou-2017",
+  "creator": "Neri&Hu Design and Research Office",
+  "work_date": "Completed October 2017",
+  "photographer": "unknown / not separately credited on the inspected provider page",
+  "photo_date": "unknown / not separately dated",
+  "branch": "Contemporary reorganization of the vernacular Chinese courtyard-house typology",
+  "rights": "Public architect-published preview; no open image license established",
+  "license_url": null,
+  "attribution": "Neri&Hu Design and Research Office, The Brick Wall / Tsingpu Yangzhou Retreat, completed 2017. Published project photograph; the photographer is not separately credited on the inspected page. No open reuse license established.",
+  "rights_evidence": "The publicly accessible project page identifies the work, completion date and inspiration from vernacular Chinese courtyard houses, explaining a grid of walls/paths, framed views and layered privacy. No open license is stated.",
+  "limits": "Use the overhead and enclosed-courtyard views together with the architect’s explicit typological account. Courtyards, bricks and rectangles occur across cultures; this isolated photograph cannot authenticate a Chinese lineage by appearance alone. The architects’ use of the commercial label Neo-Chinese is not established. Both images belong to one project, not two independent examples.",
+  "observable_features": [
+    "A grid of enclosing walls divides the site into multiple open courts and built volumes.",
+    "Passages and openings connect enclosed areas rather than leaving buildings as unrelated freestanding objects.",
+    "Different sizes of courts, planted or water-filled voids and roofs form nested layers within the perimeter."
+  ],
+  "identity_source": "https://neriandhu.com/en/works/the-brick-wall-tsingpu-yangzhou-retreat",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and provider rights checked; not independent physical authentication.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "Provider image rights are not a package-wide license; a photo license does not automatically license underlying designs or trademarks.",
+  "claim_scope": "A formal and documented-method comparator for this guide’s broad contemporary-Chinese-translation category; not a claim of the architects’ self-declared Neo-Chinese movement identity.",
+  "reference_role": "style_reference",
+  "association_evidence": [
+    {
+      "url": "https://neriandhu.com/en/works/the-brick-wall-tsingpu-yangzhou-retreat",
+      "supports": "Neri&Hu identifies The Brick Wall / Tsingpu Yangzhou Retreat, completed October 2017, and explicitly describes translating vernacular Chinese courtyard-house typology through a grid of walls and paths, enclosures, framed views and layered privacy. These are the architects’ project statements; the page does not assert membership in a self-declared Neo-Chinese movement."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "04-modernism",
+      "22-industrial",
+      "12-wabi-sabi"
+    ],
+    "shared_appearances": "Brick walls, rectangular grids, courts and simplicity occur in many regional and modernist architectures.",
+    "discriminating_relationships": "The complementary overhead network and courtyard-edge views expose how wall, courtyard, path and opening relationships are reorganized for contemporary use, with the architect documenting Chinese courtyard-house inspiration. A modern facade, Chinese authorship or a single traditional motif alone would not show that translation.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. Use the overhead and enclosed-courtyard views together with the architect’s explicit typological account. Courtyards, bricks and rectangles occur across cultures; this isolated photograph cannot authenticate a Chinese lineage by appearance alone. The architects’ use of the commercial label Neo-Chinese is not established. Both images belong to one project, not two independent examples."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The overhead view makes nested walls, courts, passages and differing roof/void sizes legible at once. Small parked cars at the edge do not obstruct the courtyard network.",
+    "current_view_basis": "The overhead view makes nested walls, courts, passages and differing roof/void sizes legible at once. Small parked cars at the edge do not obstruct the courtyard network.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

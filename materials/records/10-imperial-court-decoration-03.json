@@ -1,0 +1,84 @@
+{
+  "asset_id": "10-imperial-court-decoration-03",
+  "style_id": "10-imperial-court-decoration",
+  "object": "Revolving openwork vase with dragon and lotus decoration in yangcai painted enamels, NPM 故瓷008824",
+  "creator": "Qing ceramic makers; individual makers not named in the collection record",
+  "work_date": "Qing dynasty, Qianlong reign (1736–1795), per National Palace Museum",
+  "photographer": "National Palace Museum image; individual photographer not separately identified",
+  "photo_date": "not established",
+  "branch": "Qianlong court-context ornamental ceramics",
+  "source_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/28657?dep=U",
+  "identity_source": "https://digitalarchive.npm.gov.tw/Collection/Detail/28657?dep=U",
+  "image_url": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B008824N000000000PAB/full/,1251/0/default.jpg",
+  "local_path": "materials/images/10-imperial-court-decoration-vase.jpg",
+  "reference_role": "style_reference",
+  "claim_scope": "A documented Qianlong yangcai ceramic for comparing dense ornament organized by vessel zones, borders and hierarchy, within the museum-documented court craft context. Not proof of a particular emperor’s personal use, a universal court palette, or all Chinese ornament.",
+  "rights_category": "open_license",
+  "rights": "CC BY 4.0 for the museum open-data medium-resolution image; credit retained",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Revolving openwork vase with dragon and lotus decoration in yangcai painted enamels. The National Palace Museum, Taipei, CC BY 4.0 @ www.npm.gov.tw. Accession 故瓷008824N000000000; IIIF image K1B008824N000000000PAB.",
+  "rights_evidence": "The exact object page explicitly opens medium-resolution object images and text under CC BY 4.0 and supplies a public IIIF viewer/manifest. The published IIIF canvas identifies this exact PAB view. This package retains attribution and does not claim CC0 for the 938×1251 service variant.",
+  "limits": "One frontal vessel view, not the underside, internal mechanism or all decorated media. Rotation, assembly, reign and named motifs are museum documentation, not demonstrated operation. No individual court commission, personal imperial use, precise year, hidden craftsmanship or material authenticity is independently established. Dense flowers, dragons, gold color or a reign mark alone cannot identify an unrelated object as imperial.",
+  "observable_features": [
+    "A single complete vessel is isolated against a plain gray background; no visitors, cases or labels obscure it.",
+    "Dark blue-and-gold neck and shoulder fields contrast with a lighter, densely patterned openwork belly.",
+    "Pink dragon-like forms and intertwined floral scrolls fill the central belly, bounded by distinct bands above and below.",
+    "The narrower lower body and foot repeat gold scroll and leaf-like bands, organizing abundant ornament into a neck–shoulder–belly–foot hierarchy."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/28657?dep=U",
+      "supports": "The National Palace Museum identifies this exact accession, title and Qianlong reign date; describes the four-part revolving construction, dragon/lotus ornament and three decorative zones; supplies the exact public image and open-data image policy. It does not document this piece’s personal use by a named emperor."
+    },
+    {
+      "url": "https://www.npmshops.com/main/modules/MySpace/PrdInfo.php?prd=2203000321405&sn=npmshops",
+      "supports": "The museum’s description of the 2008 Qianlong yangcai exhibition catalog places its collected yangcai and painted-enamel porcelain types in Qing court craftsmanship. The exact object record cites this catalog. This supports the type’s court craft context, not an individually documented commission or user."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "09-ming-style",
+      "11-neo-chinese",
+      "generic floral ornament",
+      "later imperial-style reproduction"
+    ],
+    "shared_appearances": "Axes, dragons, flowers, gold and dense patterns occur outside historical court work.",
+    "discriminating_relationships": "Compare documented historical context together with the visible hierarchy of bounded ornamental fields. Here ornament is abundant but zoned by the vessel’s neck, shoulder, belly and foot; it is not merely a dragon symbol applied to a generic object. Pair with the robe for another medium, without treating either as all court design.",
+    "cannot_conclude": "The view cannot authenticate a new object, prove all-over patterns are imperial, or make a Qianlong mark on an unrelated piece genuine."
+  },
+  "selection_quality": {
+    "subject_visibility": "Whole isolated object; no foreground obstruction.",
+    "diagnostic_relationships": "Clear ornamental zones, borders and density hierarchy.",
+    "scope": "One ceramic branch; complements rather than replaces the robe’s textile branch."
+  },
+  "bytes": 125556,
+  "sha256": "b3fad9082d1f6e7421f9afa0f4a1a246c8eb2f383b323a1dae6cdeb3229cc7b0",
+  "width": 938,
+  "height": 1251,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "record_path": "materials/records/10-imperial-court-decoration-03.json",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. The depicted work and image can have separate rights.",
+  "source_verification_scope": "Identity, exact public image and rights checked against the linked provider; not independent physical authentication.",
+  "retrieval_method": "Normally exposed public provider image downloaded unchanged; no access-control bypass.",
+  "image_transformation": "None locally; provider image variant retained unchanged.",
+  "downloaded_from": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B008824N000000000PAB/full/,1251/0/default.jpg",
+  "resolved_image_url": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B008824N000000000PAB/full/,1251/0/default.jpg",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The isolated whole vase has no setting clutter, readable openwork belly and sharply separated dark-blue/gold neck/shoulder/foot zones. Ornament itself creates the hierarchy; it is not extraneous scene noise.",
+    "current_view_basis": "The isolated whole vase has no setting clutter, readable openwork belly and sharply separated dark-blue/gold neck/shoulder/foot zones. Ornament itself creates the hierarchy; it is not extraneous scene noise.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "included"
+}

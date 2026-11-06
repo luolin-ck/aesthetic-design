@@ -1,0 +1,74 @@
+{
+  "style_id": "31-cyberpunk",
+  "object": "Gouache concept painting by Syd Mead for Blade Runner",
+  "creator": "Syd Mead",
+  "work_date": "for Blade Runner (USA, 1982); precise painting date unknown",
+  "photographer": "unknown",
+  "photo_date": "unknown",
+  "branch": "Cyberpunk cinema production concept art",
+  "source_page": "https://www.academymuseum.org/exhibitions/cyberpunk",
+  "image_url": "https://images.ctfassets.net/m3qyzuwrf176/ulOMct3aBsBRSP8EmvViv/58338866165764d9770879b6f1b5025d/VljZy0dl.jpg",
+  "rights": "unknown; no open license or image-specific rights holder stated in inspected page",
+  "license_url": null,
+  "attribution": "Syd Mead, gouache concept painting for Blade Runner (USA, 1982), published by the Academy Museum of Motion Pictures in Cyberpunk: Envisioning Possible Futures Through Cinema. Image rights not established.",
+  "rights_evidence": "Public museum page links the displayed image and captions it as Syd Mead's gouache for Blade Runner, but does not state CC/PD rights. Image URL is the actual visible page image link.",
+  "identity_source": "https://www.academymuseum.org/exhibitions/cyberpunk",
+  "limits": "A real production artwork, not a documentary city photograph. Exact painting date and rights owner remain unknown. The exhibition describes Blade Runner as an early influence; this is not a universal cyberpunk template.",
+  "observable_features": [
+    "Dense urban infrastructure dwarfing street-scale activity",
+    "Advanced transport and layered signs within a used urban setting",
+    "System/environment scale considered in relation to individual circulation"
+  ],
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "31-cyberpunk-01",
+  "downloaded_from": "https://images.ctfassets.net/m3qyzuwrf176/ulOMct3aBsBRSP8EmvViv/58338866165764d9770879b6f1b5025d/VljZy0dl.jpg",
+  "resolved_image_url": "https://images.ctfassets.net/m3qyzuwrf176/ulOMct3aBsBRSP8EmvViv/58338866165764d9770879b6f1b5025d/VljZy0dl.jpg",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/31-cyberpunk.jpg",
+  "record_path": "materials/records/31-cyberpunk-01.json",
+  "bytes": 356950,
+  "sha256": "339d6fbf91f29d5e0e3541b4a28cd0375e851c035bc17480af469d89888420f9",
+  "width": 1280,
+  "height": 825,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Cyberpunk cinema production concept art; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.academymuseum.org/exhibitions/cyberpunk",
+      "supports": "The Academy Museum’s Cyberpunk exhibition page captions this image as a gouache painting by Syd Mead for Blade Runner (USA, 1982), and its curatorial text places Blade Runner among early cyberpunk influences. The film’s year is not an independently established painting date."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "generic neon city",
+      "Retrofuturism",
+      "ordinary night photography"
+    ],
+    "shared_appearances": "Future cities, darkness and signs also occur in generic science fiction and contemporary urban scenes.",
+    "discriminating_relationships": "Keep the production-art medium and cinematic context. Appearance alone cannot establish social marginality, surveillance, actual technology capabilities or any city photographer's cyberpunk intent; the record supplies named work context.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. A real production artwork, not a documentary city photograph. Exact painting date and rights owner remain unknown. The exhibition describes Blade Runner as an early influence; this is not a universal cyberpunk template."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "Layered signs, heavy infrastructure, small street figures and advanced vehicle share a coherent future-city scene. Darkness is intrinsic to the actual production painting; illuminated edges still distinguish vehicle, street and infrastructure. The signs and street density are constitutive rather than removable background noise.",
+    "current_view_basis": "Layered signs, heavy infrastructure, small street figures and advanced vehicle share a coherent future-city scene. Darkness is intrinsic to the actual production painting; illuminated edges still distinguish vehicle, street and infrastructure. The signs and street density are constitutive rather than removable background noise.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

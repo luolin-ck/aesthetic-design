@@ -1,0 +1,75 @@
+{
+  "style_id": "36-web-brutalism",
+  "object": "Gumroad published homepage as reproduced in NN/g's 2025 article",
+  "creator": "Gumroad; individual website designer unknown in inspected article",
+  "work_date": "version documented 2025-04-11; original page build date unknown",
+  "photographer": "NN/g screenshot publisher; individual capturer unknown",
+  "photo_date": "documented 2025-04-11; exact screenshot capture date unknown",
+  "branch": "Neobrutalism, distinguished from native/direct Web Brutalism and Antidesign",
+  "source_page": "https://www.nngroup.com/articles/neobrutalism/",
+  "image_url": "https://media.nngroup.com/media/editor/2025/04/10/10.png",
+  "rights": "unknown; no open reuse license found for screenshot or underlying site",
+  "license_url": null,
+  "attribution": "Gumroad homepage, version reproduced by Hayat Sheikh / Nielsen Norman Group in Neobrutalism: Definition and Best Practices, 11 April 2025. Screenshot/site rights not established.",
+  "rights_evidence": "NN/g article explicitly identifies the pictured published site as Gumroad and gives publication date, but no CC/PD image license is stated. It is an actual site screenshot, not the article's invented teaching mockups.",
+  "identity_source": "https://www.nngroup.com/articles/neobrutalism/",
+  "limits": "This records the published 2025 viewport only. Heavy functional boundaries and flat fields are visible, but a recurring hard-shadow system or fixed 45-degree offset is not established in this screenshot. It does not establish Antidesign, whole-site behavior, accessibility or the current homepage.",
+  "observable_features": [
+    "Large black typography and heavy borders",
+    "Vibrant pink/yellow page divisions",
+    "Hard-edged calls to action and component boundaries"
+  ],
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "36-web-brutalism-01",
+  "downloaded_from": "https://media.nngroup.com/media/editor/2025/04/10/10.png",
+  "resolved_image_url": "https://media.nngroup.com/media/editor/2025/04/10/10.png",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/36-web-brutalism.png",
+  "record_path": "materials/records/36-web-brutalism-01.json",
+  "bytes": 265199,
+  "sha256": "4f5e0278c0bc2d4f54706cbb07a19292548e19abe20dd49cc9342a0da6de5d94",
+  "width": 1152,
+  "height": 894,
+  "format": "PNG",
+  "content_type": "image/png",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Neobrutalism, distinguished from native/direct Web Brutalism and Antidesign; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.nngroup.com/articles/neobrutalism/",
+      "supports": "Hayat Sheikh’s NN/g article of 11 April 2025 presents a Gumroad website screenshot as an example of neobrutalism. This supports the published screenshot’s identity and that commercial design branch; the package’s description of its visible layout is a separate image observation."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "ordinary unstyled/legacy websites",
+      "Minimalism",
+      "Memphis-like color blocking",
+      "Antidesign"
+    ],
+    "shared_appearances": "Plain documents overlap with legacy pages and reduction; bright outlined UI overlaps with Memphis-like graphics.",
+    "discriminating_relationships": "Gumroad organizes a neobrutalist interface through heavy functional boundaries and flat color fields; the Copeland page uses a direct document hierarchy, exposed links and restrained chrome. These are distinct branches, not one mandatory recipe. A historical plain website or reduced palette alone does not establish deliberate Web Brutalism.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. This records the published 2025 viewport only. Heavy functional boundaries and flat fields are visible, but a recurring hard-shadow system or fixed 45-degree offset is not established in this screenshot. It does not establish Antidesign, whole-site behavior, accessibility or the current homepage."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The actual homepage viewport clearly divides functional navigation and calls to action with strong black boundaries and contrasting flat pink/yellow fields. The portrait is authored hero content within that field, not an unrelated news image or obstruction of component structure. No fixed shadow system is inferred.",
+    "current_view_basis": "The actual homepage viewport clearly divides functional navigation and calls to action with strong black boundaries and contrasting flat pink/yellow fields. The portrait is authored hero content within that field, not an unrelated news image or obstruction of component structure. No fixed shadow system is inferred.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

@@ -1,0 +1,88 @@
+{
+  "style_id": "15-renaissance",
+  "style_name": "Renaissance",
+  "object": "Central part of the facade of the Ospedale degli Innocenti, Florence",
+  "creator": "Filippo Brunelleschi; later alterations and additions by others",
+  "work_date": "Construction began 1419; Brunelleschi directed works 1419–1427, per Museo degli Innocenti",
+  "photographer": "HuthBerlin",
+  "photo_date": "2018-09-28 07:46 (Commons file metadata)",
+  "branch": "Florentine Early Renaissance architectural ordering; present-day central facade with later additions",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Spedale-degli-innocenti-fassade-01.jpg",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Spedale-degli-innocenti-fassade-01.jpg/1280px-Spedale-degli-innocenti-fassade-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "rights": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "attribution": "HuthBerlin, Spedale-degli-innocenti-fassade-01.jpg, CC BY 4.0, via Wikimedia Commons. Provider resized preview; no local crop or retouch.",
+  "rights_evidence": "The exact Commons file description/API identifies HuthBerlin, 28 September 2018 and CC BY 4.0. It describes the central facade of the Ospedale degli Innocenti.",
+  "identity_source": "https://www.museodeglinnocenti.it/en/museo/percorsi-espositivi/architettura/",
+  "limits": "Perspective is near-frontal but slightly upward; do not measure exact module ratios, column-to-span equality or mathematical proportions from pixels. The image does not show the whole facade, full axial symmetry, plan, vault geometry or interior spatial system. Photograph date is 2018; construction began 1419. Do not label the photograph or every visible addition as 1419. Infant tondi are later additions of 1487 according to the museum; they identify this building but are not a necessary Renaissance style criterion. Upper windows, heraldry and frescoes should not all be attributed to Brunelleschi from this photograph. This is an early Florentine architectural example; the gray-and-white palette and round arches alone cannot classify all media as Renaissance or distinguish later Renaissance revival buildings without provenance. A small street bin remains. No local removal, cropping or image generation was used.",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Spedale-degli-innocenti-fassade-01.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "15-renaissance-01",
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Spedale-degli-innocenti-fassade-01.jpg/1280px-Spedale-degli-innocenti-fassade-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Spedale-degli-innocenti-fassade-01.jpg/1280px-Spedale-degli-innocenti-fassade-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "retrieved_on": "2026-11-05",
+  "local_path": "materials/images/15-renaissance.jpg",
+  "record_path": "materials/records/15-renaissance-01.json",
+  "bytes": 225445,
+  "sha256": "df527aa77db3a8b272aae3841e8c6a7ed48a23be480856fc721d67d326072458",
+  "width": 1280,
+  "height": 853,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None locally; unchanged public Commons 1280px thumbnail.",
+  "observable_features": [
+    "Near-frontal sequence of five complete semicircular arcade bays, with additional bays cut by the frame edges.",
+    "Slender columns and articulated capitals carry the repeated round arches; the shafts, bases and steps remain legible.",
+    "Gray pietra serena outlines contrast with broad light plaster fields; the order continues across capitals, arch bands and horizontal courses.",
+    "Repeated pedimented upper windows and horizontal cornice courses make the facade organization easy to read.",
+    "No parked vehicles, tourists, foreground statue or temporary market covers obstruct the arcade."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-05",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "open_license",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Repeated round-arch/column bays and stone/plaster hierarchy in a documented Early Renaissance building. A partial present-day facade view, not the whole elevation or an unchanged 1419 design.",
+  "association_evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Spedale-degli-innocenti-fassade-01.jpg",
+      "supports": "The exact file record identifies the central facade of the Spedale degli Innocenti, photographer HuthBerlin, photo date and CC BY 4.0. It does not date every visible architectural component."
+    },
+    {
+      "url": "https://www.museodeglinnocenti.it/en/museo/percorsi-espositivi/architettura/",
+      "supports": "The institution documents construction beginning in 1419, Brunelleschi’s direction in 1419–1427, later alterations and the infant tondi added in 1487. It supports the building’s history, not exact mathematical ratios measured from this photo."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "13-classical",
+      "18-neoclassical"
+    ],
+    "shared_appearances": "Round arches, columns and formal repetition also occur in ancient and later revived classicism.",
+    "discriminating_relationships": "The documented Early Renaissance building makes repeated classical column-and-round-arch bays legible together with horizontal courses and contrasting stone/plaster fields. Acknowledge later additions; round arches alone do not distinguish Renaissance from ancient classicism or later revivals.",
+    "cannot_conclude": "Perspective is near-frontal but slightly upward; do not measure exact module ratios, column-to-span equality or mathematical proportions from pixels. The image does not show the whole facade, full axial symmetry, plan, vault geometry or interior spatial system. Photograph date is 2018; construction began 1419. Do not label the photograph or every visible addition as 1419. Infant tondi are later additions of 1487 according to the museum; they identify this building but are not a necessary Renaissance style criterion. Upper windows, heraldry and frescoes should not all be attributed to Brunelleschi from this photograph. This is an early Florentine architectural example; the gray-and-white palette and round arches alone cannot classify all media as Renaissance or distinguish later Renaissance revival buildings without provenance. A small street bin remains. No local removal, cropping or image generation was used."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Spedale-degli-innocenti-fassade-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "selection_quality": {
+    "subject_visibility": "Five complete arcade bays legible, without vehicles, visitors or market roofs.",
+    "remaining_distractions": "One small street bin below the steps; it does not obscure the column/arch structure.",
+    "scope": "Partial near-frontal elevation with later fabric; no exact pixel-based modular measurement."
+  },
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "Five complete near-frontal column/round-arch bays and upper repeated windows are unobstructed and well exposed. The single small street bin is below the steps and does not mask defining parts.",
+    "current_view_basis": "Five complete near-frontal column/round-arch bays and upper repeated windows are unobstructed and well exposed. The single small street bin is below the steps and does not mask defining parts.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

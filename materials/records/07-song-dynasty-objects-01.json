@@ -1,0 +1,77 @@
+{
+  "style_id": "07-song-dynasty-objects",
+  "object": "Tea bowl, Jian ware, Met object 29.100.226",
+  "creator": "Chinese Jian kiln maker not named",
+  "work_date": "11th–12th century; Song dynasty (960–1279)",
+  "medium": "Stoneware with iron-oxide glaze",
+  "holding": "The Metropolitan Museum of Art",
+  "branch": "Specific Jian tea-bowl branch, not all Song objects",
+  "source_page": "https://www.metmuseum.org/art/collection/search/42457",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42457/199294/main-image",
+  "rights": "Public Domain on object page; Met OA images released CC0",
+  "license_url": "https://www.metmuseum.org/hubs/open-access",
+  "attribution": "Tea bowl, China, 11th–12th century, Jian ware, The Met, H. O. Havemeyer Collection, 29.100.226; CC0.",
+  "rights_evidence": "Official object page shows Public Domain and Download Image; Open Access policy establishes CC0.",
+  "limits": "Real object metadata supports this specific bowl. No claim that one image represents every Song kiln or proves a new object's recipe. Local white highlights are photographic reflections, not white glaze ornaments; compare the visible dark radial streaks and bowl profile.",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "07-song-dynasty-objects-01",
+  "downloaded_from": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42457/199294/main-image",
+  "resolved_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42457/199294/main-image",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/07-song-dynasty-objects.jpg",
+  "record_path": "materials/records/07-song-dynasty-objects-01.json",
+  "bytes": 87587,
+  "sha256": "1a7b06c7e45d0ba399ee2c90c8ebfc1df8f7f766d7c9c916cbcc4ea9a16c2982",
+  "width": 1200,
+  "height": 900,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "style_name": "Song-Dynasty Objects",
+  "observable_features": [
+    "A broad circular rim narrows continuously toward a small foot.",
+    "The dark glazed interior carries fine irregular streaks running down toward the center.",
+    "The visible vessel relies on its profile and glazed surface rather than attached handles or figurative relief.",
+    "The thin-looking rim, deeper bowl wall and small supporting foot form visibly distinct levels."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "identity_source": "https://www.metmuseum.org/art/collection/search/42457",
+  "photographer": "unknown / not separately credited",
+  "photo_date": "unknown / not separately stated",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Specific Jian tea-bowl branch, not all Song objects; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/42457",
+      "supports": "The Met identifies Tea bowl, China, 11th–12th century, Song dynasty, stoneware with iron-oxide glaze (Jian ware), accession 29.100.226. Its account also discusses Jian tea bowls’ reception in Japan. This documents one kiln and object branch, rather than a universal formal standard for all Song objects."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "12-wabi-sabi",
+      "05-minimalism"
+    ],
+    "shared_appearances": "Plain monochrome ceramic bowls also occur in later Chinese and Japanese traditions.",
+    "discriminating_relationships": "Retain only as a Jian tea-bowl branch. Do not equate Song with all restrained monochrome ceramics; source notes on Japanese tenmoku reception do not make every Jian bowl a self-declared wabi-sabi work.",
+    "cannot_conclude": "Real object metadata supports this specific bowl. No claim that one image represents every Song kiln or proves a new object's recipe. Local white highlights are photographic reflections, not white glaze ornaments; compare the visible dark radial streaks and bowl profile."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The full Jian bowl profile, small foot and radial dark-glaze streaks are visible against a plain background. Two bright reflections cover local glaze patches but do not prevent reading the relevant streak-to-profile relationship; reflection shape is not a glaze motif.",
+    "current_view_basis": "The full Jian bowl profile, small foot and radial dark-glaze streaks are visible against a plain background. Two bright reflections cover local glaze patches but do not prevent reading the relevant streak-to-profile relationship; reflection shape is not a glaze motif.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "included"
+}

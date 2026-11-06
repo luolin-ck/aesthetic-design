@@ -1,0 +1,78 @@
+{
+  "style_id": "18-neoclassical",
+  "style_name": "Neoclassical",
+  "object": "Side chair (one of a set of fourteen), Met object 1996.426.10",
+  "creator": "Designer Robert Adam; supplied by Thomas Chippendale, as credited in the current Met record",
+  "work_date": "circa 1772",
+  "medium": "Mahogany, covered in modern red morocco leather",
+  "holding": "The Metropolitan Museum of Art",
+  "branch": "British Neoclassical furniture made for Goldsborough Hall; the upholstery is modern replacement",
+  "source_page": "https://www.metmuseum.org/art/collection/search/841568",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/841568/1948464/main-image",
+  "rights": "Public Domain on object page; Met Open Access CC0",
+  "license_url": "https://www.metmuseum.org/hubs/open-access",
+  "attribution": "Robert Adam (designer), supplied by Thomas Chippendale, Side chair, ca. 1772, The Met, 1996.426.10; CC0. Credit Line: Purchase, Lila Acheson Wallace and The Annenberg Foundation Gifts, Gift of Irwin Untermyer and Fletcher Fund, by exchange, Bruce Dayton Gift, and funds from various donors, 1996.",
+  "rights_evidence": "Exact record 841568's object number and primary-image caption both identify 1996.426.10; Public Domain and Download Image are explicit.",
+  "limits": "Keep the exact object/image match: some sibling set records show a shared primary caption 1996.426.10 even when their catalogue object number differs. This selected record matches both. Do not use replacement upholstery as original material evidence or collapse all Neoclassical branches into this chair.",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "18-neoclassical-01",
+  "downloaded_from": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/841568/1948464/main-image",
+  "resolved_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/841568/1948464/main-image",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/18-neoclassical.jpg",
+  "record_path": "materials/records/18-neoclassical-01.json",
+  "bytes": 120297,
+  "sha256": "1e94724964175311ccd8d8598f09aa6e85af02c243c5496b7e4a307c39fb9291",
+  "width": 960,
+  "height": 1200,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "observable_features": [
+    "A fan-shaped open back splat rises toward a central round rosette below a shallow arched crest.",
+    "Paired hanging swags and small terminal motifs are organized around the back's center.",
+    "Straight, square-section front legs taper downward and carry narrow vertical carved ornaments.",
+    "A largely rectangular seat frame and repeated beaded or molded borders contain the decorative details within a clear structural outline."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "identity_source": "https://www.metmuseum.org/art/collection/search/841568",
+  "photographer": "unknown / not separately credited",
+  "photo_date": "unknown / not separately stated",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "British Neoclassical furniture made for Goldsborough Hall; the upholstery is modern replacement; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/841568",
+      "supports": "The Met identifies this side chair as designed by Robert Adam, supplied by Thomas Chippendale, about 1772, accession 1996.426.10, from a Neoclassical set for Goldsborough Hall. It describes the fan-shaped splat, central patera, bellflower swags and square tapering legs, and explains that the red morocco leather is a modern replacement."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "13-classical",
+      "15-renaissance",
+      "17-rococo"
+    ],
+    "shared_appearances": "Carving and classical motifs overlap with Rococo and earlier classical revivals.",
+    "discriminating_relationships": "Retain. Distinguish bounded classical motif/component relationships and recorded revival context from the presence/absence of carving. Red leather is a modern replacement, not original-period material evidence.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. Keep the exact object/image match: some sibling set records show a shared primary caption 1996.426.10 even when their catalogue object number differs. This selected record matches both. Do not use replacement upholstery as original material evidence or collapse all Neoclassical branches into this chair."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The complete single chair is isolated. Fan ribs, central rosette, swags, repeated borders and tapering rectilinear legs remain readable as controlled structural/decorative relationships.",
+    "current_view_basis": "The complete single chair is isolated. Fan ribs, central rosette, swags, repeated borders and tapering rectilinear legs remain readable as controlled structural/decorative relationships.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "included"
+}

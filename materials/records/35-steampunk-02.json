@@ -1,0 +1,83 @@
+{
+  "asset_id": "35-steampunk-02",
+  "style_id": "35-steampunk",
+  "local_path": "materials/images/35-steampunk.jpg",
+  "record_path": "materials/records/35-steampunk-02.json",
+  "reference_role": "style_reference",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "bytes": 227106,
+  "sha256": "c8e7403093d5d3ff0f5495d7ded5940d0834813c950989cef7f1f4e39eb1e773",
+  "width": 800,
+  "height": 800,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_scope": "This record preserves provider statements, not a package-wide license. Original artwork, reproduction and depicted modern designs can have separate rights.",
+  "object": "The Clacker PC 2 — maker-published complete computer view",
+  "creator": "Datamancer workshop; this individual gallery item is not separately credited",
+  "work_date": "not separately established for this item",
+  "photographer": "not separately identified",
+  "photo_date": "not established",
+  "branch": "Contemporary alternative-technology PC with historical machine and cabinet vocabulary",
+  "source_page": "https://datamancer.com/about/",
+  "provider_image_page": "https://datamancer.com/about/",
+  "identity_source": "https://datamancer.com/about/",
+  "image_url": "https://datamancer.com/wp-content/gallery/about-gallery/The-Clacker-PC-2.jpg?t=1789249896",
+  "rights_category": "restricted_public_preview",
+  "rights": "Datamancer public gallery image; no open reuse license established",
+  "license_url": null,
+  "attribution": "Datamancer, The Clacker PC 2, image published in the workshop’s About gallery. Individual maker, photographer and creation dates are not specified for this item. Copyright Datamancer; no open reuse license established.",
+  "rights_evidence": "The normal About gallery links this exact image and labels its title/alt The Clacker PC 2. The site states Copyright Datamancer; no CC or public-domain grant for this image was identified. The replaced Commons photograph’s CC BY-SA does not apply.",
+  "claim_scope": "A maker-published real PC design combining a visible digital desktop and keyboard with an exposed mechanism-like tier and historical cabinet/instrument forms. A scoped Steampunk formal comparator, not evidence that the visible gears perform computation or use steam.",
+  "limits": "The general workshop story does not authenticate the composition, antiquity, mechanism, drive system or material of each part in this item. Exact maker, dates, full specifications and working operation remain unverified. Small lamps, telephone and framed portrait remain around the PC but do not obscure its screen, keyboard or mechanism tier; these are not necessary style props. The portrait is not evidence of the device’s age.",
+  "observable_features": [
+    "A complete upright monitor and lower round-key keyboard form a single central cabinet-like computer assembly in a front three-quarter view.",
+    "A digital desktop with small icons and a taskbar is visible within the decorated rectangular screen surround.",
+    "Between screen and keyboard, rows of exposed toothed wheels, rods and cylindrical forms create a contrasting mechanical-looking tier.",
+    "A curved broken-pediment-like top, dark wood-grain fields and metallic-looking borders integrate historical furniture/instrument vocabulary with the modern interface.",
+    "The neutral wall, unreflected screen and close framing remove the old photo’s star-pattern tablecloth and competing dark wall field."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://datamancer.com/about/",
+      "supports": "The workshop’s actual About gallery exposes this exact image and identifies it in alt/title/data-title as The Clacker PC 2. The general story describes modern computer equipment reworked through historical design languages; it does not date this item, name its individual maker or prove every part’s material or function."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "antique typewriter or instrument",
+      "ornamental vintage PC enclosure",
+      "35-steampunk costume or surface styling",
+      "general retrofuturism"
+    ],
+    "shared_appearances": "Dark cabinetry, metallic trim, round keys and old instruments can also occur in genuine antiques or simple vintage decoration.",
+    "discriminating_relationships": "A directly visible modern digital interface and computer-keyboard arrangement occupy the same cabinet as exposed wheel/shaft forms and historical furniture contours. Their integrated modern-device/historical-machine relation is stronger than an isolated brass color or a decorative gear sticker. Do not claim that the visible mechanism powers the PC.",
+    "cannot_conclude": "The image cannot establish steam power, a working mechanical computer, authentic antique components, precise metallurgy, item dates or all Steampunk media."
+  },
+  "retrieval_method": "Normal public full image linked in the maker’s About gallery downloaded unchanged.",
+  "image_transformation": "None locally; exact published complete image retained.",
+  "selection_quality": {
+    "reason": "More frontal and concentrated complete-device view; a clear screen plus keyboard and mechanical tier, with neutral background and no large patterned tablecloth.",
+    "remaining_limits": "Peripheral lamps/phone/frame remain, but none hides the discriminating relationships; this is not an isolated engineering diagram."
+  },
+  "downloaded_from": "https://datamancer.com/wp-content/gallery/about-gallery/The-Clacker-PC-2.jpg?t=1789249896",
+  "resolved_image_url": "https://datamancer.com/wp-content/gallery/about-gallery/The-Clacker-PC-2.jpg?t=1789249896",
+  "replaces_asset_id": "35-steampunk-01",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "A large red star-pattern tablecloth, screen reflection and busy wall/side objects compete with the modern-device/historical-machine relationship. A more frontal maker-published complete PC view removes those competing surfaces while preserving the electronic screen, round keyboard keys and exposed mechanism language.",
+    "current_view_basis": "More frontal and concentrated complete-device view; a clear screen plus keyboard and mechanical tier, with neutral background and no large patterned tablecloth.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "154c105842e596cebbd00665235c19b4236f3659ff83bc117a53f9830cfdf478"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

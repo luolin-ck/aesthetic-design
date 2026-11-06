@@ -1,0 +1,87 @@
+{
+  "asset_id": "05-minimalism-03",
+  "style_id": "05-minimalism",
+  "local_path": "materials/images/05-minimalism.jpg",
+  "record_path": "materials/records/05-minimalism-03.json",
+  "reference_role": "style_reference",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "image_transformation": "None locally. Exact normally exposed public provider variant retained unchanged.",
+  "retrieval_method": "Normal public provider image/thumbnail download; no login, paywall or access-control bypass.",
+  "source_verification_scope": "Exact public image association, provider identity and stated rights checked. Not independent physical authentication.",
+  "rights_scope": "Provider statement retained for this image only; the depicted work, trademarks and particular uses can have separate rights.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "object": "Langen Foundation — empty passage between concrete volume and glass enclosure",
+  "creator": "Tadao Ando",
+  "work_date": "Building opened 2004; this photograph dated 2021-06-19",
+  "photographer": "Till Niermann",
+  "photo_date": "2021-06-19 (Commons metadata)",
+  "branch": "Contemporary reductive architectural space; serial frames, planar wall and active passage void",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Langen_Foundation_3,_2021.jpg",
+  "identity_source": "https://langenfoundation.de/en/about/architecture/",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Langen_Foundation_3%2C_2021.jpg/1280px-Langen_Foundation_3%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Langen_Foundation_3%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "rights": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "rights_category": "open_license",
+  "attribution": "Till Niermann, Langen Foundation 3, 2021.jpg, photographed 19 June 2021, Wikimedia Commons, CC BY 3.0. Exact provider 1280px thumbnail; no local crop or retouch.",
+  "rights_evidence": "The exact Commons file/API record names Till Niermann, identifies the building by Tadao Ando in Neuss, dates the photograph 19 June 2021 and specifies CC BY 3.0. The photo license does not automatically clear all depicted architecture rights or every use.",
+  "claim_scope": "A scoped example of contemporary architectural reduction: uninterrupted wall, repeated thin frames and the intervening passage govern the visible space. Not an original Minimal Art work or an exclusive distinction from Modernism.",
+  "limits": "One empty passage between the glass skin and concrete volume, not a complete building exterior, floor plan, or whole exhibition. The far-end green exit sign and small fire-safety fixture remain but are minor, normal functional elements. Natural outdoor views, surface marks and strong frame shadows remain. Do not infer all hidden structure or claim this is 1960s American Minimal Art. Architectural reduction overlaps broader Modernism; the complementary Judd image supplies a separate historical Minimal Art branch.",
+  "observable_features": [
+    "A continuous plain concrete wall runs beside a transparent outer wall and glazed roof, leaving a long empty passage between them.",
+    "Repeated slender vertical and overhead members establish a regular progression toward a small far opening.",
+    "Strong linear frame shadows fall across the uncluttered floor and glass, making intervals and perspective depth easy to inspect.",
+    "The main view contains no visitors, display sculptures, furniture groupings or foreground tree branches; attention rests on wall, frame, gap and light relationships."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Langen_Foundation_3,_2021.jpg",
+      "supports": "The exact Commons record identifies this view as Langen Foundation, Tadao Ando’s building in Neuss, and provides Till Niermann’s photograph date and CC BY 3.0 license."
+    },
+    {
+      "url": "https://langenfoundation.de/en/about/architecture/",
+      "supports": "The institution documents the 2004 opening, concrete/glass/steel composition, elongated concrete volume veiled in glass, and Ando’s geometric austerity. The selected passage photograph illustrates a partial visible reduction; the institution does not certify it as a 1960s Minimal Art work."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "04-modernism",
+      "21-japandi",
+      "12-wabi-sabi"
+    ],
+    "shared_appearances": "Plain concrete, glazing and repeated structural members also occur in broader Modernism and reductive Japanese architecture.",
+    "discriminating_relationships": "Here the planar wall, serial slender frames and active empty interval organize a whole visible passage. This supports a scoped reductive-space reading; Judd supplies a distinct historical Minimal Art comparator. Japanese authorship or sparse surfaces alone are insufficient.",
+    "cannot_conclude": "One empty passage between the glass skin and concrete volume, not a complete building exterior, floor plan, or whole exhibition. The far-end green exit sign and small fire-safety fixture remain but are minor, normal functional elements. Natural outdoor views, surface marks and strong frame shadows remain. Do not infer all hidden structure or claim this is 1960s American Minimal Art. Architectural reduction overlaps broader Modernism; the complementary Judd image supplies a separate historical Minimal Art branch."
+  },
+  "selection_quality": {
+    "improvement": "The empty corridor exposes the key wall/frame/void relationships at readable size without the original tree, visitors and unrelated outdoor sculpture.",
+    "remaining_distractions": "Small exit/fire-safety signs at the far end; they do not obscure the main rhythm or define the style."
+  },
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Langen_Foundation_3,_2021.jpg",
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Langen_Foundation_3%2C_2021.jpg/1280px-Langen_Foundation_3%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Langen_Foundation_3%2C_2021.jpg/1280px-Langen_Foundation_3%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "bytes": 485786,
+  "sha256": "1c1aed451bd76e4e576af315c43ecbdd6888620eb46a3399808ed060a67903d6",
+  "width": 1280,
+  "height": 1744,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "replaces_asset_id": "05-minimalism-01",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "A large foreground pine crosses the glass enclosure, the building occupies only part of the image and visitors/outdoor sculpture compete with the reduced volumes. The empty passage view makes planar wall, repeated frames and active void clearer.",
+    "current_view_basis": "A continuous plain concrete wall runs beside a transparent outer wall and glazed roof, leaving a long empty passage between them. Repeated slender vertical and overhead members establish a regular progression toward a small far opening. Strong linear frame shadows fall across the uncluttered floor and glass, making intervals and perspective depth easy to inspect. The main view contains no visitors, display sculptures, furniture groupings or foreground tree branches; attention rests on wall, frame, gap and light relationships.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "64530772e3d30809201b1a57757dcf06423b10be3abc7409b5dc9b54857f20ca"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

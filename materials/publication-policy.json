@@ -1,0 +1,358 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "distribution": "public-conservative",
+  "included_images": 9,
+  "withheld_images": 34,
+  "directions_with_images": 8,
+  "directions_without_images": 28,
+  "policy": "Exact bytes only; separate image and depicted-work basis; no automatic retrieval. Exclusion does not assert infringement.",
+  "assets": [
+    {
+      "asset_id": "01-bauhaus-03",
+      "local_path": "materials/images/01-bauhaus.jpg",
+      "sha256": "fd04f3661b8d65017de194474be53ff99a13af9a4ffb8938d754797fbd3c81b9",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "01-bauhaus-04",
+      "local_path": "materials/images/01-bauhaus-b3-chair.jpg",
+      "sha256": "d920741f9347ab33b85d6255e0c82e5c3d8dc838b7af83265231d46957a1b110",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "02-de-stijl-01",
+      "local_path": "materials/images/02-de-stijl.jpg",
+      "sha256": "952aff15a60f120c07670036b0cfa087d55df0c41c02652a11618b6e278added",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "03-swiss-style-01",
+      "local_path": "materials/images/03-swiss-style.jpg",
+      "sha256": "f1bff07d23e7645721bb88dbed0ac82910c7cad7bc265ce354b505da5d662f3b",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "03-swiss-style-02",
+      "local_path": "materials/images/03-swiss-style-musica-viva.jpg",
+      "sha256": "8644f5aac9220491e0b1b6ca8e5b1b899de5bf65e19267845f995fa508c3071e",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "04-modernism-01",
+      "local_path": "materials/images/04-modernism.jpg",
+      "sha256": "ef043d54f468f7ce929a8f2890459a44648e05409de109264b9e00a8b35f9e81",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "05-minimalism-02",
+      "local_path": "materials/images/05-minimalism-judd-stack.jpg",
+      "sha256": "b95db4a8d510664378eccf7f07b95538294a868c4eedc41177070cc5eeaa4fd2",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "05-minimalism-03",
+      "local_path": "materials/images/05-minimalism.jpg",
+      "sha256": "1c1aed451bd76e4e576af315c43ecbdd6888620eb46a3399808ed060a67903d6",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "06-mid-century-modern-01",
+      "local_path": "materials/images/06-mid-century-modern.jpg",
+      "sha256": "a23c3a8fe6c3a92b010c179258af7666c581cf8122ab465d4da649f5235a6344",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "07-song-dynasty-objects-01",
+      "local_path": "materials/images/07-song-dynasty-objects.jpg",
+      "sha256": "1a7b06c7e45d0ba399ee2c90c8ebfc1df8f7f766d7c9c916cbcc4ea9a16c2982",
+      "decision": "included",
+      "image_rights_basis": "Official object page shows Public Domain and Download Image; Open Access policy establishes CC0.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://www.metmuseum.org/art/collection/search/42457",
+        "https://www.metmuseum.org/hubs/open-access"
+      ]
+    },
+    {
+      "asset_id": "08-literati-ink-01",
+      "local_path": "materials/images/08-literati-ink.jpg",
+      "sha256": "8499b9616822c173e3be4ac370cbe9aa552117fe67946ebc9072337d0857e6a0",
+      "decision": "included",
+      "image_rights_basis": "The exact Met object page was rechecked on 2026-11-04 and explicitly marks the image Public Domain with a Download Image control; the Met Open Access policy applies to this public-domain image.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://www.metmuseum.org/art/collection/search/39654",
+        "https://www.metmuseum.org/hubs/open-access"
+      ]
+    },
+    {
+      "asset_id": "09-ming-style-01",
+      "local_path": "materials/images/09-ming-style.jpg",
+      "sha256": "909f104223cc9ed326a0ecf15fd27068c84c7806953a3b7dd02a3e3b220535fb",
+      "decision": "included",
+      "image_rights_basis": "The exact Met object page was rechecked on 2026-11-04 and explicitly marks the image Public Domain with a Download Image control; the Met Open Access policy applies to this public-domain image.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://www.metmuseum.org/art/collection/search/39493",
+        "https://www.metmuseum.org/hubs/open-access"
+      ]
+    },
+    {
+      "asset_id": "10-imperial-court-decoration-03",
+      "local_path": "materials/images/10-imperial-court-decoration-vase.jpg",
+      "sha256": "b3fad9082d1f6e7421f9afa0f4a1a246c8eb2f383b323a1dae6cdeb3229cc7b0",
+      "decision": "included",
+      "image_rights_basis": "The exact object page explicitly opens medium-resolution object images and text under CC BY 4.0 and supplies a public IIIF viewer/manifest. The published IIIF canvas identifies this exact PAB view. This package retains attribution and does not claim CC0 for the 938×1251 service variant.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://digitalarchive.npm.gov.tw/Collection/Detail/28657?dep=U",
+        "https://creativecommons.org/licenses/by/4.0/"
+      ]
+    },
+    {
+      "asset_id": "10-imperial-court-decoration-04",
+      "local_path": "materials/images/10-imperial-court-decoration-robe.jpg",
+      "sha256": "beee34feee3eeb6cdc55eee7341bfe0efde1ca264402604aea8876c8010c53e8",
+      "decision": "included",
+      "image_rights_basis": "The exact object page permits copying/modifying/distributing without permission and links CMA Open Access. Its public API identifies this accession’s share_license_status as CC0 and supplies the exact web image URL; CMA’s Open Access page explains that CC0 applies to designated public-domain artwork images.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://www.clevelandart.org/art/1983.32",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ]
+    },
+    {
+      "asset_id": "11-neo-chinese-02",
+      "local_path": "materials/images/11-neo-chinese-tsingpu-overview.jpg",
+      "sha256": "dfe8a923a9ba8676b8ed4b63fa5b10dafae62cfa8f0f469f8a6cb17f8fad3fe7",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "11-neo-chinese-03",
+      "local_path": "materials/images/11-neo-chinese-tsingpu-courtyard.jpg",
+      "sha256": "7225ae64c5c989bf5f614e66602eff5c9db3ccfc2e6628b747a41ac3b4249032",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "12-wabi-sabi-02",
+      "local_path": "materials/images/12-wabi-sabi-raku-bowl.jpg",
+      "sha256": "2bc6a8fa66beacceae4266da6f167249e918a477b1b33d710d2b4b3498aefde9",
+      "decision": "included",
+      "image_rights_basis": "The exact Met record marks the image Public Domain and records hand-forming and extended use. Raku Museum separately connects the emergence of Raku tea bowls to Sen Rikyū’s wabi aesthetics.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://www.metmuseum.org/art/collection/search/827671",
+        "https://www.metmuseum.org/hubs/open-access"
+      ]
+    },
+    {
+      "asset_id": "13-classical-01",
+      "local_path": "materials/images/13-classical.jpg",
+      "sha256": "8a6079ea0d895acf69c71b18de338b72d6ed58a0abf3aabaa3f63e3c9b0e4792",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "14-gothic-02",
+      "local_path": "materials/images/14-gothic-west-interior.jpg",
+      "sha256": "b95df26864e3ed729286efbf7fbbe95e90d0ca0dd863f0973fcf641b817e8eb3",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "15-renaissance-01",
+      "local_path": "materials/images/15-renaissance.jpg",
+      "sha256": "df527aa77db3a8b272aae3841e8c6a7ed48a23be480856fc721d67d326072458",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "16-baroque-01",
+      "local_path": "materials/images/16-baroque.jpg",
+      "sha256": "bb6e932fa60dc6ff29c87c314ab791277ed2e6797376a0577c41e36727df2d5d",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "17-rococo-01",
+      "local_path": "materials/images/17-rococo.jpg",
+      "sha256": "1a052ef7d439d6e6f38b0ebd938cddf6ae50bc955ae390421ca356ae59020461",
+      "decision": "included",
+      "image_rights_basis": "Object record explicitly marks selected image Public Domain and supplies Download Image; Met Open Access policy releases these images CC0.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://www.metmuseum.org/art/collection/search/195267",
+        "https://www.metmuseum.org/hubs/open-access"
+      ]
+    },
+    {
+      "asset_id": "18-neoclassical-01",
+      "local_path": "materials/images/18-neoclassical.jpg",
+      "sha256": "1e94724964175311ccd8d8598f09aa6e85af02c243c5496b7e4a307c39fb9291",
+      "decision": "included",
+      "image_rights_basis": "Exact record 841568's object number and primary-image caption both identify 1996.426.10; Public Domain and Download Image are explicit.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://www.metmuseum.org/art/collection/search/841568",
+        "https://www.metmuseum.org/hubs/open-access"
+      ]
+    },
+    {
+      "asset_id": "19-arts-and-crafts-01",
+      "local_path": "materials/images/19-arts-and-crafts.jpg",
+      "sha256": "b177e3f60dd84f3091c5e10b483906900817201d0217203302ffbb0dc8ba2f35",
+      "decision": "included",
+      "image_rights_basis": "The object page explicitly labels the image Public Domain and states that Open Access public-domain images are available for unrestricted commercial and noncommercial use without permission or fee.",
+      "depicted_work_basis": "Historical work identified and designated public domain by the source institution; the NPM historical Qing object is separately represented under the stated image/text CC BY 4.0 terms.",
+      "evidence_urls": [
+        "https://www.metmuseum.org/art/collection/search/222341",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ]
+    },
+    {
+      "asset_id": "20-nordic-01",
+      "local_path": "materials/images/20-nordic.jpg",
+      "sha256": "a7101deca8518d1ca4383efef054c10cf36d7d5822a5c689f44a67dbc7374cd4",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "21-japandi-01",
+      "local_path": "materials/images/21-japandi.jpg",
+      "sha256": "72581d9ef60a96d83e6074a2578f895488ba55daad4c16c36a975a4bdd08c997",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "21-japandi-02",
+      "local_path": "materials/images/21-japandi-kinuta-living.jpg",
+      "sha256": "874bab68e89a030269809c0a88297d1d96373a9276142c242f1c9fbf1dbf0827",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "22-industrial-02",
+      "local_path": "materials/images/22-industrial-lochal.jpg",
+      "sha256": "15009bca0c71a05699cdd435cb8d62597a41261d03ce873799517bd41d472ea6",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "23-mediterranean-02",
+      "local_path": "materials/images/23-mediterranean-oia-settlement.jpg",
+      "sha256": "02e3d6d90cda3d23129d03fcfe84362604260673dd30fb251eec1431aa44ab3d",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "24-bohemian-01",
+      "local_path": "materials/images/24-bohemian.jpg",
+      "sha256": "d4d22662bcc3fa92ce25171786b5ea87ee6d2b46081dc723a36a3e7826bf534d",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "25-art-nouveau-02",
+      "local_path": "materials/images/25-art-nouveau.jpg",
+      "sha256": "385f33bce096be8c146dd2e86b79c11d719307c82a9cdd9cbc52d3eb5b8b55de",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "26-art-deco-01",
+      "local_path": "materials/images/26-art-deco.jpg",
+      "sha256": "1230628896d6a20be60d8b4046f2ca4dfc138f950dc65c54491f5eeb4d6af4ec",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "27-memphis-01",
+      "local_path": "materials/images/27-memphis.jpg",
+      "sha256": "d80aedce2943aee818abecc46c1a49e2669e0d8090f14f1ed15e9904ce576373",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "28-pop-art-01",
+      "local_path": "materials/images/28-pop-art.jpg",
+      "sha256": "6e245b19c261071eaf0791ab402591bd03b7d53fb269e70db9f6f00fd2d13c0d",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "29-surrealism-01",
+      "local_path": "materials/images/29-surrealism.jpg",
+      "sha256": "3ebb88a267f97666fdd3dfa71fbed695481162f1f7ed70a298f41bac909b83d3",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "30-maximalism-02",
+      "local_path": "materials/images/30-maximalism.jpg",
+      "sha256": "b461a40b8c3d5dfdb0bf0292e56f99f163d7669146bd7aa9e42092be26b93fea",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "31-cyberpunk-01",
+      "local_path": "materials/images/31-cyberpunk.jpg",
+      "sha256": "339d6fbf91f29d5e0e3541b4a28cd0375e851c035bc17480af469d89888420f9",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "32-retrofuturism-03",
+      "local_path": "materials/images/32-retrofuturism-fallout.jpg",
+      "sha256": "9f62da6c8ab959546d31b8e09355922df34cbcff630d034ef33caa5acb014af0",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "33-y2k-01",
+      "local_path": "materials/images/33-y2k.jpg",
+      "sha256": "749be53ac1f7c2a7802b0a547717666008f7d8230985921922e99c424daf5c59",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "34-vaporwave-01",
+      "local_path": "materials/images/34-vaporwave.jpg",
+      "sha256": "a9d015dc4ab910aefce71dc3b027de8ed25735c86747cbd8c92db41077804c1f",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "35-steampunk-02",
+      "local_path": "materials/images/35-steampunk.jpg",
+      "sha256": "c8e7403093d5d3ff0f5495d7ded5940d0834813c950989cef7f1f4e39eb1e773",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "36-web-brutalism-01",
+      "local_path": "materials/images/36-web-brutalism.png",
+      "sha256": "4f5e0278c0bc2d4f54706cbb07a19292548e19abe20dd49cc9342a0da6de5d94",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "36-web-brutalism-03",
+      "local_path": "materials/images/36-web-brutalism-direct-web.png",
+      "sha256": "2f659d450ad742ddc77a2205ec5f185c7909ac23ee38331c5652548b09316ef3",
+      "decision": "withheld",
+      "reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    }
+  ]
+}

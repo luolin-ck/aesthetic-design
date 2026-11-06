@@ -1,0 +1,85 @@
+{
+  "object": "Guidelines for Brutalist Web Design — David Bryant Copeland, actual published first viewport",
+  "creator": "David Bryant Copeland",
+  "work_date": "Site colophon states published 2024-04-04; page last-updated label 2025-06-01; captured version 2026-11-05",
+  "photographer": "Viewport capture by the package maintainer using a real browser; underlying website by David Bryant Copeland",
+  "photo_date": "2026-11-05, 09:24 UTC",
+  "branch": "Explicitly authored content-first direct-document Web Brutalism",
+  "source_page": "https://brutalist-web.design/",
+  "identity_source": "https://brutalist-web.design/",
+  "image_url": "https://brutalist-web.design/",
+  "downloaded_from": "https://brutalist-web.design/",
+  "resolved_image_url": "https://brutalist-web.design/",
+  "local_path": "materials/images/36-web-brutalism-direct-web.png",
+  "claim_scope": "One visible viewport of an author-defined content-first direct-web implementation, compared with the separate neobrutalist branch. This is styled HTML, not an unstyled default page, a universal definition, or proof of site-wide behavior.",
+  "rights_category": "open_license",
+  "rights": "Underlying site states CC BY-NC-SA 4.0. Preserve attribution, noncommercial and share-alike terms; screenshot capture creates no broader rights.",
+  "rights_evidence": "The actual site's About section states that its content is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International and links the license. The local viewport reproduces that published page; it does not include the site's third-party architectural photograph or book artwork below this viewport.",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution": "David Bryant Copeland, Guidelines for Brutalist Web Design, https://brutalist-web.design/, CC BY-NC-SA 4.0. Unmodified actual browser viewport captured 5 November 2026 at 1440×900 CSS pixels; no local retouching or reconstructed DOM.",
+  "retrieval_method": "Playwright opened the actual public URL in a separate browser session and captured the 1440×900 first viewport at scale=css. No DOM/style replacement, offline reimplementation, access-control bypass or image generation.",
+  "image_transformation": "None after browser capture. This is the actual first viewport, not a full-page screenshot or a crop of an independently downloaded picture.",
+  "source_verification_scope": "Inspected the live page's text/snapshot, exact first-viewport screenshot, author-defined branch, published/updated labels, colophon and linked CC license. No live interaction or accessibility/performance testing.",
+  "observable_features": [
+    "A single broad document column is dominated by large black sans-serif headings, followed by a smaller subtitle and linked author/update line.",
+    "A seven-item square-bulleted list uses blue underlined serif hyperlinks as visible navigation rather than image tiles or card components.",
+    "A thin horizontal rule and a second large section heading continue the document hierarchy on a pale neutral background.",
+    "No portrait, news photograph, advertisement, subscription form, saturated component fields or heavy boxed UI competes with the document structure in this viewport."
+  ],
+  "limits": "A first viewport only: the rest of the published page contains a building photograph, example forms and a book promotion that are outside this capture. The site deliberately uses custom typography and CSS; do not call this screenshot browser-default or infer all direct Web Brutalism must use blue links, serif lists, large headings or this palette. No form controls are visible here. Author statements support this site's own design stance and colophon, not every web-brutalist designer's intent. A screenshot cannot prove keyboard operation, back behavior, DOM conformance, responsiveness, performance or the current appearance at another date/device.",
+  "association_evidence": [
+    {
+      "url": "https://brutalist-web.design/",
+      "supports": "The author titles and frames this actual site as Guidelines for Brutalist Web Design, prioritizes raw content, readable documents, recognizable hyperlinks and controls, and explicitly says the site does not use default styles. Its colophon states hand-authored HTML, initial publication 4 April 2024, custom styling and fonts; the page shows an update label of 1 June 2025 and a CC BY-NC-SA 4.0 license. The captured pixels, rather than the manifesto alone, supply the visible formal evidence."
+    },
+    {
+      "url": "https://www.nngroup.com/articles/brutalism-antidesign/",
+      "supports": "Kate Moran's 2017 article distinguishes bare direct-document Web Brutalism from Antidesign and discusses historical functional precursors separately from later intentional trends. It supplies branch-comparison context; it does not identify or endorse this later Copeland page."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "ordinary unstyled or legacy websites",
+      "Minimalism",
+      "Neobrutalism",
+      "Antidesign"
+    ],
+    "shared_appearances": "Reduced decoration and plain document navigation overlap with minimal and legacy pages; large type alone is also widespread.",
+    "discriminating_relationships": "Gumroad organizes a neobrutalist interface through heavy functional boundaries and flat color fields; the Copeland page uses a direct document hierarchy, exposed links and restrained chrome. These are distinct branches, not one mandatory recipe. A historical plain website or reduced palette alone does not establish deliberate Web Brutalism.",
+    "cannot_conclude": "This authored example illustrates one branch. A plain old page is not automatically contemporary Web Brutalism; the screenshot does not establish Antidesign, site-wide interaction quality, performance or a universal style recipe."
+  },
+  "selection_quality": {
+    "subject_visibility": "The actual page title, document hierarchy and all seven navigation links are readable at 1440×900.",
+    "unrelated_semantic_salience": "No news/political portraits, dramatic headlines, generic subscription card or photograph appears in the first viewport.",
+    "scope": "A representative authored direct-document branch only; retain Gumroad as a separate neobrutalist branch and do not merge their traits."
+  },
+  "asset_id": "36-web-brutalism-03",
+  "style_id": "36-web-brutalism",
+  "reference_role": "style_reference",
+  "bytes": 108089,
+  "sha256": "2f659d450ad742ddc77a2205ec5f185c7909ac23ee38331c5652548b09316ef3",
+  "width": 1440,
+  "height": 900,
+  "format": "PNG",
+  "content_type": "image/png",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "record_path": "materials/records/36-web-brutalism-03.json",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. The depicted work and image can have separate rights.",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "Large heading, smaller author/update line, seven blue underlined navigation links and a thin rule establish a readable direct document hierarchy. No photograph, advertisement or form is in this first viewport. It is explicitly authored custom styling, not assumed browser defaults.",
+    "current_view_basis": "Large heading, smaller author/update line, seven blue underlined navigation links and a thin rule establish a readable direct document hierarchy. No photograph, advertisement or form is in this first viewport. It is explicitly authored custom styling, not assumed browser defaults.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

@@ -1,0 +1,89 @@
+{
+  "style_id": "04-modernism",
+  "object": "Fagus Factory main building, Alfeld",
+  "creator": "Walter Gropius (UNESCO); Adolf Meyer may be documented separately",
+  "work_date": "Around 1910 design/start context per UNESCO; do not replace with a guessed exact completion date",
+  "photographer": "Carsten Janssen",
+  "photo_date": "2007-09-27 (Commons date)",
+  "branch": "Early functionalist industrial architecture / design modernism",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg",
+  "rights": "CC BY-SA 2.0 Germany",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+  "attribution": "Carsten Janssen / cc-by-sa-2.0-de",
+  "rights_evidence": "Commons licensing attribution plus VRT ticket 2012081210002732",
+  "identity_source": "https://whc.unesco.org/en/list/1368/",
+  "limits": "Factory facade demonstrates one architectural branch, not all modernist practices.",
+  "provider_metadata": {
+    "Artist": "Carsten Janssen",
+    "Credit": "Mike Reiss",
+    "DateTimeOriginal": "27 September 2007\n\nOriginal uploader was Mike Reiss at de.wikipedia",
+    "LicenseShortName": "CC BY-SA 2.0 de",
+    "LicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "AttributionRequired": "true",
+    "Copyrighted": "True",
+    "Restrictions": "",
+    "ImageDescription": "Das Fagus-Werk, Hauptgebäude (Frontale)"
+  },
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "04-modernism-01",
+  "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "resolved_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/04-modernism.jpg",
+  "record_path": "materials/records/04-modernism-01.json",
+  "bytes": 135421,
+  "sha256": "ef043d54f468f7ce929a8f2890459a44648e05409de109264b9e00a8b35f9e81",
+  "width": 1000,
+  "height": 600,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "style_name": "Modernism",
+  "observable_features": [
+    "Tall repeated window bays form a largely glazed upper facade between slender brick piers.",
+    "Glazing turns around the prominent corner instead of being enclosed by a massive solid corner block.",
+    "A long lower wing contrasts with the taller end volume, chimney and entrance block.",
+    "Straight roof edges, repeated bays and unadorned brick/glass surfaces organize the building's exterior."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "open_license",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Early functionalist industrial architecture / design modernism; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://whc.unesco.org/en/list/1368/",
+      "supports": "UNESCO identifies the Fagus Factory complex as designed around 1910 by Walter Gropius, relates its glass-panel functionalist industrial aesthetic to the development of modern architecture, and describes it as foreshadowing the Bauhaus school."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "01-bauhaus",
+      "05-minimalism"
+    ],
+    "shared_appearances": "Glazed bays and unornamented volumes also occur in Bauhaus and later architectural reduction.",
+    "discriminating_relationships": "Retain as early functionalist architecture. State the historical/broader-narrower relationship rather than inventing a glass-facade test that makes Modernism and Bauhaus mutually exclusive.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. Factory facade demonstrates one architectural branch, not all modernist practices."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The factory fills the frame with unblocked glazed corner, repeated bays, low wing and taller volume clearly separated. Twilight lighting is even enough to read brick/glass relationships; flags and chimney belong to the building setting and do not obscure the main construction language.",
+    "current_view_basis": "The factory fills the frame with unblocked glazed corner, repeated bays, low wing and taller volume clearly separated. Twilight lighting is even enough to read brick/glass relationships; flags and chimney belong to the building setting and do not obscure the main construction language.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

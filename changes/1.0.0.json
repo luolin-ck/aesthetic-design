@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "previous_version": null,
+  "released_on": "2026-11-06",
+  "changes": [
+    "Establish version/log/TDD maintenance",
+    "Enforce release metadata and publication boundaries",
+    "Create explicit private/public image availability",
+    "Scope original MIT and preserve third-party credits",
+    "Preserve chair embedded Artist credit without assuming role",
+    "Clarify four public coverage statements in place, separating the dated 43-image source collection from actual public 9/34/8/28 availability"
+  ],
+  "acceptance": [
+    "Unversioned release rejected",
+    "Six mutation tests pass",
+    "Both private/public offline validators pass",
+    "Public media equals nine exact rights-reviewed hashes",
+    "Four independent public coverage consumption points identify source-set scope and actual included availability"
+  ],
+  "red": {
+    "recorded_at": "2026-11-06T04:53:48.885543+00:00",
+    "case": "unversioned_baseline_must_be_rejected",
+    "actual_exit": 0,
+    "expected_exit": 1,
+    "detail": "Baseline validator incorrectly passed a package without VERSION and change records; the acceptance assertion exited 1."
+  },
+  "green": {
+    "actual_exit": 0,
+    "command": "python3 -B -m unittest discover -s tests -v",
+    "tests": 6,
+    "detail": "Six mutation tests passed after check_release implementation; full profile integrity results are in the human record."
+  },
+  "prepublication_corrections": [
+    {
+      "problem": "Four public coverage statements ambiguously described the historical 43-image source set as current public images",
+      "affected_public_paths": [
+        "materials/correspondence-review.md",
+        "materials/selection-review.md",
+        "materials/catalog.json",
+        "materials/selection-review.json"
+      ],
+      "source_collection_reviewed_on": "2026-11-05",
+      "source_image_count": 43,
+      "public_distribution": {
+        "included_images": 9,
+        "withheld_images": 34,
+        "directions_with_images": 8,
+        "directions_without_images": 28
+      },
+      "red": {
+        "recorded_at": "2026-11-06T05:23:45.166051+00:00",
+        "expected_exit": 0,
+        "actual_exit": 1,
+        "actual_public_counts": {
+          "included_images": 9,
+          "withheld_images": 34,
+          "directions_with_images": 8,
+          "directions_without_images": 28
+        },
+        "checks": {
+          "correspondence_source_scope": false,
+          "selection_source_scope": false,
+          "catalog_public_scope": false,
+          "selection_json_count_scope": false
+        }
+      },
+      "green": {
+        "recorded_at": "2026-11-06T05:24:22.037105+00:00",
+        "expected_exit": 0,
+        "actual_exit": 0,
+        "actual_public_counts": {
+          "included_images": 9,
+          "withheld_images": 34,
+          "directions_with_images": 8,
+          "directions_without_images": 28
+        },
+        "checks": {
+          "correspondence_source_scope": true,
+          "selection_source_scope": true,
+          "catalog_public_scope": true,
+          "selection_json_count_scope": true
+        }
+      }
+    }
+  ]
+}

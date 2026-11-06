@@ -1,0 +1,74 @@
+{
+  "style_id": "24-bohemian",
+  "object": "Justina Blakeney's Altadena living room",
+  "creator": "Justina Blakeney",
+  "work_date": "unknown",
+  "photographer": "unknown",
+  "photo_date": "unknown",
+  "branch": "Contemporary Jungalow/boho collected interior",
+  "source_page": "https://www.jungalow.com/jb-living-room",
+  "image_url": "https://images.squarespace-cdn.com/content/v1/67ef5bd2a15142064affc153/446db6a7-e351-4ffc-b6aa-9659b31d3369/IMG_5210.jpeg",
+  "rights": "The Jungalow LLC © 2026; All rights reserved; no open reuse license found",
+  "license_url": null,
+  "attribution": "Justina Blakeney's living room in Altadena, California. Published by Jungalow. Photographer and image date unknown.",
+  "rights_evidence": "Official room page describes the named home and displays the image; footer states The Jungalow LLC © 2026, All rights reserved.",
+  "identity_source": "https://www.jungalow.com/jb-living-room",
+  "limits": "This named contemporary collected interior does not establish the inhabitants' life history or the provenance of each object. Photographer and work/photo dates are not provided. The image alone does not establish chair mechanism, vintage status, cabinet function or textile technique.",
+  "observable_features": [
+    "A rounded brown lounge seat, a low white cabinet/surface and open shelving bring different furniture profiles into one room view.",
+    "A large blue patterned rug, yellow curtains, pink walls and a green disc-like chandelier repeat saturated color at different scales.",
+    "Mixed wall objects, a colorful square-pattern wall hanging and potted plants form an irregular display around the seating area."
+  ],
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "24-bohemian-01",
+  "downloaded_from": "https://images.squarespace-cdn.com/content/v1/67ef5bd2a15142064affc153/446db6a7-e351-4ffc-b6aa-9659b31d3369/IMG_5210.jpeg",
+  "resolved_image_url": "https://images.squarespace-cdn.com/content/v1/67ef5bd2a15142064affc153/446db6a7-e351-4ffc-b6aa-9659b31d3369/IMG_5210.jpeg",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/24-bohemian.jpg",
+  "record_path": "materials/records/24-bohemian-01.json",
+  "bytes": 1535203,
+  "sha256": "d4d22662bcc3fa92ce25171786b5ea87ee6d2b46081dc723a36a3e7826bf534d",
+  "width": 2500,
+  "height": 3333,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Contemporary Jungalow/boho collected interior; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.jungalow.com/jb-living-room",
+      "supports": "Jungalow identifies the published photographs as Justina Blakeney’s living room at her Altadena, California home and describes the room as eclectic and collected. This establishes the exact room and the publisher’s framing; object descriptions in this package are based on inspecting the photograph."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "Maximalism",
+      "eclectic modern interiors",
+      "Mid-Century Modern individual objects"
+    ],
+    "shared_appearances": "Layered textiles and heterogeneous objects can also produce Maximalist or eclectic rooms.",
+    "discriminating_relationships": "In this room, different furnishings, wall displays, textiles and plants connect through visible overlaps and repeated curves/colors. This supports the shown collected furnishing arrangement, while a Maximalist reading may coexist.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. This named contemporary collected interior does not establish the inhabitants' life history or the provenance of each object. Photographer and work/photo dates are not provided. The image alone does not establish chair mechanism, vintage status, cabinet function or textile technique."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "An actual inhabited-looking room shows varied furniture silhouettes, layered patterned textiles, asymmetrical wall objects and plants at readable size. The large chandelier is part of its designed layered composition, not a foreign obstruction. This is a Jungalow/boho interior branch, with maximalist overlap.",
+    "current_view_basis": "An actual inhabited-looking room shows varied furniture silhouettes, layered patterned textiles, asymmetrical wall objects and plants at readable size. The large chandelier is part of its designed layered composition, not a foreign obstruction. This is a Jungalow/boho interior branch, with maximalist overlap.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

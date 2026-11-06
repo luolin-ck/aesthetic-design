@@ -1,0 +1,1135 @@
+{
+  "schema_version": 3,
+  "assembled_on": "2026-11-04",
+  "scope": "File integrity, local-reference coverage and role partitions only; not certification of historical identity, style accuracy or usage rights. Manifest excludes itself.",
+  "style_count": 36,
+  "asset_count": 43,
+  "translation_pairs": [
+    {
+      "original": "CHANGELOG.md",
+      "translation": "CHANGELOG.zh-CN.md"
+    },
+    {
+      "original": "MAINTENANCE.md",
+      "translation": "MAINTENANCE.zh-CN.md"
+    },
+    {
+      "original": "README.md",
+      "translation": "README.zh-CN.md"
+    },
+    {
+      "original": "SKILL.md",
+      "translation": "SKILL.zh-CN.md"
+    },
+    {
+      "original": "THIRD_PARTY_NOTICES.md",
+      "translation": "THIRD_PARTY_NOTICES.zh-CN.md"
+    },
+    {
+      "original": "changes/1.0.0.md",
+      "translation": "changes/1.0.0.zh-CN.md"
+    },
+    {
+      "original": "references/01-rational-modern/01-bauhaus.md",
+      "translation": "references/01-rational-modern/01-bauhaus.zh-CN.md"
+    },
+    {
+      "original": "references/01-rational-modern/02-de-stijl.md",
+      "translation": "references/01-rational-modern/02-de-stijl.zh-CN.md"
+    },
+    {
+      "original": "references/01-rational-modern/03-swiss-style.md",
+      "translation": "references/01-rational-modern/03-swiss-style.zh-CN.md"
+    },
+    {
+      "original": "references/01-rational-modern/04-modernism.md",
+      "translation": "references/01-rational-modern/04-modernism.zh-CN.md"
+    },
+    {
+      "original": "references/01-rational-modern/05-minimalism.md",
+      "translation": "references/01-rational-modern/05-minimalism.zh-CN.md"
+    },
+    {
+      "original": "references/01-rational-modern/06-mid-century-modern.md",
+      "translation": "references/01-rational-modern/06-mid-century-modern.zh-CN.md"
+    },
+    {
+      "original": "references/02-eastern-traditions/07-song-dynasty-objects.md",
+      "translation": "references/02-eastern-traditions/07-song-dynasty-objects.zh-CN.md"
+    },
+    {
+      "original": "references/02-eastern-traditions/08-literati-ink.md",
+      "translation": "references/02-eastern-traditions/08-literati-ink.zh-CN.md"
+    },
+    {
+      "original": "references/02-eastern-traditions/09-ming-style.md",
+      "translation": "references/02-eastern-traditions/09-ming-style.zh-CN.md"
+    },
+    {
+      "original": "references/02-eastern-traditions/10-imperial-court-decoration.md",
+      "translation": "references/02-eastern-traditions/10-imperial-court-decoration.zh-CN.md"
+    },
+    {
+      "original": "references/02-eastern-traditions/11-neo-chinese.md",
+      "translation": "references/02-eastern-traditions/11-neo-chinese.zh-CN.md"
+    },
+    {
+      "original": "references/02-eastern-traditions/12-wabi-sabi.md",
+      "translation": "references/02-eastern-traditions/12-wabi-sabi.zh-CN.md"
+    },
+    {
+      "original": "references/03-western-classics/13-classical.md",
+      "translation": "references/03-western-classics/13-classical.zh-CN.md"
+    },
+    {
+      "original": "references/03-western-classics/14-gothic.md",
+      "translation": "references/03-western-classics/14-gothic.zh-CN.md"
+    },
+    {
+      "original": "references/03-western-classics/15-renaissance.md",
+      "translation": "references/03-western-classics/15-renaissance.zh-CN.md"
+    },
+    {
+      "original": "references/03-western-classics/16-baroque.md",
+      "translation": "references/03-western-classics/16-baroque.zh-CN.md"
+    },
+    {
+      "original": "references/03-western-classics/17-rococo.md",
+      "translation": "references/03-western-classics/17-rococo.zh-CN.md"
+    },
+    {
+      "original": "references/03-western-classics/18-neoclassical.md",
+      "translation": "references/03-western-classics/18-neoclassical.zh-CN.md"
+    },
+    {
+      "original": "references/04-materials-and-everyday-life/19-arts-and-crafts.md",
+      "translation": "references/04-materials-and-everyday-life/19-arts-and-crafts.zh-CN.md"
+    },
+    {
+      "original": "references/04-materials-and-everyday-life/20-nordic.md",
+      "translation": "references/04-materials-and-everyday-life/20-nordic.zh-CN.md"
+    },
+    {
+      "original": "references/04-materials-and-everyday-life/21-japandi.md",
+      "translation": "references/04-materials-and-everyday-life/21-japandi.zh-CN.md"
+    },
+    {
+      "original": "references/04-materials-and-everyday-life/22-industrial.md",
+      "translation": "references/04-materials-and-everyday-life/22-industrial.zh-CN.md"
+    },
+    {
+      "original": "references/04-materials-and-everyday-life/23-mediterranean.md",
+      "translation": "references/04-materials-and-everyday-life/23-mediterranean.zh-CN.md"
+    },
+    {
+      "original": "references/04-materials-and-everyday-life/24-bohemian.md",
+      "translation": "references/04-materials-and-everyday-life/24-bohemian.zh-CN.md"
+    },
+    {
+      "original": "references/05-decoration-and-experimentation/25-art-nouveau.md",
+      "translation": "references/05-decoration-and-experimentation/25-art-nouveau.zh-CN.md"
+    },
+    {
+      "original": "references/05-decoration-and-experimentation/26-art-deco.md",
+      "translation": "references/05-decoration-and-experimentation/26-art-deco.zh-CN.md"
+    },
+    {
+      "original": "references/05-decoration-and-experimentation/27-memphis.md",
+      "translation": "references/05-decoration-and-experimentation/27-memphis.zh-CN.md"
+    },
+    {
+      "original": "references/05-decoration-and-experimentation/28-pop-art.md",
+      "translation": "references/05-decoration-and-experimentation/28-pop-art.zh-CN.md"
+    },
+    {
+      "original": "references/05-decoration-and-experimentation/29-surrealism.md",
+      "translation": "references/05-decoration-and-experimentation/29-surrealism.zh-CN.md"
+    },
+    {
+      "original": "references/05-decoration-and-experimentation/30-maximalism.md",
+      "translation": "references/05-decoration-and-experimentation/30-maximalism.zh-CN.md"
+    },
+    {
+      "original": "references/06-digital-and-futures/31-cyberpunk.md",
+      "translation": "references/06-digital-and-futures/31-cyberpunk.zh-CN.md"
+    },
+    {
+      "original": "references/06-digital-and-futures/32-retrofuturism.md",
+      "translation": "references/06-digital-and-futures/32-retrofuturism.zh-CN.md"
+    },
+    {
+      "original": "references/06-digital-and-futures/33-y2k.md",
+      "translation": "references/06-digital-and-futures/33-y2k.zh-CN.md"
+    },
+    {
+      "original": "references/06-digital-and-futures/34-vaporwave.md",
+      "translation": "references/06-digital-and-futures/34-vaporwave.zh-CN.md"
+    },
+    {
+      "original": "references/06-digital-and-futures/35-steampunk.md",
+      "translation": "references/06-digital-and-futures/35-steampunk.zh-CN.md"
+    },
+    {
+      "original": "references/06-digital-and-futures/36-web-brutalism.md",
+      "translation": "references/06-digital-and-futures/36-web-brutalism.zh-CN.md"
+    },
+    {
+      "original": "references/README.md",
+      "translation": "references/README.zh-CN.md"
+    },
+    {
+      "original": "scripts/validate_offline.py",
+      "translation": "scripts/validate_offline.zh-CN.py"
+    }
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 51,
+      "sha256": "ac5446ace55330f947e05586537fca151e110b79e000cd34d3948cd118d5e658"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 897,
+      "sha256": "9513820a1b45b917eaddc4d44f1a9a0d961259bfc4a86e7e0559ed48d5c5c987"
+    },
+    {
+      "path": "CHANGELOG.zh-CN.md",
+      "bytes": 754,
+      "sha256": "083d1587021a5d2b7bbbbc0660cf637c44a30048cee5fa5a2ac2bb160f9e6c59"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1086,
+      "sha256": "ca9d1e315e44131df01ba0cd51d9c5b1549d6b5501eb1f4e36329abf5c8f6604"
+    },
+    {
+      "path": "MAINTENANCE.md",
+      "bytes": 3612,
+      "sha256": "2ccc20d5891a6e68a931fbc2b5bd7e528a836295221f256437becee6f839c8d7"
+    },
+    {
+      "path": "MAINTENANCE.zh-CN.md",
+      "bytes": 3206,
+      "sha256": "d491c864c4da6272c4d5d2ecb13d9ce8ba9e644e49dbdd245c52e5c2744a2353"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8317,
+      "sha256": "b9bfade159b3a4458a6697aa15963d5f9aded31d7f1e65b09b81aac2519454f3"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "bytes": 7156,
+      "sha256": "a7af4daefcfce702bfb27b4511cd9463067abb3c2f7f06857d93c1fd2f8c7343"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 31996,
+      "sha256": "d224f909593c27fc4730bafea2f3f5a0f1135bf30781920f07f324804fe1b35b"
+    },
+    {
+      "path": "SKILL.zh-CN.md",
+      "bytes": 26960,
+      "sha256": "3a5fc4347a26c76409aa5e4723004232128806950e1e367078ec3d014c3ed446"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 2664,
+      "sha256": "ea2e2d8e6bc30dc4b2dedf9b72309b21fb2660dacbbc2382c726144097cdcad8"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.zh-CN.md",
+      "bytes": 2140,
+      "sha256": "430c4893e7a13efe690ae7fcbaaab44858fc75eb6bc3b0ab81c3333b3c6d13e4"
+    },
+    {
+      "path": "VERSION",
+      "bytes": 6,
+      "sha256": "59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03"
+    },
+    {
+      "path": "changes/1.0.0.json",
+      "bytes": 3135,
+      "sha256": "74ed66ca15262695564a4f9729f00b9e1caa290c28d48538c864d0a0fb41431a"
+    },
+    {
+      "path": "changes/1.0.0.md",
+      "bytes": 4664,
+      "sha256": "ed807597a911e88282431c40550575d801a375b1a32922be23e0b41c27c45282"
+    },
+    {
+      "path": "changes/1.0.0.zh-CN.md",
+      "bytes": 3891,
+      "sha256": "352ca1f03aa06c3a1cbf7811245980e84d5e08ba159d554541aa1b61a49e1feb"
+    },
+    {
+      "path": "materials/README.md",
+      "bytes": 7916,
+      "sha256": "d5e459a797c8b6335dfa90d0e045a13046b7846e79a4e09a6dfad7fdff6b795b"
+    },
+    {
+      "path": "materials/catalog.json",
+      "bytes": 39985,
+      "sha256": "d6c2d30122c70fdfd4d75a1185cd7827155e17dd1ad7436ea903a9d12136a44e"
+    },
+    {
+      "path": "materials/correspondence-review.md",
+      "bytes": 29695,
+      "sha256": "8d894004353d0d412d893898e05e574414e261104453060edcab105892397e9d"
+    },
+    {
+      "path": "materials/images/07-song-dynasty-objects.jpg",
+      "bytes": 87587,
+      "sha256": "1a7b06c7e45d0ba399ee2c90c8ebfc1df8f7f766d7c9c916cbcc4ea9a16c2982"
+    },
+    {
+      "path": "materials/images/08-literati-ink.jpg",
+      "bytes": 2595248,
+      "sha256": "8499b9616822c173e3be4ac370cbe9aa552117fe67946ebc9072337d0857e6a0"
+    },
+    {
+      "path": "materials/images/09-ming-style.jpg",
+      "bytes": 4195861,
+      "sha256": "909f104223cc9ed326a0ecf15fd27068c84c7806953a3b7dd02a3e3b220535fb"
+    },
+    {
+      "path": "materials/images/10-imperial-court-decoration-robe.jpg",
+      "bytes": 884189,
+      "sha256": "beee34feee3eeb6cdc55eee7341bfe0efde1ca264402604aea8876c8010c53e8"
+    },
+    {
+      "path": "materials/images/10-imperial-court-decoration-vase.jpg",
+      "bytes": 125556,
+      "sha256": "b3fad9082d1f6e7421f9afa0f4a1a246c8eb2f383b323a1dae6cdeb3229cc7b0"
+    },
+    {
+      "path": "materials/images/12-wabi-sabi-raku-bowl.jpg",
+      "bytes": 131774,
+      "sha256": "2bc6a8fa66beacceae4266da6f167249e918a477b1b33d710d2b4b3498aefde9"
+    },
+    {
+      "path": "materials/images/17-rococo.jpg",
+      "bytes": 199033,
+      "sha256": "1a052ef7d439d6e6f38b0ebd938cddf6ae50bc955ae390421ca356ae59020461"
+    },
+    {
+      "path": "materials/images/18-neoclassical.jpg",
+      "bytes": 120297,
+      "sha256": "1e94724964175311ccd8d8598f09aa6e85af02c243c5496b7e4a307c39fb9291"
+    },
+    {
+      "path": "materials/images/19-arts-and-crafts.jpg",
+      "bytes": 625281,
+      "sha256": "b177e3f60dd84f3091c5e10b483906900817201d0217203302ffbb0dc8ba2f35"
+    },
+    {
+      "path": "materials/provenance-and-rights.md",
+      "bytes": 6015,
+      "sha256": "5f75bbb0bc14d7dd671e23e89dea45597a54135b587ef66256a4a59b1cd0d6cc"
+    },
+    {
+      "path": "materials/publication-policy.json",
+      "bytes": 20851,
+      "sha256": "fde680736cfc4124667deb837c1ccd70b0652df25b97dcafffb30591d7ee3089"
+    },
+    {
+      "path": "materials/records/01-bauhaus-03.json",
+      "bytes": 8514,
+      "sha256": "5cc699502ae719e078e8a56e140493365c8ee151d01589177f997bf7eba5b6f5"
+    },
+    {
+      "path": "materials/records/01-bauhaus-04.json",
+      "bytes": 8008,
+      "sha256": "918e49b15827d656f21a537ef34932e0d11a169bdd67dc889b05643815b2f196"
+    },
+    {
+      "path": "materials/records/02-de-stijl-01.json",
+      "bytes": 7071,
+      "sha256": "297f08e3ae2e0558c30a18b00dcf6a763524a4bd2962a4af6e8cbf131214bbf3"
+    },
+    {
+      "path": "materials/records/03-swiss-style-01.json",
+      "bytes": 7399,
+      "sha256": "07052869670dc6fd75f97c0d0dd20419081d0b331658ed6276b0ec4a658cbdcc"
+    },
+    {
+      "path": "materials/records/03-swiss-style-02.json",
+      "bytes": 6444,
+      "sha256": "f0b3c6116f749df69afad69d00a7ddac8f563c774d9c40d4b0e285763258e8c5"
+    },
+    {
+      "path": "materials/records/04-modernism-01.json",
+      "bytes": 6738,
+      "sha256": "16b0ea68696b6531eff3cc32b38f48e54b91c64a8f9971b115ddb3430a1d71cf"
+    },
+    {
+      "path": "materials/records/05-minimalism-02.json",
+      "bytes": 6349,
+      "sha256": "d35c80fd252d66da50e97bd23774f5935b8558862495d33adc449eca9bdf83fa"
+    },
+    {
+      "path": "materials/records/05-minimalism-03.json",
+      "bytes": 8630,
+      "sha256": "1a54baeb0c47ec2ecdd04b211a72477e540f0cf8e57e345d3ca927e32b638b0a"
+    },
+    {
+      "path": "materials/records/06-mid-century-modern-01.json",
+      "bytes": 6469,
+      "sha256": "c0e0c8f0799acfca131e2b7b5d36d081434de32914767389fd1ff9cfab254016"
+    },
+    {
+      "path": "materials/records/07-song-dynasty-objects-01.json",
+      "bytes": 6087,
+      "sha256": "ed693e7b3e1443ec87457f8033ed79d1163106cd6ca71e364b766f63bd09b5cb"
+    },
+    {
+      "path": "materials/records/08-literati-ink-01.json",
+      "bytes": 6279,
+      "sha256": "d5aedd85a2b12e9a22eb794d07be6f8703516db93076eedadb4d574c495438ab"
+    },
+    {
+      "path": "materials/records/09-ming-style-01.json",
+      "bytes": 6240,
+      "sha256": "4e91e325a0bc92774ca71dc0732836d9bbce2d50e02011a57bcf65e8988c90f4"
+    },
+    {
+      "path": "materials/records/10-imperial-court-decoration-03.json",
+      "bytes": 7380,
+      "sha256": "31dfec91dd5b974cd48a5916e09fa271ece208f65907d2556cdca61565bffdaf"
+    },
+    {
+      "path": "materials/records/10-imperial-court-decoration-04.json",
+      "bytes": 9000,
+      "sha256": "24a4ef04ce8fb3a8c75dc79bf36504f6825449a0dfe910cf093cf9831b545af9"
+    },
+    {
+      "path": "materials/records/11-neo-chinese-02.json",
+      "bytes": 6680,
+      "sha256": "8d53975a04f104548217b6a34aba455c18cfb215eff55e81aebf09afff7d05e2"
+    },
+    {
+      "path": "materials/records/11-neo-chinese-03.json",
+      "bytes": 6623,
+      "sha256": "64cd95132ce2d322fa8d748b8626a8bb2f5ae3fa4759a8f243867ee96da66662"
+    },
+    {
+      "path": "materials/records/12-wabi-sabi-02.json",
+      "bytes": 6916,
+      "sha256": "ecfedeb5091840e66cd993c90b21f6059e6ec5744a9b5759e6d244a20d6e9a28"
+    },
+    {
+      "path": "materials/records/13-classical-01.json",
+      "bytes": 7153,
+      "sha256": "f0b2efe89b59aad07774854016d642a4c2785f758b7f089e843d66e25707ba38"
+    },
+    {
+      "path": "materials/records/14-gothic-02.json",
+      "bytes": 7981,
+      "sha256": "6a5aef9e497ad3422102f3cc41b8bd48e6b53fcf2bc71797583690fbe00a8407"
+    },
+    {
+      "path": "materials/records/15-renaissance-01.json",
+      "bytes": 9255,
+      "sha256": "6fd7374d978be9d48a8d2e35ce235a7f7364d5426d9a8d05697b66b196d59a74"
+    },
+    {
+      "path": "materials/records/16-baroque-01.json",
+      "bytes": 8066,
+      "sha256": "48f04e82919341d60203c276084ac0351dadf68767bc72b6d9aa34d08eb7e074"
+    },
+    {
+      "path": "materials/records/17-rococo-01.json",
+      "bytes": 6069,
+      "sha256": "d020cd4fd4b4c407c673ffd57c91d25791351d268f07ead269a877310be843e9"
+    },
+    {
+      "path": "materials/records/18-neoclassical-01.json",
+      "bytes": 6497,
+      "sha256": "0f69d127fe3e459bc0b539f2960323bc738aae88dc2c4c869e8f5f8ec25bf359"
+    },
+    {
+      "path": "materials/records/19-arts-and-crafts-01.json",
+      "bytes": 5306,
+      "sha256": "3ae0e82f4cfbef50333334ca871f0a76a4fa64db70482841cda83ae7aa8794ab"
+    },
+    {
+      "path": "materials/records/20-nordic-01.json",
+      "bytes": 8224,
+      "sha256": "26ec9fbaa7b90dd4aa97e38bb0a5eae14c344caaad25c21cf92ec6a3628878e3"
+    },
+    {
+      "path": "materials/records/21-japandi-01.json",
+      "bytes": 6531,
+      "sha256": "a6830796867400ab31dff1c34f3166c104a65a802d9430f11ad237626613f10b"
+    },
+    {
+      "path": "materials/records/21-japandi-02.json",
+      "bytes": 6477,
+      "sha256": "838a8043d770929bed2f77534d0015ca1d26f836e6052181c9fe03f1fb427138"
+    },
+    {
+      "path": "materials/records/22-industrial-02.json",
+      "bytes": 8036,
+      "sha256": "dfeb5d7a094c5542507489c9a54e3ed0f854b0711adb54ee8addb319c90ff833"
+    },
+    {
+      "path": "materials/records/23-mediterranean-02.json",
+      "bytes": 8514,
+      "sha256": "e8606b2e3b5b4e4e8c2e8c8f21378e00138a4b02e501c5621fc3ee18063c32c0"
+    },
+    {
+      "path": "materials/records/24-bohemian-01.json",
+      "bytes": 6191,
+      "sha256": "5642d3ff538e3ed6d8e28a917916b7423131c3385a72f4a295c6908234edb420"
+    },
+    {
+      "path": "materials/records/25-art-nouveau-02.json",
+      "bytes": 7628,
+      "sha256": "b6f4e73d01257a707e4379aa913b317c322700514d8305e73d18320336dfaf2a"
+    },
+    {
+      "path": "materials/records/26-art-deco-01.json",
+      "bytes": 6900,
+      "sha256": "4c3446f954cbbfc36bfca19db6253861c2ea2c52070a2d45259da1f2c8c6a08b"
+    },
+    {
+      "path": "materials/records/27-memphis-01.json",
+      "bytes": 7058,
+      "sha256": "d21cc7d5c3a7c7e371c51f0ddbe264a32f279303c07c0dc2b3c6bb96512ef26c"
+    },
+    {
+      "path": "materials/records/28-pop-art-01.json",
+      "bytes": 5996,
+      "sha256": "e2c75ea9c8162acdc48ce2071148648bc60d7fcb379ed49661d456c9a0b78f22"
+    },
+    {
+      "path": "materials/records/29-surrealism-01.json",
+      "bytes": 5521,
+      "sha256": "5c662f03c8d5ef5a7d1c767f086e8aae0519a10d098663fb1753f564753299bf"
+    },
+    {
+      "path": "materials/records/30-maximalism-02.json",
+      "bytes": 8408,
+      "sha256": "ec1aa383d7b7db3c179e6c7f1799bf8f698c8874873a4026db2844994c52f9f3"
+    },
+    {
+      "path": "materials/records/31-cyberpunk-01.json",
+      "bytes": 6083,
+      "sha256": "7cfe15424d387b4cf5b697262a9049ef7864b9f93e45bc15f12b886019eb454b"
+    },
+    {
+      "path": "materials/records/32-retrofuturism-03.json",
+      "bytes": 8950,
+      "sha256": "6453a846ce72a4d3cdf15a03a330200a0f862e0d714e9259663b4b1a40ca9892"
+    },
+    {
+      "path": "materials/records/33-y2k-01.json",
+      "bytes": 7841,
+      "sha256": "2655e516ebcd07bb0dc995f7f91e7dd756a12ab2ab4ad53687e41ddd59672850"
+    },
+    {
+      "path": "materials/records/34-vaporwave-01.json",
+      "bytes": 6850,
+      "sha256": "d8b2a01aceda537cb7100045fd52287cbf69c683c4f44441a6bcdc792dd910ec"
+    },
+    {
+      "path": "materials/records/35-steampunk-02.json",
+      "bytes": 7313,
+      "sha256": "83d1fb9b9ffce422c7c84a4e4df4f44be6286d191c02eea8fdac774c47c4b99b"
+    },
+    {
+      "path": "materials/records/36-web-brutalism-01.json",
+      "bytes": 6380,
+      "sha256": "99b81b5026af8c0bc323783c7921a8986684caca08b64fc18f62c2c12fd73855"
+    },
+    {
+      "path": "materials/records/36-web-brutalism-03.json",
+      "bytes": 8521,
+      "sha256": "68b8b1e66a553ed17a7a5daef871ca29c0dcd8a3efed89b692af4a1dc85bf264"
+    },
+    {
+      "path": "materials/selection-review.json",
+      "bytes": 49938,
+      "sha256": "60d4921ee104b664a046aab39d580993b6a33c7aa4341386c7788794de2f570c"
+    },
+    {
+      "path": "materials/selection-review.md",
+      "bytes": 23667,
+      "sha256": "7adfbb04b07293ba1aeeeb5d991bb609ef16916dc20f76581684fcd2de8fb8c1"
+    },
+    {
+      "path": "materials/styles/01-bauhaus.md",
+      "bytes": 8644,
+      "sha256": "5645b582a11dfc3fcacfc0f10c734c4ba224230090f1107710cb4fd5150a2ab2"
+    },
+    {
+      "path": "materials/styles/02-de-stijl.md",
+      "bytes": 3942,
+      "sha256": "dfdc781f6b221e0601c8ff7d68f879a6484271d9f6c8dde9bd3da62835555d72"
+    },
+    {
+      "path": "materials/styles/03-swiss-style.md",
+      "bytes": 7115,
+      "sha256": "e90d4ef1ec824b3e3bac1fe0422809c754292ad4742f47027bbb66c6d23ca1a1"
+    },
+    {
+      "path": "materials/styles/04-modernism.md",
+      "bytes": 3770,
+      "sha256": "0cec0b78c26f442df1337f6932031bcf6e2f0fdc1a9ba78fb145aa8f9827f461"
+    },
+    {
+      "path": "materials/styles/05-minimalism.md",
+      "bytes": 7552,
+      "sha256": "cbd1c679caf560998e14d09051828a46db371d1f5ed0d6a8f4b2a46f790f8643"
+    },
+    {
+      "path": "materials/styles/06-mid-century-modern.md",
+      "bytes": 4028,
+      "sha256": "8f8a354d003bbc99b5c63bffd04a8c44d323871c8ae6efe3de9027f246b406a0"
+    },
+    {
+      "path": "materials/styles/07-song-dynasty-objects.md",
+      "bytes": 4282,
+      "sha256": "229e1277905275c4d6b50181782b15f753f08497488f5084f3c7bb9e73ff14e3"
+    },
+    {
+      "path": "materials/styles/08-literati-ink.md",
+      "bytes": 3885,
+      "sha256": "aee059fba8113a892a3af69a0e018dec27e95c866276c14293020dcf494a0d8d"
+    },
+    {
+      "path": "materials/styles/09-ming-style.md",
+      "bytes": 4012,
+      "sha256": "60756b1e89ac13c0d417437b853b885cac95f941b29ba1792f2fd144fdc261cf"
+    },
+    {
+      "path": "materials/styles/10-imperial-court-decoration.md",
+      "bytes": 9065,
+      "sha256": "5d4f537fcdbdd8eea53386086a0942b675fb74706c78d4d265b0caceb638d814"
+    },
+    {
+      "path": "materials/styles/11-neo-chinese.md",
+      "bytes": 7398,
+      "sha256": "2cbace94019179ba3ff81721860c2a31ba925fbb3d6ab328fc308d9cabd7d904"
+    },
+    {
+      "path": "materials/styles/12-wabi-sabi.md",
+      "bytes": 4659,
+      "sha256": "4d5d39866cce046f748123cea54c6fa6747fc940a0847d8c9abc98917cef9e9c"
+    },
+    {
+      "path": "materials/styles/13-classical.md",
+      "bytes": 4178,
+      "sha256": "15362c3fa5e42bbf3f117ff766fe8936694a93a7b00a160b5f69574c3871df94"
+    },
+    {
+      "path": "materials/styles/14-gothic.md",
+      "bytes": 5166,
+      "sha256": "3d4efbf2ebe5bd66ec9a7bd0b43c3f8e5198f3ae0b7a029eb1b6902d917658f6"
+    },
+    {
+      "path": "materials/styles/15-renaissance.md",
+      "bytes": 5211,
+      "sha256": "2edf212fb37233b333f2c4a91f76f7e5cccfb8f8b0b8783eb08d00e5a20a1a86"
+    },
+    {
+      "path": "materials/styles/16-baroque.md",
+      "bytes": 4192,
+      "sha256": "383d4b2464979bd023f52e2e98cb61672d274ebd166784c6d2308ca204af4543"
+    },
+    {
+      "path": "materials/styles/17-rococo.md",
+      "bytes": 4075,
+      "sha256": "c9f047701cff4d766b96a9de48539d6eb2945bfe1247211c1825bcf6f6138cb2"
+    },
+    {
+      "path": "materials/styles/18-neoclassical.md",
+      "bytes": 4378,
+      "sha256": "23beca6041c4c66fc0709481217efb91e439f5ec949eaca00309e3ebcfea00d1"
+    },
+    {
+      "path": "materials/styles/19-arts-and-crafts.md",
+      "bytes": 3625,
+      "sha256": "a0bb5133602ffe88813b07ccda9ba1fd96ac992617fd45203f8f3054afd651ef"
+    },
+    {
+      "path": "materials/styles/20-nordic.md",
+      "bytes": 5037,
+      "sha256": "84445b4d74d22be56a42ca07220c5c26c6b1aed4f698e8e9247148eca58983d7"
+    },
+    {
+      "path": "materials/styles/21-japandi.md",
+      "bytes": 6952,
+      "sha256": "f9710b360803ef44965e252d588df2c429a93704d70ad1862a4655377237eb5a"
+    },
+    {
+      "path": "materials/styles/22-industrial.md",
+      "bytes": 5807,
+      "sha256": "89b6280abf0be84e3fdc93bdd595cb88044f6b54f1e5e4c6fc8c0b234cded376"
+    },
+    {
+      "path": "materials/styles/23-mediterranean.md",
+      "bytes": 5587,
+      "sha256": "93696fb31e25d9b4531889f192c8b7fd5352dbdeec6a3f5152254f55564abb3a"
+    },
+    {
+      "path": "materials/styles/24-bohemian.md",
+      "bytes": 3993,
+      "sha256": "e038b7fb05d0ce4cc2962a5ed44447a1eaa4bed9874b614fb39c1978a91ee807"
+    },
+    {
+      "path": "materials/styles/25-art-nouveau.md",
+      "bytes": 4876,
+      "sha256": "82f1cb56be09c2131d808a1f5ba8ccabf8cd95c75f7e70f32e139f3989867b1b"
+    },
+    {
+      "path": "materials/styles/26-art-deco.md",
+      "bytes": 3817,
+      "sha256": "a498bcdca541c9ca5e18972aed2d44c45defeacf38d1ce051aa22672faed33f6"
+    },
+    {
+      "path": "materials/styles/27-memphis.md",
+      "bytes": 3933,
+      "sha256": "e0cc05adf0a5da088f079b1b0ec3e575ab57b02dd207b35a9f69f60fc1d58152"
+    },
+    {
+      "path": "materials/styles/28-pop-art.md",
+      "bytes": 3869,
+      "sha256": "c9931ae094198bf7b53c7f9d3b708cc281d0084393aa8e87a11f24a1d817a5bc"
+    },
+    {
+      "path": "materials/styles/29-surrealism.md",
+      "bytes": 3645,
+      "sha256": "0ee7084bd83e518c29ff7687b6010c7ccc296354af6a98310f303e2a1b0044f8"
+    },
+    {
+      "path": "materials/styles/30-maximalism.md",
+      "bytes": 6000,
+      "sha256": "835d9c1c35defc6a738dc9702950425703d01b68ecd3028a64f6880adc8496f7"
+    },
+    {
+      "path": "materials/styles/31-cyberpunk.md",
+      "bytes": 3915,
+      "sha256": "4c15c66a30bd4c033384c211b335640f03bd935b6cb31af0738ef7b7d688cf96"
+    },
+    {
+      "path": "materials/styles/32-retrofuturism.md",
+      "bytes": 6120,
+      "sha256": "f2e98b61ab9a90d6bb4f3f1da78b030130864ccce6d0602156019a21bc91068a"
+    },
+    {
+      "path": "materials/styles/33-y2k.md",
+      "bytes": 4191,
+      "sha256": "8c3828628891b91ca845ebb49d0045db2c51f0c5f81bbc3306602a4c668435b4"
+    },
+    {
+      "path": "materials/styles/34-vaporwave.md",
+      "bytes": 4311,
+      "sha256": "144bcd06ff26ee1c16082af72fca5787f71cb51373e2ac31278c74ea0c4a3a4f"
+    },
+    {
+      "path": "materials/styles/35-steampunk.md",
+      "bytes": 5363,
+      "sha256": "8edc73739aac9282a995f1ce9b71666c26c2cd2a6a248e34f59c1462659b9743"
+    },
+    {
+      "path": "materials/styles/36-web-brutalism.md",
+      "bytes": 7445,
+      "sha256": "55f57a3d362557d10066b6fc3a862f56298dc21b70ee3f18bac75244fd48ba32"
+    },
+    {
+      "path": "references/01-rational-modern/01-bauhaus.md",
+      "bytes": 12252,
+      "sha256": "8b75bdf8a85decc432aeffac0b618e79a4a04e5752c07c9e36de5b335a14bc08"
+    },
+    {
+      "path": "references/01-rational-modern/01-bauhaus.zh-CN.md",
+      "bytes": 9797,
+      "sha256": "119f05bcc81333a2313ff47da9bae3265258ba0117e8ee5d031bcd50bbc26978"
+    },
+    {
+      "path": "references/01-rational-modern/02-de-stijl.md",
+      "bytes": 11890,
+      "sha256": "2d69ad4ae19c14e632e43a6f7b1b15b90931df71286f95440e2179aaef5ccc5c"
+    },
+    {
+      "path": "references/01-rational-modern/02-de-stijl.zh-CN.md",
+      "bytes": 8965,
+      "sha256": "26715e20d80718fd49f0d455bd9b7b76fe66c906d3161d7bed0f485b9f1c0e1b"
+    },
+    {
+      "path": "references/01-rational-modern/03-swiss-style.md",
+      "bytes": 11656,
+      "sha256": "5e6e441703405e94e81a54309a606c66fd4846b89eb1505b41e7b7c5fffe9f89"
+    },
+    {
+      "path": "references/01-rational-modern/03-swiss-style.zh-CN.md",
+      "bytes": 8688,
+      "sha256": "07ed40584cfc782a681b57c5f65219db07a864de17fc1023062c59f470b4dfef"
+    },
+    {
+      "path": "references/01-rational-modern/04-modernism.md",
+      "bytes": 12283,
+      "sha256": "83578da759d286701029307893aa1a4373e193b105131ed3619dcd1939a3edbf"
+    },
+    {
+      "path": "references/01-rational-modern/04-modernism.zh-CN.md",
+      "bytes": 8712,
+      "sha256": "a6a7e21f8b46f3373f2fe9d88ea788bf9671803e7043a245f1207d652d5f8797"
+    },
+    {
+      "path": "references/01-rational-modern/05-minimalism.md",
+      "bytes": 11338,
+      "sha256": "3a6d2e5c54e61a0db6f891548c2be5cae355979ac3992635f3f5aaaaf38aaea8"
+    },
+    {
+      "path": "references/01-rational-modern/05-minimalism.zh-CN.md",
+      "bytes": 7652,
+      "sha256": "b274b1b6d64fb8c0ea706290f2fccbc4ac42ba719f788dacc1b0d8acacaca5e5"
+    },
+    {
+      "path": "references/01-rational-modern/06-mid-century-modern.md",
+      "bytes": 12119,
+      "sha256": "3ce375e7e88f50295021fe5eec9940ef2ed6bd9a0821c9968283b6968bee0867"
+    },
+    {
+      "path": "references/01-rational-modern/06-mid-century-modern.zh-CN.md",
+      "bytes": 7620,
+      "sha256": "79d5cd8118b5e98f209a8f92acd78d560ef7a56b0b0a94f34a1fa84571c2722b"
+    },
+    {
+      "path": "references/02-eastern-traditions/07-song-dynasty-objects.md",
+      "bytes": 12331,
+      "sha256": "4d82e8d7b4533591bb4d300c6f02e413121e88271fbce3347fe60e2e79ded062"
+    },
+    {
+      "path": "references/02-eastern-traditions/07-song-dynasty-objects.zh-CN.md",
+      "bytes": 7539,
+      "sha256": "32af9ecd5b1a8132d268dbf56ab1fdce3eecafcc41a773d5aeb6616b0110cfc5"
+    },
+    {
+      "path": "references/02-eastern-traditions/08-literati-ink.md",
+      "bytes": 12797,
+      "sha256": "dce725364604e1c6142cef37faa3052d1727556bbbd8d01101db304ca9e9cf73"
+    },
+    {
+      "path": "references/02-eastern-traditions/08-literati-ink.zh-CN.md",
+      "bytes": 7388,
+      "sha256": "6a29b8253e15a26e185d091dd3ddff1c305c8a50f29fe39bf28df2590c78be61"
+    },
+    {
+      "path": "references/02-eastern-traditions/09-ming-style.md",
+      "bytes": 12505,
+      "sha256": "430f3de3a3276f68261e274998b5730a33b7c3efe577b308ca386bc8f831ab6e"
+    },
+    {
+      "path": "references/02-eastern-traditions/09-ming-style.zh-CN.md",
+      "bytes": 7649,
+      "sha256": "eee854fc8fe0a7108b76826a7ccdb08ae29dee425cd943d97e82735ce34722de"
+    },
+    {
+      "path": "references/02-eastern-traditions/10-imperial-court-decoration.md",
+      "bytes": 12415,
+      "sha256": "2d2b0fdec99027490f755001023f47934d759d35047f7bebd753bdde19cbb002"
+    },
+    {
+      "path": "references/02-eastern-traditions/10-imperial-court-decoration.zh-CN.md",
+      "bytes": 7300,
+      "sha256": "dfeda3e4155e4a78c73b7ac2a42ced4a7a24a14b8522ab7425b0c28b78aa89ac"
+    },
+    {
+      "path": "references/02-eastern-traditions/11-neo-chinese.md",
+      "bytes": 12822,
+      "sha256": "ab2da7205faf992728902046c32f19848ff1b2e299107d8735010f478fe07e9c"
+    },
+    {
+      "path": "references/02-eastern-traditions/11-neo-chinese.zh-CN.md",
+      "bytes": 7608,
+      "sha256": "1b3b48354f94d1bd60707bed410070d31196a271bf1ff360fe738a6de8f8f715"
+    },
+    {
+      "path": "references/02-eastern-traditions/12-wabi-sabi.md",
+      "bytes": 12983,
+      "sha256": "309e015f7c03e7e663a99b6ae34a8f33dd6c0eefd4c42a5d7d69745ff6f7c8e5"
+    },
+    {
+      "path": "references/02-eastern-traditions/12-wabi-sabi.zh-CN.md",
+      "bytes": 8189,
+      "sha256": "50dcdd6d57cd7ac216264bbcdd7be1a0232a68fe2e5907723c767c883aa02a0c"
+    },
+    {
+      "path": "references/03-western-classics/13-classical.md",
+      "bytes": 10623,
+      "sha256": "180b05289afba47f910c538b8422138faaf00f81886c07af0106ad1a0373e51f"
+    },
+    {
+      "path": "references/03-western-classics/13-classical.zh-CN.md",
+      "bytes": 6684,
+      "sha256": "d68ebeb99937d224b4f9882478a149b13ca81f3ea9c5af75fd46f9aaaf23e8cc"
+    },
+    {
+      "path": "references/03-western-classics/14-gothic.md",
+      "bytes": 10295,
+      "sha256": "dcf0e12f627b581cf5aaadbca2d07839dbeab165c5219bfece96c1520ab2d8c5"
+    },
+    {
+      "path": "references/03-western-classics/14-gothic.zh-CN.md",
+      "bytes": 6084,
+      "sha256": "5a98aa070b3edae71a4479c702e047fb70190f015ba5e525e3cfa5c675d7e9b6"
+    },
+    {
+      "path": "references/03-western-classics/15-renaissance.md",
+      "bytes": 10860,
+      "sha256": "64a03c0234a11d0ed2b5f1b50a226e4f64dcda88d565f2fc47352e8591b0c2d2"
+    },
+    {
+      "path": "references/03-western-classics/15-renaissance.zh-CN.md",
+      "bytes": 6429,
+      "sha256": "a70e1c159d3c7c114a8627180cfe4abfda4263520016d2ea3328b246fdc90fb3"
+    },
+    {
+      "path": "references/03-western-classics/16-baroque.md",
+      "bytes": 10638,
+      "sha256": "7fe89477c8b2bfda8ebedbaf6830392a868e8df1edbc12fecdb462ee9bf6978f"
+    },
+    {
+      "path": "references/03-western-classics/16-baroque.zh-CN.md",
+      "bytes": 7117,
+      "sha256": "6a2dfb9df5869a67371b329d84a945884165a0c6fa78c5402ec74bb5cddccc01"
+    },
+    {
+      "path": "references/03-western-classics/17-rococo.md",
+      "bytes": 10517,
+      "sha256": "86aaaf2ca77c300af6f57a9a08793a34f6b7564e2995ce36089e2602efff9378"
+    },
+    {
+      "path": "references/03-western-classics/17-rococo.zh-CN.md",
+      "bytes": 6173,
+      "sha256": "9e023be8eb5ca32ab3bb56a260ff3129e81968da97639671c483a201f8adde8b"
+    },
+    {
+      "path": "references/03-western-classics/18-neoclassical.md",
+      "bytes": 11590,
+      "sha256": "9e778da95752ddbb4fc6199c643145b2af07097ca39506d847e2473afc42db60"
+    },
+    {
+      "path": "references/03-western-classics/18-neoclassical.zh-CN.md",
+      "bytes": 6757,
+      "sha256": "fc72fabf347f65359a747339f1eb2dfaf4ad8bf61d9eeafb89925ea124bad0a9"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/19-arts-and-crafts.md",
+      "bytes": 14878,
+      "sha256": "efb76fa1f970f7cee732e99c745bce8d97770a129166ce58e2105e3bcb13696f"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/19-arts-and-crafts.zh-CN.md",
+      "bytes": 10718,
+      "sha256": "2363d52664dece517a144eb5f0652cb86b39775c0f5f3f61ce740536d3c2855e"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/20-nordic.md",
+      "bytes": 13958,
+      "sha256": "eae34253e1eda429c9d0ff432eb855badced334afad7924fd4b8fa3498ded553"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/20-nordic.zh-CN.md",
+      "bytes": 9665,
+      "sha256": "34fccd0ae8374f79fe3da7fb9334ed46cc5608acb6097a84d84a8f4ba5e4cd61"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/21-japandi.md",
+      "bytes": 14476,
+      "sha256": "09c6ca757db58eb62ea89ee8101a5fc51319bada894fe5d7b0ce4eb5849ef7b7"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/21-japandi.zh-CN.md",
+      "bytes": 9625,
+      "sha256": "c4a5cfbada1e149b6c1492253307e59924adaef2001d06f4dc80840baa8676d5"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/22-industrial.md",
+      "bytes": 14668,
+      "sha256": "0e4282c730903f0e1d01710aa19619ab0401cbf12eeb7d30af7a010daa270e5a"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/22-industrial.zh-CN.md",
+      "bytes": 9809,
+      "sha256": "e909dc26a4f8b5527e9be679c7845febe08cd472672973ac728fe41da09406b3"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/23-mediterranean.md",
+      "bytes": 14063,
+      "sha256": "ad5dd9b4be4e2caa39dd38198e98990050e6568b92b9d1fb3f7bad8bd935488c"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/23-mediterranean.zh-CN.md",
+      "bytes": 9115,
+      "sha256": "5133b901efad2cfc5af1c2884c5899b05e57a6d643f5cc68791416c1d6c48638"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/24-bohemian.md",
+      "bytes": 14212,
+      "sha256": "ee99d6b3174651e089ed6f41a3b871a361d20a74577778a17f524d1e603f1be2"
+    },
+    {
+      "path": "references/04-materials-and-everyday-life/24-bohemian.zh-CN.md",
+      "bytes": 9160,
+      "sha256": "a853c93d6c1dea1ed9821272fa1145a5e74b220a540375d97a3abb2490a595cb"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/25-art-nouveau.md",
+      "bytes": 12286,
+      "sha256": "0d6f7c5e030589fda9e778140e6c084b01b4c7503287248f046b546a798e902e"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/25-art-nouveau.zh-CN.md",
+      "bytes": 10351,
+      "sha256": "f3ae5d3e4a3777c2b725edb1dc00c1a28db78de30cb2817ba4f89ad806c2a1ec"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/26-art-deco.md",
+      "bytes": 12136,
+      "sha256": "d4f0e00b5ad3b0a66687e4894634e8ef81e12b894d7269d60bad6b11b2b1f69d"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/26-art-deco.zh-CN.md",
+      "bytes": 10253,
+      "sha256": "913b9fce3f7e2ab141a4fd71d2ab41bc57db50aa5847a86525b8dc7461412d87"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/27-memphis.md",
+      "bytes": 12437,
+      "sha256": "e5de7a6dd09ce2cb770f940e0c6506fab22363e3b7ce2440d68462d6f2d45dbb"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/27-memphis.zh-CN.md",
+      "bytes": 10553,
+      "sha256": "60c4c1c6494b556a4a4e89f1fe45cbf1bb3d455761e0048c10a2c2cf656c4e2e"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/28-pop-art.md",
+      "bytes": 12455,
+      "sha256": "f8455ff03748e441b61157eb66725dddd8f87f68528e79d58b153a0c1080e859"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/28-pop-art.zh-CN.md",
+      "bytes": 10468,
+      "sha256": "cc1510dfff6323886e358d798a897616f2ff3e31c218d0bfa31a69dfdef98f48"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/29-surrealism.md",
+      "bytes": 12535,
+      "sha256": "ff19d09f7ea6f633ead23069d1f40c1b799e8d80e5beb763d26a630ec6c8b623"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/29-surrealism.zh-CN.md",
+      "bytes": 10423,
+      "sha256": "2c5e90c098451fbb3038598ba9c258894315a56daaa50ac32483088dddfb5d62"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/30-maximalism.md",
+      "bytes": 13181,
+      "sha256": "b53445d665c944db1101aa5e1667fdcb5aaa5b99321224b954e35aef543bda14"
+    },
+    {
+      "path": "references/05-decoration-and-experimentation/30-maximalism.zh-CN.md",
+      "bytes": 10993,
+      "sha256": "ac3a2d703ec0766984d528d5cbc21e95b21e1d3d3387d0a1fdc286af59c6172b"
+    },
+    {
+      "path": "references/06-digital-and-futures/31-cyberpunk.md",
+      "bytes": 11981,
+      "sha256": "b472b64ee68dc80dc73caa80eacd8db7b813cc4e17e50cd9c09b221b0a2ccc08"
+    },
+    {
+      "path": "references/06-digital-and-futures/31-cyberpunk.zh-CN.md",
+      "bytes": 10038,
+      "sha256": "9519c6970520d5704c73b8ee3df4a2a6bccaf58a26dd68d5c2b2e5913d264ced"
+    },
+    {
+      "path": "references/06-digital-and-futures/32-retrofuturism.md",
+      "bytes": 13023,
+      "sha256": "34685abb795a8b63138627a80f98bd5dbe7265c567c36705c5894a5d96f4a036"
+    },
+    {
+      "path": "references/06-digital-and-futures/32-retrofuturism.zh-CN.md",
+      "bytes": 11015,
+      "sha256": "ab80b0a9bf4809c51892944a1bd57247d54d86d7c35bfd36703822de42377884"
+    },
+    {
+      "path": "references/06-digital-and-futures/33-y2k.md",
+      "bytes": 12348,
+      "sha256": "a7b76fc445fe22189d35e3d9c01bd5f5e02ea9fec619a192141e8804a859a043"
+    },
+    {
+      "path": "references/06-digital-and-futures/33-y2k.zh-CN.md",
+      "bytes": 10401,
+      "sha256": "71f4fd0803255f589b939ae97bb97902c4dc3b0f8a6c909f37bc5fc6296bb28f"
+    },
+    {
+      "path": "references/06-digital-and-futures/34-vaporwave.md",
+      "bytes": 12661,
+      "sha256": "d3bd67877bfb74607fddb2f88ece4cf8085f21823e655d3ff76f7ef940518d5d"
+    },
+    {
+      "path": "references/06-digital-and-futures/34-vaporwave.zh-CN.md",
+      "bytes": 10880,
+      "sha256": "72bd3c46c0e8fd7f93ed423c864424644c68054100108213c4e5a3a7ceafe466"
+    },
+    {
+      "path": "references/06-digital-and-futures/35-steampunk.md",
+      "bytes": 12536,
+      "sha256": "ba7492da4c89741bfbc2d168b9a9e4218382b7c8535d7fb33ba45036c12c7eff"
+    },
+    {
+      "path": "references/06-digital-and-futures/35-steampunk.zh-CN.md",
+      "bytes": 10643,
+      "sha256": "4471f9a0875325e942a815426cd992ebb61b0ccc7956a6a8bc06d78f32832623"
+    },
+    {
+      "path": "references/06-digital-and-futures/36-web-brutalism.md",
+      "bytes": 14546,
+      "sha256": "d05a52bb4a0ae2cb61ad23175507917323c30dc14626c6002fff93b264f65f18"
+    },
+    {
+      "path": "references/06-digital-and-futures/36-web-brutalism.zh-CN.md",
+      "bytes": 12279,
+      "sha256": "b3efe3845e9271a99007dbf3de170df3883cc0563cb4ae72d105ea981de0f07c"
+    },
+    {
+      "path": "references/README.md",
+      "bytes": 24780,
+      "sha256": "f3245e0b80f25ea6c00188de089d41d78ee764b122c0cc83b890580430dd7857"
+    },
+    {
+      "path": "references/README.zh-CN.md",
+      "bytes": 20322,
+      "sha256": "1e677183ff23f76b080b811d444db0c945e557a11fb1b1e5510244f12049b8e1"
+    },
+    {
+      "path": "scripts/check_release.py",
+      "bytes": 9554,
+      "sha256": "e1958e65fc587a397979ddb812d30491cf94412562c138d95d8f0dbc36a711a4"
+    },
+    {
+      "path": "scripts/validate_offline.py",
+      "bytes": 28885,
+      "sha256": "be9e473c20c294d08b94955c38e53b0d40e33650f541fc1f190f00b58c1923f5"
+    },
+    {
+      "path": "scripts/validate_offline.zh-CN.py",
+      "bytes": 28757,
+      "sha256": "469869e4d8ec0b3f735a88a3b2932c91994a38e4eb46f1d137415612257607e5"
+    },
+    {
+      "path": "tests/test_release.py",
+      "bytes": 5413,
+      "sha256": "a934b6b29009541ca15521cdb5db39f64917d288b15fa27940ad4721526d6b6f"
+    }
+  ],
+  "reviewed_on": "2026-11-06",
+  "version": "1.0.0",
+  "distribution": "public-conservative"
+}

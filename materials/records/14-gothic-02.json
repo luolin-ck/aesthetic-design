@@ -1,0 +1,87 @@
+{
+  "asset_id": "14-gothic-02",
+  "style_id": "14-gothic",
+  "object": "Sainte-Chapelle upper chapel, west-facing interior with the Rose of the Apocalypse",
+  "creator": "Medieval builders and artists; individual authors of all visible fabric not established here",
+  "work_date": "Main chapel built 1241–1248; west rose rebuilt around 1485; later restoration also present",
+  "photographer": "Dudva",
+  "photo_date": "2023-02-12 (Commons file metadata)",
+  "branch": "French Gothic interior: Rayonnant enclosure with a later Flamboyant west rose",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Interior_of_Saint-Chapelle_in_Paris.jpg",
+  "identity_source": "https://www.sainte-chapelle.fr/en/discover/history-of-the-sainte-chapelle",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Interior_of_Saint-Chapelle_in_Paris.jpg/1280px-Interior_of_Saint-Chapelle_in_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Interior_of_Saint-Chapelle_in_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "local_path": "materials/images/14-gothic-west-interior.jpg",
+  "rights_category": "open_license",
+  "rights": "CC BY-SA 4.0 International photograph",
+  "rights_evidence": "The exact Commons file page/API identifies Dudva, 12 February 2023 and CC BY-SA 4.0.",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Dudva, Interior of Saint-Chapelle in Paris.jpg, 12 February 2023, Wikimedia Commons, CC BY-SA 4.0. Public provider thumbnail; no local retouch or crop.",
+  "claim_scope": "A readable Gothic spatial comparator for linked ribs, slender window divisions and high glazed enclosure. The later west rose is a Flamboyant Gothic component, not an unchanged thirteenth-century Rayonnant window.",
+  "observable_features": [
+    "Pointed vault ribs repeat from bay to bay and continue toward slender vertical members beside tall stained-glass fields.",
+    "Glazing occupies most upper wall fields, while narrow structural-looking strips articulate the vertical rhythm.",
+    "A large circular rose with branching curved tracery organizes the far wall above a narrower horizontal gallery/entrance zone.",
+    "The roof stars and gold accents remain subordinate to the legible rib, bay and window hierarchy; no visitors or temporary display elements obstruct this upward view."
+  ],
+  "limits": "An upward west-facing view, not a complete room survey or exact measurement. This present interior contains thirteenth-century spatial fabric, a west rose rebuilt around 1485 and later restorations. The image does not establish the date of every panel or paint layer, original color calibration, structural performance or generic Gothic identity from one pointed arch.",
+  "association_evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Interior_of_Saint-Chapelle_in_Paris.jpg",
+      "supports": "The exact Commons file identifies the Saint-Chapelle interior, photographer Dudva, capture date and photo license."
+    },
+    {
+      "url": "https://www.sainte-chapelle.fr/en/discover/the-radiant-gothic",
+      "supports": "The monument describes its thirteenth-century Rayonnant stone/glass system and explicitly distinguishes the later western rose."
+    },
+    {
+      "url": "https://www.sainte-chapelle.fr/en/discover/the-rose-of-the-apocalypse",
+      "supports": "The monument identifies the current west rose as Flamboyant Gothic, rebuilt around 1485 under Charles VIII. This date applies to that component, not all visible fabric."
+    }
+  ],
+  "bytes": 1203607,
+  "sha256": "b95df26864e3ed729286efbf7fbbe95e90d0ca0dd863f0973fcf641b817e8eb3",
+  "width": 1280,
+  "height": 1711,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "reference_role": "style_reference",
+  "retrieval_method": "Normal public provider image/thumbnail downloaded unchanged; no access-control bypass.",
+  "image_transformation": "None locally; exact delivered public provider image retained.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Interior_of_Saint-Chapelle_in_Paris.jpg/1280px-Interior_of_Saint-Chapelle_in_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Interior_of_Saint-Chapelle_in_Paris.jpg/1280px-Interior_of_Saint-Chapelle_in_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Interior_of_Saint-Chapelle_in_Paris.jpg",
+  "record_path": "materials/records/14-gothic-02.json",
+  "rights_scope": "The image and depicted work may have separate rights. Preserve the exact source license/credit; this package grants no broader reuse permission.",
+  "source_verification_scope": "Exact image association, provider credit/rights and named work context checked; visible relations inspected separately from documentary claims.",
+  "confusion_check": {
+    "nearest_alternatives": [
+      "Baroque",
+      "Rococo",
+      "generic ornate religious interiors"
+    ],
+    "shared_appearances": "Polychromy, gold and ornamental detail overlap with other elaborate interiors.",
+    "discriminating_relationships": "Use the narrow vertical skeleton, tall glazing and linked pointed-rib hierarchy; the western rose adds a documented later Gothic component. Gold density alone is not the discriminator.",
+    "cannot_conclude": "An upward west-facing view, not a complete room survey or exact measurement. This present interior contains thirteenth-century spatial fabric, a west rose rebuilt around 1485 and later restorations. The image does not establish the date of every panel or paint layer, original color calibration, structural performance or generic Gothic identity from one pointed arch."
+  },
+  "replaces_asset_id": "14-gothic-01",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "Strong yellow cast/saturation and numerous bright chandelier points compete with the glazed skeleton and encourage gold-luxury/Baroque readings. A better same-monument view makes ribs, slender verticals and tall glazing clearer.",
+    "current_view_basis": "Pointed vault ribs repeat from bay to bay and continue toward slender vertical members beside tall stained-glass fields. Glazing occupies most upper wall fields, while narrow structural-looking strips articulate the vertical rhythm. A large circular rose with branching curved tracery organizes the far wall above a narrower horizontal gallery/entrance zone. The roof stars and gold accents remain subordinate to the legible rib, bay and window hierarchy; no visitors or temporary display elements obstruct this upward view.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "1d2ba9c8d1a9caa44305bf6727541028c96c84722dcdec5771c3e988edd087a7"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

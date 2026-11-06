@@ -1,0 +1,86 @@
+{
+  "style_id": "26-art-deco",
+  "object": "Chrysler Building",
+  "creator": "William Van Alen",
+  "work_date": "1930",
+  "photographer": "David Shankbone; retouch by Overand",
+  "photo_date": "original August 2007; derivative 2009-05-27",
+  "branch": "New York Art Deco skyscraper architecture",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_by_David_Shankbone_Retouched.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chrysler_Building_by_David_Shankbone_Retouched.jpg",
+  "rights": "Photograph CC BY-SA 3.0 Unported (also GFDL); object page identifies pre-1990 US architecture as public domain in the US",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attribution": "Chrysler Building, William Van Alen, 1930. Photograph: David Shankbone (2007); contrast, rotation and crop by Overand (2009), Wikimedia Commons, CC BY-SA 3.0. Indicate further changes.",
+  "rights_evidence": "Commons separates architectural-object PD status from photograph licensing, provides CC BY-SA 3.0, and names the retouching operations.",
+  "identity_source": "https://smarthistory.org/van-alen-the-chrysler-building/",
+  "limits": "The photograph is already retouched, not an unmodified camera original. Supports an architectural branch, not exact furniture/graphic process claims.",
+  "observable_features": [
+    "Stepped skyline and vertically ordered setbacks",
+    "Radiating tiered crown",
+    "Metallic ornament coordinated with architectural contour"
+  ],
+  "provider_metadata": {
+    "Artist": "w:User:Overand\nderivative work: Overand (talk)",
+    "Credit": "Chrysler_Building_by_David_Shankbone.jpg",
+    "DateTimeOriginal": "2009-05-27 22:36",
+    "LicenseShortName": "Public domain",
+    "AttributionRequired": "false",
+    "Copyrighted": "False",
+    "Restrictions": "",
+    "ImageDescription": "Chrysler BuildingImage touched up by w:User:Overand - Original description below."
+  },
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chrysler_Building_by_David_Shankbone_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_by_David_Shankbone_Retouched.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "26-art-deco-01",
+  "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chrysler_Building_by_David_Shankbone_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "resolved_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chrysler_Building_by_David_Shankbone_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/26-art-deco.jpg",
+  "record_path": "materials/records/26-art-deco-01.json",
+  "bytes": 611677,
+  "sha256": "1230628896d6a20be60d8b4046f2ca4dfc138f950dc65c54491f5eeb4d6af4ec",
+  "width": 1036,
+  "height": 3055,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "open_license",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "New York Art Deco skyscraper architecture; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/proj-commodore/05-feis.pdf",
+      "supports": "The NYC planning report identifies the Chrysler Building as an Art Deco skyscraper designed by William Van Alen, built in 1928–1930 and completed in 1930, and discusses its machine-age ornament (printed p. 5-17). This establishes the named building’s historical style context, not the authorship or alterations of the downloaded photograph."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "Gothic Revival verticality",
+      "Modernism",
+      "historical futurist/Googie imagery"
+    ],
+    "shared_appearances": "Geometry, luxury finishes and symmetry overlap with Neoclassical and modernist designs.",
+    "discriminating_relationships": "Retain as skyscraper branch; distinguish crown geometry/architectural ornament from merely being tall or metallic. Use the primary NYC record if Smarthistory is unavailable (403 during this review). Do not convert original 1930 futurist imagery into a later retrofuturist authorship claim.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. The photograph is already retouched, not an unmodified camera original. Supports an architectural branch, not exact furniture/graphic process claims."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The central skyscraper, stepped massing and nested radiating triangular crown remain clear at readable size. Surrounding buildings supply urban scale without crossing the crown. The recorded provider retouch is disclosed; the photo does not establish hidden materials or all Art Deco media.",
+    "current_view_basis": "The central skyscraper, stepped massing and nested radiating triangular crown remain clear at readable size. Surrounding buildings supply urban scale without crossing the crown. The recorded provider retouch is disclosed; the photo does not establish hidden materials or all Art Deco media.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

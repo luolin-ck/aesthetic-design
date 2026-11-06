@@ -1,0 +1,88 @@
+{
+  "style_id": "03-swiss-style",
+  "object": "Das Holz als Baustoff exhibition poster, reproduced by the Swiss National Library",
+  "creator": "Armin Hofmann",
+  "work_date": "1952, cross-checked against MoMA object 608.1981; visible exhibition dates 6 September–5 October do not print a year",
+  "branch": "Swiss International Typographic Style; actual published institutional preview",
+  "source_page": "https://www.nb.admin.ch/en/the-international-style-1950-1970",
+  "image_url": "https://prod-nbadminch-hcms-sdweb.imgix.net/dam/en/sd-web/XTCDQLDaKt75/BN_1952_0004_1920_OF.jpg?auto=format&w=1024",
+  "rights": "© Armin / Matthias Hofmann; no open reuse license verified",
+  "license_url": null,
+  "attribution": "Armin Hofmann; © Armin / Matthias Hofmann; Swiss National Library.",
+  "rights_evidence": "Copyright credit immediately next to the image in the official article",
+  "limits": "The official preview retains © Armin / Matthias Hofmann; public display or successful retrieval does not establish permission for unrestricted redistribution. This actual Swiss poster combines constructed display letters with serif information type, so it must not be used to assert that every Swiss Style work uses sans-serif throughout. A narrow horizontal discolored band across the paper is visible; it is not a mandatory graphic rule. The legible information hierarchy remains the comparison.",
+  "alternative": {
+    "object": "Giselle, Basler Freilichtspiele",
+    "creator": "Armin Hofmann; photograph Merkle; printer Wassermann A.G.",
+    "work_date": "1959",
+    "source_page": "https://www.moma.org/collection/works/6775",
+    "identity_and_rights_page": "https://www.sfmoma.org/artwork/2014.669/",
+    "rights": "SFMOMA states © Armin Hofmann; MoMA reproduction requires image licensing. No open license verified."
+  },
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "03-swiss-style-01",
+  "downloaded_from": "https://prod-nbadminch-hcms-sdweb.imgix.net/dam/en/sd-web/XTCDQLDaKt75/BN_1952_0004_1920_OF.jpg?auto=format&w=1024",
+  "resolved_image_url": "https://prod-nbadminch-hcms-sdweb.imgix.net/dam/en/sd-web/XTCDQLDaKt75/BN_1952_0004_1920_OF.jpg?auto=format&w=1024",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/03-swiss-style.jpg",
+  "record_path": "materials/records/03-swiss-style-01.json",
+  "bytes": 154670,
+  "sha256": "f1bff07d23e7645721bb88dbed0ac82910c7cad7bc265ce354b505da5d662f3b",
+  "width": 1024,
+  "height": 1446,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "style_name": "Swiss Style",
+  "observable_features": [
+    "Large black angular letterforms interlock vertically across the left and lower field.",
+    "A smaller, right-aligned block of exhibition details occupies the open space on the right.",
+    "Strong differences in type size and occupied area separate the exhibition title from practical information.",
+    "The large display letters have angular constructed forms, while the smaller information text visibly has serifs."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "identity_source": "https://www.moma.org/collection/works/7726",
+  "photographer": "unknown / not separately credited",
+  "photo_date": "unknown / not separately stated",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Swiss International Typographic Style; actual published institutional preview; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.nb.admin.ch/en/the-international-style-1950-1970",
+      "supports": "The Swiss National Library places the International / Swiss Typographic Style in the 1950–1970 period and describes its grid, type and geometric tendencies. The article reproduces Hofmann’s wood exhibition poster within that historical discussion."
+    },
+    {
+      "url": "https://www.moma.org/collection/works/7726",
+      "supports": "MoMA identifies Das Holz als Baustoff as an Armin Hofmann poster of 1952, printed as a linocut, accession 608.1981."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "01-bauhaus",
+      "02-de-stijl"
+    ],
+    "shared_appearances": "Geometric fields and restricted palettes overlap with De Stijl and Bauhaus.",
+    "discriminating_relationships": "Retain. Explicitly contrast information hierarchy and organized text/image relations with superficial primary colors. Keep the 1958 catalog date and printed 1959 event date distinct without inventing their relationship.",
+    "cannot_conclude": "The official preview retains © Armin / Matthias Hofmann; public display or successful retrieval does not establish permission for unrestricted redistribution. This actual Swiss poster combines constructed display letters with serif information type, so it must not be used to assert that every Swiss Style work uses sans-serif throughout. A narrow horizontal discolored band across the paper is visible; it is not a mandatory graphic rule. The legible information hierarchy remains the comparison."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The whole poster shows the constructed title and smaller right-hand information system clearly. A narrow horizontal discolored band is visible but does not hide words or the asymmetric hierarchy. Its serif information type is a legitimate variation, not grounds to reject it as non-Swiss.",
+    "current_view_basis": "The whole poster shows the constructed title and smaller right-hand information system clearly. A narrow horizontal discolored band is visible but does not hide words or the asymmetric hierarchy. Its serif information type is a legitimate variation, not grounds to reject it as non-Swiss.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

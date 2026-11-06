@@ -1,0 +1,83 @@
+{
+  "style_id": "06-mid-century-modern",
+  "object": "Lounge Chair Metal (LCM), object 127:1984",
+  "creator": "Charles Eames and Ray Kaiser Eames; Evans Products Company, Molded Plywood Division",
+  "work_date": "Designed 1946",
+  "medium": "Molded plywood and steel",
+  "holding": "Saint Louis Art Museum",
+  "branch": "Postwar American molded furniture / body-contact shell and light support",
+  "source_page": "https://www.slam.org/collection/objects/15343/",
+  "image_url": "https://d23gjylftzdlen.cloudfront.net/db_photo/d6397/u15263975/1271984dig_o2.jpg",
+  "rights": "Public Domain, explicitly on collection record",
+  "license_url": "https://www.slam.org/public-domain-and-open-access/",
+  "attribution": "Charles and Ray Eames, Lounge Chair Metal (LCM), designed 1946, Saint Louis Art Museum, Gift of Mrs. Charles W. Lorenz, 127:1984; Public Domain.",
+  "rights_evidence": "Official object record Rights field links to the museum's Public Domain Images policy",
+  "limits": "The museum record identifies this exact 1946 design; its visible curved panels and metal support do not date or authenticate a new chair, or establish all manufacturing details from the front photograph.",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "06-mid-century-modern-01",
+  "downloaded_from": "https://d23gjylftzdlen.cloudfront.net/db_photo/d6397/u15263975/1271984dig_o2.jpg",
+  "resolved_image_url": "https://d23gjylftzdlen.cloudfront.net/db_photo/d6397/u15263975/1271984dig_o2.jpg",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/06-mid-century-modern.jpg",
+  "record_path": "materials/records/06-mid-century-modern-01.json",
+  "bytes": 2900096,
+  "sha256": "a23c3a8fe6c3a92b010c179258af7666c581cf8122ab465d4da649f5235a6344",
+  "width": 3768,
+  "height": 4828,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "style_name": "Mid-Century Modern",
+  "observable_features": [
+    "Separate curved plywood back and seat panels provide broad contact surfaces above a slender metal frame.",
+    "Rounded panel corners and a dished seat contrast with the slender round metal supports.",
+    "The seat/back separation and open space below the seat keep the structure visually light.",
+    "Four splayed metal legs and a narrow back support distribute support without a solid wooden enclosure."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "identity_source": "https://www.slam.org/collection/objects/15343/",
+  "photographer": "unknown / not separately credited",
+  "photo_date": "unknown / not separately stated",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Postwar American molded furniture / body-contact shell and light support; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.slam.org/collection/objects/15343/",
+      "supports": "Saint Louis Art Museum identifies its Lounge Chair Metal (LCM), designed in 1946 by Charles Eames and Ray Kaiser Eames, made by the Molded Plywood Division of Evans Products Company, in molded plywood and steel, accession 127:1984."
+    },
+    {
+      "url": "https://www.moma.org/collection/works/2298",
+      "supports": "MoMA documents the same 1946 LCM design and explains its separate molded panels. MoMA’s own physical example, accession 156.1973, is manufactured by Herman Miller and uses molded walnut-veneered plywood, chrome-plated steel rods and rubber shock mounts. Those physical-object details must not be reassigned to the SLAM example."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "01-bauhaus",
+      "04-modernism",
+      "20-nordic"
+    ],
+    "shared_appearances": "Bent wood and slim supports overlap with Nordic and other modernist furniture.",
+    "discriminating_relationships": "Retain. Distinguish historical design context and body/production relationships from a generic brown-wood-plus-metal checklist. Shared modernist or Nordic affinities are not counterevidence.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. The museum record identifies this exact 1946 design; its visible curved panels and metal support do not date or authenticate a new chair, or establish all manufacturing details from the front photograph."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The single complete chair is isolated against a neutral background. Curved separate seat/back shells, slender splayed supports and open space are clearly readable; age marks do not hide component relationships.",
+    "current_view_basis": "The single complete chair is isolated against a neutral background. Curved separate seat/back shells, slender splayed supports and open space are clearly readable; age marks do not hide component relationships.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

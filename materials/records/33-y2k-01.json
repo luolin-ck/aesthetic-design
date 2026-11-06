@@ -1,0 +1,92 @@
+{
+  "style_id": "33-y2k",
+  "object": "Apple iMac G3, Graphite color, side view",
+  "creator": "Apple Computer industrial design team; individual attribution unknown from inspected file record",
+  "work_date": "Graphite iMac documented in Apple’s July 2000 lineup; photographed unit manufacture date unknown",
+  "photographer": "Stephen Hackett",
+  "photo_date": "2016; Commons date field 2016-05-16, camera metadata 2016-05-03",
+  "branch": "Millennium consumer-electronics hardware: translucent streamlined shell",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Imac_G3_Graphite_side.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Imac_G3_Graphite_side.jpg",
+  "rights": "CC BY-SA 4.0 International for photograph",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Apple iMac G3, Graphite. Photograph: Stephen Hackett, 2016, 512 Pixels / Wikimedia Commons, CC BY-SA 4.0. Indicate changes.",
+  "rights_evidence": "Commons gives CC BY-SA 4.0 and links photographer's https://512pixels.net/projects/imacg3/ , whose page explicitly licenses all iMac G3 images under CC BY-SA 4.0.",
+  "identity_source": "https://www.apple.com/newsroom/2000/07/19Apple-Introduces-New-iMacs-in-Stunning-New-Colors/",
+  "limits": "Hardware branch only; does not by itself establish a Y2K website, virtual-render composition, technological optimism or exact unit date. File date and camera metadata differ; preserve that uncertainty. The Y2K aesthetic grouping is retrospective; Apple’s product announcement establishes period/product facts, not that later category name.",
+  "observable_features": [
+    "Rounded all-in-one device volume",
+    "Translucent tinted shell showing internal hardware",
+    "Gloss and shell curvature jointly define the object"
+  ],
+  "provider_metadata": {
+    "Artist": "Stephen Hackett",
+    "Credit": "512 Pixels; license appears at footer, All iMac G3 images are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "DateTimeOriginal": "2016-05-16",
+    "LicenseShortName": "CC BY-SA 4.0",
+    "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "AttributionRequired": "true",
+    "Copyrighted": "True",
+    "Restrictions": "",
+    "ImageDescription": "The Graphite color of the iMac G3, a personal computer produced by Apple Computer."
+  },
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Imac_G3_Graphite_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Imac_G3_Graphite_side.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "33-y2k-01",
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Imac_G3_Graphite_side.jpg/1280px-Imac_G3_Graphite_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Imac_G3_Graphite_side.jpg/1280px-Imac_G3_Graphite_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/33-y2k.jpg",
+  "record_path": "materials/records/33-y2k-01.json",
+  "bytes": 104514,
+  "sha256": "749be53ac1f7c2a7802b0a547717666008f7d8230985921922e99c424daf5c59",
+  "width": 1280,
+  "height": 835,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "open_license",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "A period hardware comparator retrospectively associated with a Y2K/blobject strand; not Apple’s self-declared membership in a Y2K movement or evidence for a whole website.",
+  "association_evidence": [
+    {
+      "url": "https://www.apple.com/newsroom/2000/07/19Apple-Introduces-New-iMacs-in-Stunning-New-Colors/",
+      "supports": "Apple’s 19 July 2000 announcement lists Graphite as an available color for the 500 MHz iMac DV Special Edition. This establishes Graphite iMac availability in the period; it does not establish the pictured unit’s exact model, manufacturing date, a 1999 first-introduction date or a Y2K aesthetic classification."
+    },
+    {
+      "url": "https://cari.institute/aesthetics/y2k-aesthetic",
+      "supports": "CARI’s retrospective Y2K aesthetic category includes blobby electronics among its examples of period visual language. This supplies category context; it is not Apple’s own movement identification or a source authenticating this particular Graphite iMac photograph."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "blobject industrial design",
+      "generic late-1990s electronics",
+      "later Neo-Y2K revival",
+      "Frutiger Aero"
+    ],
+    "shared_appearances": "Translucent rounded hardware overlaps with blobject industrial design and ordinary period electronics.",
+    "discriminating_relationships": "Call it a period hardware comparator for one Y2K-associated strand. Not every circa-2000 product is Y2K; transparency/rounding alone cannot classify a modern website or establish technological optimism. Preserve overlap with the more specific blobject language.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. Hardware branch only; does not by itself establish a Y2K website, virtual-render composition, technological optimism or exact unit date. File date and camera metadata differ; preserve that uncertainty. The Y2K aesthetic grouping is retrospective; Apple’s product announcement establishes period/product facts, not that later category name."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "A complete isolated iMac side profile clearly joins rounded all-in-one shell, translucent tinted enclosure, exposed internal layering and ports. Plain background removes display clutter. It exemplifies one millennium hardware strand, not every Y2K graphic or nostalgic computer.",
+    "current_view_basis": "A complete isolated iMac side profile clearly joins rounded all-in-one shell, translucent tinted enclosure, exposed internal layering and ports. Plain background removes display clutter. It exemplifies one millennium hardware strand, not every Y2K graphic or nostalgic computer.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

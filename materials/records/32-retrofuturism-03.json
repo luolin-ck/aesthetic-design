@@ -1,0 +1,90 @@
+{
+  "asset_id": "32-retrofuturism-03",
+  "style_id": "32-retrofuturism",
+  "local_path": "materials/images/32-retrofuturism-fallout.jpg",
+  "record_path": "materials/records/32-retrofuturism-03.json",
+  "reference_role": "style_reference",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "bytes": 58867,
+  "sha256": "9f62da6c8ab959546d31b8e09355922df34cbcff630d034ef33caa5acb014af0",
+  "width": 600,
+  "height": 900,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_scope": "This record preserves provider statements, not a package-wide license. Original artwork, reproduction and depicted modern designs can have separate rights.",
+  "object": "Fallout TV Series Pip-Boy 3000 Mk V — officially licensed replica, isolated front product view",
+  "creator": "The Wand Company, official replica based on the Fallout television prop geometry; underlying fictional design associated with Bethesda and the television production",
+  "work_date": "Contemporary licensed TV-prop replica; exact manufacture/version and image dates not established",
+  "photographer": "Official store product visual; individual image maker and camera/render method not established",
+  "photo_date": "not established",
+  "branch": "Contemporary retrofuturist device design: later reconstruction of an earlier imagined technological future",
+  "source_page": "https://gear.bethesda.net/products/fallout-series-pip-boy-die-cast-replica",
+  "provider_image_page": "https://gear.bethesda.net/products/fallout-series-pip-boy-die-cast-replica",
+  "identity_source": "https://www.thewandcompany.com/fallout-pip-boy/",
+  "image_url": "https://gear.bethesda.net/cdn/shop/files/Fallout-PipBoy-GridImage-600x900-04.jpg?v=1740085475&width=1946",
+  "rights_category": "restricted_public_preview",
+  "rights": "Official licensed-merchandise product image; no open image reuse license established",
+  "license_url": null,
+  "attribution": "Fallout Series Pip-Boy Die-Cast Replica, The Wand Company, official Bethesda Gear product image. Underlying Fallout design and product-image rights remain with their respective holders. Public product preview; no open reuse license established.",
+  "rights_evidence": "The exact normally published Bethesda Gear image is linked in the official product gallery. Bethesda and The Wand Company identify an officially licensed TV-series replica; neither inspected page grants a CC or public-domain image license. Merchandise authorization does not grant general reuse of its photograph or design.",
+  "claim_scope": "A contemporary replica of a fictional wrist computer combines rounded instrument-like housing, large physical controls, framed monochrome display and a wearable cuff. Production testimony documents Fallout’s reconstruction of 1950s/60s imagined futures. This is a device branch and a representative product visual, not an original Atomic-Age object or an actual TV-used prop.",
+  "limits": "The actual store image shows the licensed replica in a clock display mode on its stand, not an actor, operational test or original filming prop. A small black charging lead remains at the right; it does not cover the screen or controls. The store says product images are representative and final details may change. Screen technology, material composition, functions and hand-weathering are source claims, not proved from the still; a green display or old-looking case alone does not establish Retrofuturism. No nuclear power, actual wrist-computer capability, precise date or full fictional world can be inferred.",
+  "observable_features": [
+    "One complete bulky wrist-mounted device is isolated on a plain white background with a small display stand and no packaging or person.",
+    "A large rounded-corner, deeply framed screen shows green monochrome graphics and clock numerals within a metal-looking, worn instrument-style surround.",
+    "A large ridged selector, smaller rotary dial and printed mode labels occupy a separate physical control area beside the screen.",
+    "A padded open cuff behind the housing and its curved enclosure join the instrument-like interface to a wearable form rather than a normal tabletop vintage radio."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://gear.bethesda.net/products/fallout-series-pip-boy-die-cast-replica",
+      "supports": "The official Bethesda Gear page supplies this exact isolated front image and identifies the product as a licensed Fallout TV-series Pip-Boy replica from The Wand Company, based on show-prop geometry. It describes representative product imagery, display-clock mode, materials and functions as manufacturer information; these are not independently tested here."
+    },
+    {
+      "url": "https://www.thewandcompany.com/fallout-pip-boy/",
+      "supports": "The Wand Company identifies the officially licensed Pip-Boy 3000 Mk V replica and its relation to the TV prop. Its page distinguishes the replica from the actual filming prop shown in a separate demonstration."
+    },
+    {
+      "url": "https://www.aboutamazon.com/news/entertainment/fallout-series-photos",
+      "supports": "The production article and Todd Howard’s explanation explicitly connect Fallout’s retrofuturistic world to 1950s/60s imagined nuclear-age futures and their later fictional reconstruction. This is franchise/production context, not proof of the replica’s individual date, material or function."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "original Space Age or Atomic-Age object",
+      "ordinary vintage radio or instrument",
+      "generic futuristic gadget",
+      "35-steampunk"
+    ],
+    "shared_appearances": "Rounded cases, knobs, worn metal and monochrome screens can occur in genuine old instruments, generic science fiction or decorative replicas.",
+    "discriminating_relationships": "The fictional wearable personal-computer function is expressed through an older instrument vocabulary of deep screen bezel and separate large mechanical controls. Combine those visible relationships with documented later reconstruction of an earlier imagined future; an actual historical radio would have a different temporal relationship. The vocabulary differs from Victorian cabinet and exposed-gear Steampunk.",
+    "cannot_conclude": "The product visual does not prove an original 1950s object, a TV-used prop, real nuclear or wrist-computer functions, this unit’s manufacture date, or all Retrofuturism branches."
+  },
+  "retrieval_method": "Exact normal public image linked in the official store’s gallery downloaded unchanged. No blocked page, account or access-control bypass.",
+  "image_transformation": "None locally; original published 600×900 product image retained.",
+  "selection_quality": {
+    "reason": "The device’s screen, separate controls, housing and cuff are large and readable without the previous still’s dominant actor face and costume.",
+    "remaining_limits": "The white field and stand are presentation choices, not style criteria; the clock numerals show one product mode, and a minor lead remains."
+  },
+  "downloaded_from": "https://gear.bethesda.net/cdn/shop/files/Fallout-PipBoy-GridImage-600x900-04.jpg?v=1740085475&width=1946",
+  "resolved_image_url": "https://gear.bethesda.net/cdn/shop/files/Fallout-PipBoy-GridImage-600x900-04.jpg?v=1740085475&width=1946",
+  "replaces_asset_id": "32-retrofuturism-02",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "The performer’s large central face and costume dominate; the mid-century clock and crockery occupy secondary fragments. The show is documented retrofuturism, but this actor-focused view is a weaker design comparator than an isolated clearly period-coded fictional device.",
+    "current_view_basis": "The device’s screen, separate controls, housing and cuff are large and readable without the previous still’s dominant actor face and costume.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "fe0f465d03c406778a1072b700c73cf15e14f2c542ad00fdb158ad14d6ab82c0"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

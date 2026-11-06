@@ -1,0 +1,77 @@
+{
+  "style_id": "17-rococo",
+  "style_name": "Rococo",
+  "object": "Loving cup with cover, Met object 25.15.58a, b",
+  "creator": "Paul de Lamerie",
+  "work_date": "1742–1743",
+  "medium": "Silver gilt; 38.4 × 24.1 cm",
+  "holding": "The Metropolitan Museum of Art",
+  "branch": "British Rococo silverwork; official catalogue explicitly calls it full-blown early-1740s Rococo",
+  "source_page": "https://www.metmuseum.org/art/collection/search/195267",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/195267/1682088/main-image",
+  "rights": "Public Domain on object page; Met Open Access CC0",
+  "license_url": "https://www.metmuseum.org/hubs/open-access",
+  "attribution": "Paul de Lamerie, Loving cup with cover, 1742–43, The Met, Bequest of Alfred Duane Pell, 1924, 25.15.58a, b; CC0.",
+  "rights_evidence": "Object record explicitly marks selected image Public Domain and supplies Download Image; Met Open Access policy releases these images CC0.",
+  "limits": "A specific British silverwork branch is not a universal model for French Rococo rooms. The curator identifies Bacchic vine/fruit ornament; do not relabel every curved handle as a shell, or assume a generally bilateral vessel must have a fully asymmetric overall silhouette.",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "17-rococo-01",
+  "downloaded_from": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/195267/1682088/main-image",
+  "resolved_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/195267/1682088/main-image",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/17-rococo.jpg",
+  "record_path": "materials/records/17-rococo-01.json",
+  "bytes": 199033,
+  "sha256": "1a052ef7d439d6e6f38b0ebd938cddf6ae50bc955ae390421ca356ae59020461",
+  "width": 960,
+  "height": 1200,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "observable_features": [
+    "Ribbed curved handles branch outward from a generally bilateral cup and reconnect with its ornamented body.",
+    "Linked scrolls, leaf-like edges and irregular relief contours spread across the cover, cup and foot.",
+    "A small figural relief is integrated with vine and fruit clusters rather than isolated in a plain geometric panel.",
+    "A grape-cluster finial crowns the cover while local curling details vary around the vessel's central vertical organization."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "identity_source": "https://www.metmuseum.org/art/collection/search/195267",
+  "photographer": "unknown / not separately credited",
+  "photo_date": "unknown / not separately stated",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "British Rococo silverwork; official catalogue explicitly calls it full-blown early-1740s Rococo; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/195267",
+      "supports": "The Met identifies Paul de Lamerie’s silver-gilt Loving cup with cover, 1742–1743, accession 25.15.58a, b, and explicitly describes his early-1740s work as full-blown Rococo. Its account identifies young Bacchus, vine-branch handles and a grape-cluster finial."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "16-baroque",
+      "18-neoclassical"
+    ],
+    "shared_appearances": "Curved handles, gold and relief decoration overlap with Baroque and other decorative traditions.",
+    "discriminating_relationships": "Retain as British Rococo silverwork. This is useful counterevidence to an all-over-asymmetry rule. Distinguish curling, spreading relief organization from generic gold color, and do not turn every curved handle into a shell.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. A specific British silverwork branch is not a universal model for French Rococo rooms. The curator identifies Bacchic vine/fruit ornament; do not relabel every curved handle as a shell, or assume a generally bilateral vessel must have a fully asymmetric overall silhouette."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "A complete isolated cup shows linked curling relief, leafy/vine contours, branching handles and a grape-like finial at a readable size, with no labels or exhibition obstruction.",
+    "current_view_basis": "A complete isolated cup shows linked curling relief, leafy/vine contours, branching handles and a grape-like finial at a readable size, with no labels or exhibition obstruction.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "included"
+}

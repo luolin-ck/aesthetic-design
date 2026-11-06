@@ -1,0 +1,76 @@
+{
+  "style_id": "21-japandi",
+  "asset_id": "21-japandi-02",
+  "file_key": "21-japandi-kinuta-living",
+  "object": "Kinuta Terrace, published interior view 27",
+  "source_page": "https://normcph.com/project/kinuta-terrace/",
+  "image_url": "https://normcph.com/wp-content/uploads/2023/12/NORM_ARCHITECTS_KINUTA_TERRACE_WEB_27.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "downloaded_from": "https://normcph.com/wp-content/uploads/2023/12/NORM_ARCHITECTS_KINUTA_TERRACE_WEB_27.jpg",
+  "resolved_image_url": "https://normcph.com/wp-content/uploads/2023/12/NORM_ARCHITECTS_KINUTA_TERRACE_WEB_27.jpg",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/21-japandi-kinuta-living.jpg",
+  "record_path": "materials/records/21-japandi-02.json",
+  "bytes": 953708,
+  "sha256": "874bab68e89a030269809c0a88297d1d96373a9276142c242f1c9fbf1dbf0827",
+  "width": 1000,
+  "height": 1375,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "creator": "Norm Architects and Keiji Ashizawa Design, with Karimoku",
+  "work_date": "2019 renovation / design project; image capture date unknown",
+  "photographer": "Jonas Bjerre-Poulsen",
+  "photo_date": "unknown / not separately dated",
+  "branch": "Contemporary Japanese–Danish residential/furniture collaboration, broader interior view",
+  "rights": "© Norm Architects; no open image license established",
+  "license_url": null,
+  "attribution": "Kinuta Terrace, 2019, Norm Architects and Keiji Ashizawa Design with Karimoku. Photograph: Jonas Bjerre-Poulsen. Public project preview; no general reuse license granted by this package.",
+  "rights_evidence": "Norm’s project page identifies both studios, Karimoku, the 2019 project and Jonas Bjerre-Poulsen’s photography; it explains shared traditions and framing inside/outside living spaces. No open license is shown.",
+  "limits": "This exact view shows an interior/exterior threshold and coordinated furniture, not the whole complex or a cross-cultural identity visible without records. Combine it with the named collaboration and the designer’s description. Wood, beige, transparency or nationalities alone are not style admission tests; the 1980s original building and 2019 renovation have different dates.",
+  "observable_features": [
+    "A low rectangular table, an upholstered wood-frame sofa and an armchair form a seating group beside a broad glazed opening and curtain line.",
+    "The interior floor and rug lead toward the window; planting is visible beyond the glass, while the armchair remains on the interior floor.",
+    "A large framed reflective surface at the right repeats the room, plant and daylight."
+  ],
+  "identity_source": "https://normcph.com/project/kinuta-terrace/",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and provider rights checked; not independent physical authentication.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "Provider image rights are not a package-wide license; a photo license does not automatically license underlying designs or trademarks.",
+  "claim_scope": "A documented Japanese–Danish project comparator showing coordinated furniture and an inside/outside threshold; not a universal Japandi visual recipe.",
+  "case_id": "kinuta-terrace-2019",
+  "reference_role": "style_reference",
+  "association_evidence": [
+    {
+      "url": "https://normcph.com/project/kinuta-terrace/",
+      "supports": "Norm Architects’ project page identifies Kinuta Terrace in Tokyo, completed in 2019, as a collaboration with Keiji Ashizawa Design and Karimoku, with photographs by Jonas Bjerre-Poulsen. The designers describe shared traditions, the furniture collaboration and the relationship of interior living spaces to the courtyard. This supports the documented project context, not a universal Japandi visual recipe."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "Nordic modern interiors",
+      "Minimalism",
+      "contemporary Japanese minimal interiors"
+    ],
+    "shared_appearances": "Wood, restrained rooms and low furniture overlap with Nordic, Minimalism and contemporary Japanese interiors.",
+    "discriminating_relationships": "The two views show coordinated furniture and indoor/outdoor framing in a documented Japanese–Danish collaboration. This supports the named project branch; neither nationalities nor neutral colors classify an unidentified room.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. This exact view shows an interior/exterior threshold and coordinated furniture, not the whole complex or a cross-cultural identity visible without records. Combine it with the named collaboration and the designer’s description. Wood, beige, transparency or nationalities alone are not style admission tests; the 1980s original building and 2019 renovation have different dates."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The low table, exposed-frame sofa/chair, broad garden-facing opening and curtain/reflective planes show a coherent restrained living composition. No people, signs or unrelated props compete.",
+    "current_view_basis": "The low table, exposed-frame sofa/chair, broad garden-facing opening and curtain/reflective planes show a coherent restrained living composition. No people, signs or unrelated props compete.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

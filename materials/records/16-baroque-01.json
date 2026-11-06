@@ -1,0 +1,94 @@
+{
+  "style_id": "16-baroque",
+  "style_name": "Baroque",
+  "object": "Cornaro Chapel with the Ecstasy of Saint Teresa, Santa Maria della Vittoria, Rome",
+  "creator": "Gian Lorenzo Bernini",
+  "work_date": "Ecstasy of Saint Teresa sculpture 1647–1652, per Rome tourism office; chapel is a mid-17th-century ensemble",
+  "photographer": "Livioandronico2013",
+  "photo_date": "2015-08-01, 17:06:44 (Commons summary/EXIF)",
+  "branch": "Roman Baroque sculpture and architectural staging; real chapel photograph",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg",
+  "rights": "CC BY-SA 4.0 International",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Livioandronico2013, Cornaro chapel in Santa Maria della Vittoria in Rome HDR.jpg, CC BY-SA 4.0; indicate modifications.",
+  "rights_evidence": "Commons photograph licensing explicitly CC BY-SA 4.0; historical sculpture/architecture does not remove the photograph's attribution/share-alike conditions.",
+  "identity_source": "https://www.turismoroma.it/en/node/676",
+  "identity_context_source": "https://www.turismoroma.it/en/news/bernini%E2%80%99s-cornaro-chapel-dazzles-after-restoration",
+  "limits": "This HDR photograph is not a calibrated record of original lighting or material colors. It clearly shows the central sculptural/architectural staging, but the Cornaro family spectators in the chapel's lateral boxes are outside this selected crop and must not be described as visible.",
+  "provider_metadata": {
+    "Artist": "Livioandronico2013",
+    "Credit": "Own work",
+    "DateTimeOriginal": "2015-08-01 17:06:44",
+    "LicenseShortName": "CC BY-SA 4.0",
+    "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "AttributionRequired": "true",
+    "Copyrighted": "True",
+    "Restrictions": "",
+    "ImageDescription": "Bernini's Ecstasy of Saint Teresa in the Santa Maria della Vittoria in Rome"
+  },
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "16-baroque-01",
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg/1280px-Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg/1280px-Cornaro_chapel_in_Santa_Maria_della_Vittoria_in_Rome_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/16-baroque.jpg",
+  "record_path": "materials/records/16-baroque-01.json",
+  "bytes": 679459,
+  "sha256": "bb6e932fa60dc6ff29c87c314ab791277ed2e6797376a0577c41e36727df2d5d",
+  "width": 1280,
+  "height": 1083,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "observable_features": [
+    "A central sculptural group with diagonal bodies and deep folded drapery is framed by paired columns.",
+    "A projecting curved architectural canopy and layered pediment concentrate attention on the central niche.",
+    "Long gilded rays descend behind the figures, linking the sculptural group with the architectural opening above.",
+    "Colored and patterned wall inlays contrast with the pale figures and continue across adjacent architectural surfaces."
+  ],
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "open_license",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Roman Baroque sculpture and architectural staging; real chapel photograph; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.turismoroma.it/en/node/676",
+      "supports": "Turismo Roma places Santa Maria della Vittoria in Roman Baroque architecture and identifies the Cornaro family chapel as a Bernini commission. It dates the Ecstasy of Saint Teresa sculptural group to 1647–1652 and describes its theatrical setting, including side spectator boxes outside the selected crop."
+    },
+    {
+      "url": "https://www.turismoroma.it/en/news/bernini%E2%80%99s-cornaro-chapel-dazzles-after-restoration",
+      "supports": "Turismo Roma describes the Cornaro Chapel’s combination of painting, sculpture, architecture, scenic representation and designed lighting, and reports its 2021 cleaning and consolidation. It notes that the yellow shielding glass is twentieth-century material, probably reproducing Bernini’s original effect."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "17-rococo",
+      "13-classical"
+    ],
+    "shared_appearances": "Gold and rich carving overlap with Gothic, Rococo and court decoration.",
+    "discriminating_relationships": "Retain. The unseen lateral spectator boxes must remain outside the observation list. HDR alters color/light recording; preserve that caveat and avoid a color-based comparison with Rococo.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. This HDR photograph is not a calibrated record of original lighting or material colors. It clearly shows the central sculptural/architectural staging, but the Cornaro family spectators in the chapel's lateral boxes are outside this selected crop and must not be described as visible."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "Central diagonal sculptural action, deep drapery, radiating rays and layered column/pediment staging are clear and integrated. The rich marble surrounds belong to the staged work, not unrelated background clutter.",
+    "current_view_basis": "Central diagonal sculptural action, deep drapery, radiating rays and layered column/pediment staging are clear and integrated. The rich marble surrounds belong to the staged work, not unrelated background clutter.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

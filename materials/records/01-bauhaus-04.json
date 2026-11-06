@@ -1,0 +1,82 @@
+{
+  "asset_id": "01-bauhaus-04",
+  "style_id": "01-bauhaus",
+  "local_path": "materials/images/01-bauhaus-b3-chair.jpg",
+  "record_path": "materials/records/01-bauhaus-04.json",
+  "reference_role": "style_reference",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "image_transformation": "None locally. Exact normally exposed public provider variant retained unchanged.",
+  "retrieval_method": "Normal public provider image/thumbnail download; no login, paywall or access-control bypass.",
+  "source_verification_scope": "Exact public image association, provider identity and stated rights checked. Not independent physical authentication.",
+  "rights_scope": "Provider statement retained for this image only; the depicted work, trademarks and particular uses can have separate rights.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "object": "Club chair (model B3 / Wassily), MoMA 229.1934",
+  "creator": "Marcel Breuer; manufacturer attributed by MoMA to Standard Möbel, Germany",
+  "work_date": "1927–1928 for this museum object; MoMA separately dates an earlier design version to 1925",
+  "photographer": "MoMA published object image; individual photographer not separately identified in inspected record",
+  "photo_date": "not established",
+  "branch": "Bauhaus tubular furniture; documented historical B3 specimen",
+  "source_page": "https://www.moma.org/collection/works/2851",
+  "identity_source": "https://www.moma.org/collection/works/2851",
+  "image_url": "https://www.moma.org/media/W1siZiIsIjIxMDc4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=55c484d9075a5929",
+  "rights": "No open image reuse license established; MoMA provides image-reproduction licensing contacts",
+  "license_url": null,
+  "rights_category": "restricted_public_preview",
+  "attribution": "Marcel Breuer, Club chair (model B3 / Wassily), 1927–1928, chrome-plated tubular steel and canvas. The Museum of Modern Art, Gift of Herbert Bayer, 229.1934. Public object-page image; no general reuse license granted by this package.",
+  "rights_evidence": "The exact MoMA object page publishes this image and directs reproduction requests to Art Resource/Scala. No CC or unrestricted reuse license is stated. It must not inherit the replaced Lorkan photograph’s CC BY 2.0 license.",
+  "claim_scope": "Historical Bauhaus tubular-furniture branch: a single documented museum object exposes frame, flexible contact bands and voids clearly. Not a universal Bauhaus color/material recipe or authentication of another chair.",
+  "limits": "This is the single MoMA accession 229.1934, catalogued 1927–1928, not the three later display chairs in the replaced photo. MoMA attributes the manufacturer to Standard Möbel rather than establishing it unconditionally. The image clearly shows exposed steel members and black bands, while canvas composition and date are documented facts. It cannot establish hidden connectors, load performance or the age/manufacturer/authorization of a newly supplied chair. A white background, black sling or steel tube alone is not a Bauhaus membership test.",
+  "observable_features": [
+    "A single complete chair is isolated against a pale neutral background, without other chairs, windows, display labels or strong projected shadows.",
+    "Bent reflective tubular members trace the open perimeter and continuous floor-level support relationships.",
+    "Separate dark seat, back and arm bands bridge the metal members instead of enclosing the frame in a padded solid mass.",
+    "Thin contact bands, repeating rails and large intervening gaps separate the sitter’s surfaces from the support outline."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://www.moma.org/collection/works/2851",
+      "supports": "MoMA identifies this exact B3/Wassily accession 229.1934 as 1927–1928, chrome-plated tubular steel and canvas, Gift of Herbert Bayer, with manufacture attributed to Standard Möbel. Its discussion separately locates the earlier 1925 version in Breuer’s Bauhaus teaching period. Its licensing section establishes that the public preview is not a stated open image license."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "04-modernism",
+      "06-mid-century-modern",
+      "later B3 reproductions"
+    ],
+    "shared_appearances": "Open frames and tube supports recur in other modernist and later furniture.",
+    "discriminating_relationships": "Specific documented Bauhaus design history accompanies the visible separation of tube support outline, thin contact bands and large voids. A later reproduction can share those relationships while differing in object date and authorization.",
+    "cannot_conclude": "This is the single MoMA accession 229.1934, catalogued 1927–1928, not the three later display chairs in the replaced photo. MoMA attributes the manufacturer to Standard Möbel rather than establishing it unconditionally. The image clearly shows exposed steel members and black bands, while canvas composition and date are documented facts. It cannot establish hidden connectors, load performance or the age/manufacturer/authorization of a newly supplied chair. A white background, black sling or steel tube alone is not a Bauhaus membership test."
+  },
+  "selection_quality": {
+    "improvement": "A complete single museum object on a plain background reveals the frame/band relationship without overlap, window-grid interference or duplicated dark shadows.",
+    "scope": "This museum specimen and version only; retain its documented canvas and 1927–1928 date."
+  },
+  "provider_image_page": "https://www.moma.org/collection/works/2851",
+  "downloaded_from": "https://www.moma.org/media/W1siZiIsIjIxMDc4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=55c484d9075a5929",
+  "resolved_image_url": "https://www.moma.org/media/W1siZiIsIjIxMDc4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=55c484d9075a5929",
+  "bytes": 448569,
+  "sha256": "d920741f9347ab33b85d6255e0c82e5c3d8dc838b7af83265231d46957a1b110",
+  "width": 2000,
+  "height": 1873,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "replaces_asset_id": "01-bauhaus-02",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "Three chairs, window grids and equally strong doubled shadows compete with the open frame. An isolated museum object separates tube outline, contact bands and voids immediately.",
+    "current_view_basis": "A single complete chair is isolated against a pale neutral background, without other chairs, windows, display labels or strong projected shadows. Bent reflective tubular members trace the open perimeter and continuous floor-level support relationships. Separate dark seat, back and arm bands bridge the metal members instead of enclosing the frame in a padded solid mass. Thin contact bands, repeating rails and large intervening gaps separate the sitter’s surfaces from the support outline.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "aa25e60b7233b59f47b4d51492fbaf4a02cc5dbc6cf737f811385f29cefa53d9"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

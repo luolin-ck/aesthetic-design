@@ -1,0 +1,974 @@
+{
+  "schema_version": 3,
+  "assembled_on": "2026-11-04",
+  "scope": "Public-conservative distribution: 9 included images across 8 directions; 34 images withheld and 28 directions without offline images. Retains 43 source records for 36 design directions from the reviewed source collection on 2026-11-05. All source references are scoped style references, not an exclusive taxonomy, universal template or measured classifier benchmark.",
+  "materials_language": "Single shared source-language collection; no translated duplicates inside materials.",
+  "styles": [
+    {
+      "style_id": "01-bauhaus",
+      "style_name": "Bauhaus: Design Philosophy and Style Guide",
+      "guide": "references/01-rational-modern/01-bauhaus.md",
+      "material_note": "materials/styles/01-bauhaus.md",
+      "asset_ids": [
+        "01-bauhaus-03",
+        "01-bauhaus-04"
+      ],
+      "reference_asset_ids": [
+        "01-bauhaus-03",
+        "01-bauhaus-04"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "02-de-stijl",
+      "style_name": "De Stijl: Design Philosophy and Style Guide",
+      "guide": "references/01-rational-modern/02-de-stijl.md",
+      "material_note": "materials/styles/02-de-stijl.md",
+      "asset_ids": [
+        "02-de-stijl-01"
+      ],
+      "reference_asset_ids": [
+        "02-de-stijl-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "03-swiss-style",
+      "style_name": "Swiss Style: Design Philosophy and Style Guide",
+      "guide": "references/01-rational-modern/03-swiss-style.md",
+      "material_note": "materials/styles/03-swiss-style.md",
+      "asset_ids": [
+        "03-swiss-style-01",
+        "03-swiss-style-02"
+      ],
+      "reference_asset_ids": [
+        "03-swiss-style-01",
+        "03-swiss-style-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "04-modernism",
+      "style_name": "Modernism: Design Philosophy and Style Guide",
+      "guide": "references/01-rational-modern/04-modernism.md",
+      "material_note": "materials/styles/04-modernism.md",
+      "asset_ids": [
+        "04-modernism-01"
+      ],
+      "reference_asset_ids": [
+        "04-modernism-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "05-minimalism",
+      "style_name": "Minimalism: Design Philosophy and Style Guide",
+      "guide": "references/01-rational-modern/05-minimalism.md",
+      "material_note": "materials/styles/05-minimalism.md",
+      "asset_ids": [
+        "05-minimalism-02",
+        "05-minimalism-03"
+      ],
+      "reference_asset_ids": [
+        "05-minimalism-02",
+        "05-minimalism-03"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "06-mid-century-modern",
+      "style_name": "Mid-century Modern: Design Philosophy and Style Guide",
+      "guide": "references/01-rational-modern/06-mid-century-modern.md",
+      "material_note": "materials/styles/06-mid-century-modern.md",
+      "asset_ids": [
+        "06-mid-century-modern-01"
+      ],
+      "reference_asset_ids": [
+        "06-mid-century-modern-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "07-song-dynasty-objects",
+      "style_name": "Song-dynasty Objects: Design Philosophy and Style Guide",
+      "guide": "references/02-eastern-traditions/07-song-dynasty-objects.md",
+      "material_note": "materials/styles/07-song-dynasty-objects.md",
+      "asset_ids": [
+        "07-song-dynasty-objects-01"
+      ],
+      "reference_asset_ids": [
+        "07-song-dynasty-objects-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "08-literati-ink",
+      "style_name": "Literati Ink: Design Philosophy and Style Guide",
+      "guide": "references/02-eastern-traditions/08-literati-ink.md",
+      "material_note": "materials/styles/08-literati-ink.md",
+      "asset_ids": [
+        "08-literati-ink-01"
+      ],
+      "reference_asset_ids": [
+        "08-literati-ink-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "09-ming-style",
+      "style_name": "Ming-style Furniture: Design Philosophy and Style Guide",
+      "guide": "references/02-eastern-traditions/09-ming-style.md",
+      "material_note": "materials/styles/09-ming-style.md",
+      "asset_ids": [
+        "09-ming-style-01"
+      ],
+      "reference_asset_ids": [
+        "09-ming-style-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "10-imperial-court-decoration",
+      "style_name": "Imperial Court Decoration: Design Philosophy and Style Guide",
+      "guide": "references/02-eastern-traditions/10-imperial-court-decoration.md",
+      "material_note": "materials/styles/10-imperial-court-decoration.md",
+      "asset_ids": [
+        "10-imperial-court-decoration-03",
+        "10-imperial-court-decoration-04"
+      ],
+      "reference_asset_ids": [
+        "10-imperial-court-decoration-03",
+        "10-imperial-court-decoration-04"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "11-neo-chinese",
+      "style_name": "Neo-Chinese: Design Philosophy and Style Guide",
+      "guide": "references/02-eastern-traditions/11-neo-chinese.md",
+      "material_note": "materials/styles/11-neo-chinese.md",
+      "asset_ids": [
+        "11-neo-chinese-02",
+        "11-neo-chinese-03"
+      ],
+      "reference_asset_ids": [
+        "11-neo-chinese-02",
+        "11-neo-chinese-03"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "12-wabi-sabi",
+      "style_name": "Wabi-sabi: Design Philosophy and Style Guide",
+      "guide": "references/02-eastern-traditions/12-wabi-sabi.md",
+      "material_note": "materials/styles/12-wabi-sabi.md",
+      "asset_ids": [
+        "12-wabi-sabi-02"
+      ],
+      "reference_asset_ids": [
+        "12-wabi-sabi-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "13-classical",
+      "style_name": "Classical Design: Design Philosophy and Style Guide",
+      "guide": "references/03-western-classics/13-classical.md",
+      "material_note": "materials/styles/13-classical.md",
+      "asset_ids": [
+        "13-classical-01"
+      ],
+      "reference_asset_ids": [
+        "13-classical-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "14-gothic",
+      "style_name": "Gothic: Design Philosophy and Style Guide",
+      "guide": "references/03-western-classics/14-gothic.md",
+      "material_note": "materials/styles/14-gothic.md",
+      "asset_ids": [
+        "14-gothic-02"
+      ],
+      "reference_asset_ids": [
+        "14-gothic-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "15-renaissance",
+      "style_name": "Renaissance: Design Philosophy and Style Guide",
+      "guide": "references/03-western-classics/15-renaissance.md",
+      "material_note": "materials/styles/15-renaissance.md",
+      "asset_ids": [
+        "15-renaissance-01"
+      ],
+      "reference_asset_ids": [
+        "15-renaissance-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "16-baroque",
+      "style_name": "Baroque: Design Philosophy and Style Guide",
+      "guide": "references/03-western-classics/16-baroque.md",
+      "material_note": "materials/styles/16-baroque.md",
+      "asset_ids": [
+        "16-baroque-01"
+      ],
+      "reference_asset_ids": [
+        "16-baroque-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "17-rococo",
+      "style_name": "Rococo: Design Philosophy and Style Guide",
+      "guide": "references/03-western-classics/17-rococo.md",
+      "material_note": "materials/styles/17-rococo.md",
+      "asset_ids": [
+        "17-rococo-01"
+      ],
+      "reference_asset_ids": [
+        "17-rococo-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "18-neoclassical",
+      "style_name": "Neoclassical: Design Philosophy and Style Guide",
+      "guide": "references/03-western-classics/18-neoclassical.md",
+      "material_note": "materials/styles/18-neoclassical.md",
+      "asset_ids": [
+        "18-neoclassical-01"
+      ],
+      "reference_asset_ids": [
+        "18-neoclassical-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "19-arts-and-crafts",
+      "style_name": "Arts and Crafts: Design Philosophy and Style Guide",
+      "guide": "references/04-materials-and-everyday-life/19-arts-and-crafts.md",
+      "material_note": "materials/styles/19-arts-and-crafts.md",
+      "asset_ids": [
+        "19-arts-and-crafts-01"
+      ],
+      "reference_asset_ids": [
+        "19-arts-and-crafts-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "20-nordic",
+      "style_name": "Nordic Design: Design Philosophy and Style Guide",
+      "guide": "references/04-materials-and-everyday-life/20-nordic.md",
+      "material_note": "materials/styles/20-nordic.md",
+      "asset_ids": [
+        "20-nordic-01"
+      ],
+      "reference_asset_ids": [
+        "20-nordic-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "21-japandi",
+      "style_name": "Japandi: Design Philosophy and Style Guide",
+      "guide": "references/04-materials-and-everyday-life/21-japandi.md",
+      "material_note": "materials/styles/21-japandi.md",
+      "asset_ids": [
+        "21-japandi-01",
+        "21-japandi-02"
+      ],
+      "reference_asset_ids": [
+        "21-japandi-01",
+        "21-japandi-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "22-industrial",
+      "style_name": "Industrial Interiors: Design Philosophy and Style Guide",
+      "guide": "references/04-materials-and-everyday-life/22-industrial.md",
+      "material_note": "materials/styles/22-industrial.md",
+      "asset_ids": [
+        "22-industrial-02"
+      ],
+      "reference_asset_ids": [
+        "22-industrial-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "23-mediterranean",
+      "style_name": "Mediterranean: Design Philosophy and Style Guide",
+      "guide": "references/04-materials-and-everyday-life/23-mediterranean.md",
+      "material_note": "materials/styles/23-mediterranean.md",
+      "asset_ids": [
+        "23-mediterranean-02"
+      ],
+      "reference_asset_ids": [
+        "23-mediterranean-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "24-bohemian",
+      "style_name": "Bohemian: Design Philosophy and Style Guide",
+      "guide": "references/04-materials-and-everyday-life/24-bohemian.md",
+      "material_note": "materials/styles/24-bohemian.md",
+      "asset_ids": [
+        "24-bohemian-01"
+      ],
+      "reference_asset_ids": [
+        "24-bohemian-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "25-art-nouveau",
+      "style_name": "Art Nouveau: Design Philosophy and Style Guide",
+      "guide": "references/05-decoration-and-experimentation/25-art-nouveau.md",
+      "material_note": "materials/styles/25-art-nouveau.md",
+      "asset_ids": [
+        "25-art-nouveau-02"
+      ],
+      "reference_asset_ids": [
+        "25-art-nouveau-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "26-art-deco",
+      "style_name": "Art Deco: Design Philosophy and Style Guide",
+      "guide": "references/05-decoration-and-experimentation/26-art-deco.md",
+      "material_note": "materials/styles/26-art-deco.md",
+      "asset_ids": [
+        "26-art-deco-01"
+      ],
+      "reference_asset_ids": [
+        "26-art-deco-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "27-memphis",
+      "style_name": "Memphis: Design Philosophy and Style Guide",
+      "guide": "references/05-decoration-and-experimentation/27-memphis.md",
+      "material_note": "materials/styles/27-memphis.md",
+      "asset_ids": [
+        "27-memphis-01"
+      ],
+      "reference_asset_ids": [
+        "27-memphis-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "28-pop-art",
+      "style_name": "Pop Art: Design Philosophy and Style Guide",
+      "guide": "references/05-decoration-and-experimentation/28-pop-art.md",
+      "material_note": "materials/styles/28-pop-art.md",
+      "asset_ids": [
+        "28-pop-art-01"
+      ],
+      "reference_asset_ids": [
+        "28-pop-art-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "29-surrealism",
+      "style_name": "Surrealism: Design Philosophy and Style Guide",
+      "guide": "references/05-decoration-and-experimentation/29-surrealism.md",
+      "material_note": "materials/styles/29-surrealism.md",
+      "asset_ids": [
+        "29-surrealism-01"
+      ],
+      "reference_asset_ids": [
+        "29-surrealism-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "30-maximalism",
+      "style_name": "Maximalism: Design Philosophy and Style Guide",
+      "guide": "references/05-decoration-and-experimentation/30-maximalism.md",
+      "material_note": "materials/styles/30-maximalism.md",
+      "asset_ids": [
+        "30-maximalism-02"
+      ],
+      "reference_asset_ids": [
+        "30-maximalism-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "31-cyberpunk",
+      "style_name": "Cyberpunk: Design Philosophy and Style Guide",
+      "guide": "references/06-digital-and-futures/31-cyberpunk.md",
+      "material_note": "materials/styles/31-cyberpunk.md",
+      "asset_ids": [
+        "31-cyberpunk-01"
+      ],
+      "reference_asset_ids": [
+        "31-cyberpunk-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "32-retrofuturism",
+      "style_name": "Retrofuturism: Design Philosophy and Style Guide",
+      "guide": "references/06-digital-and-futures/32-retrofuturism.md",
+      "material_note": "materials/styles/32-retrofuturism.md",
+      "asset_ids": [
+        "32-retrofuturism-03"
+      ],
+      "reference_asset_ids": [
+        "32-retrofuturism-03"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "33-y2k",
+      "style_name": "Y2K: Design Philosophy and Style Guide",
+      "guide": "references/06-digital-and-futures/33-y2k.md",
+      "material_note": "materials/styles/33-y2k.md",
+      "asset_ids": [
+        "33-y2k-01"
+      ],
+      "reference_asset_ids": [
+        "33-y2k-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "34-vaporwave",
+      "style_name": "Vaporwave: Design Philosophy and Style Guide",
+      "guide": "references/06-digital-and-futures/34-vaporwave.md",
+      "material_note": "materials/styles/34-vaporwave.md",
+      "asset_ids": [
+        "34-vaporwave-01"
+      ],
+      "reference_asset_ids": [
+        "34-vaporwave-01"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "35-steampunk",
+      "style_name": "Steampunk: Design Philosophy and Style Guide",
+      "guide": "references/06-digital-and-futures/35-steampunk.md",
+      "material_note": "materials/styles/35-steampunk.md",
+      "asset_ids": [
+        "35-steampunk-02"
+      ],
+      "reference_asset_ids": [
+        "35-steampunk-02"
+      ],
+      "context_asset_ids": []
+    },
+    {
+      "style_id": "36-web-brutalism",
+      "style_name": "Web Brutalism: Design Philosophy and Style Guide",
+      "guide": "references/06-digital-and-futures/36-web-brutalism.md",
+      "material_note": "materials/styles/36-web-brutalism.md",
+      "asset_ids": [
+        "36-web-brutalism-01",
+        "36-web-brutalism-03"
+      ],
+      "reference_asset_ids": [
+        "36-web-brutalism-01",
+        "36-web-brutalism-03"
+      ],
+      "context_asset_ids": []
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "01-bauhaus-03",
+      "style_id": "01-bauhaus",
+      "object": "Bauhaus Building, Dessau — workshop glazed corner and bridge",
+      "local_path": "materials/images/01-bauhaus.jpg",
+      "record_path": "materials/records/01-bauhaus-03.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "01-bauhaus-04",
+      "style_id": "01-bauhaus",
+      "object": "Club chair (model B3 / Wassily), MoMA 229.1934",
+      "local_path": "materials/images/01-bauhaus-b3-chair.jpg",
+      "record_path": "materials/records/01-bauhaus-04.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "02-de-stijl-01",
+      "style_id": "02-de-stijl",
+      "object": "Composition A: Composition with Black, Red, Gray, Yellow, and Blue",
+      "local_path": "materials/images/02-de-stijl.jpg",
+      "record_path": "materials/records/02-de-stijl-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "03-swiss-style-01",
+      "style_id": "03-swiss-style",
+      "object": "Das Holz als Baustoff exhibition poster, reproduced by the Swiss National Library",
+      "local_path": "materials/images/03-swiss-style.jpg",
+      "record_path": "materials/records/03-swiss-style-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "03-swiss-style-02",
+      "style_id": "03-swiss-style",
+      "object": "Musica Viva, MoMA 491.1987",
+      "local_path": "materials/images/03-swiss-style-musica-viva.jpg",
+      "record_path": "materials/records/03-swiss-style-02.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "04-modernism-01",
+      "style_id": "04-modernism",
+      "object": "Fagus Factory main building, Alfeld",
+      "local_path": "materials/images/04-modernism.jpg",
+      "record_path": "materials/records/04-modernism-01.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "05-minimalism-02",
+      "style_id": "05-minimalism",
+      "object": "Donald Judd, Untitled, 1967, MoMA 298.1997.a–l",
+      "local_path": "materials/images/05-minimalism-judd-stack.jpg",
+      "record_path": "materials/records/05-minimalism-02.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "05-minimalism-03",
+      "style_id": "05-minimalism",
+      "object": "Langen Foundation — empty passage between concrete volume and glass enclosure",
+      "local_path": "materials/images/05-minimalism.jpg",
+      "record_path": "materials/records/05-minimalism-03.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "06-mid-century-modern-01",
+      "style_id": "06-mid-century-modern",
+      "object": "Lounge Chair Metal (LCM), object 127:1984",
+      "local_path": "materials/images/06-mid-century-modern.jpg",
+      "record_path": "materials/records/06-mid-century-modern-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "07-song-dynasty-objects-01",
+      "style_id": "07-song-dynasty-objects",
+      "object": "Tea bowl, Jian ware, Met object 29.100.226",
+      "local_path": "materials/images/07-song-dynasty-objects.jpg",
+      "record_path": "materials/records/07-song-dynasty-objects-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "08-literati-ink-01",
+      "style_id": "08-literati-ink",
+      "object": "Garden of the Inept Administrator, Met object 1979.458.1a–ii",
+      "local_path": "materials/images/08-literati-ink.jpg",
+      "record_path": "materials/records/08-literati-ink-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "09-ming-style-01",
+      "style_id": "09-ming-style",
+      "object": "Yokeback armchair, Met object 1997.92",
+      "local_path": "materials/images/09-ming-style.jpg",
+      "record_path": "materials/records/09-ming-style-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "10-imperial-court-decoration-03",
+      "style_id": "10-imperial-court-decoration",
+      "object": "Revolving openwork vase with dragon and lotus decoration in yangcai painted enamels, NPM 故瓷008824",
+      "local_path": "materials/images/10-imperial-court-decoration-vase.jpg",
+      "record_path": "materials/records/10-imperial-court-decoration-03.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "10-imperial-court-decoration-04",
+      "style_id": "10-imperial-court-decoration",
+      "object": "Semi-formal Court Robe (Jifu), Cleveland Museum of Art 1983.32",
+      "local_path": "materials/images/10-imperial-court-decoration-robe.jpg",
+      "record_path": "materials/records/10-imperial-court-decoration-04.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "11-neo-chinese-02",
+      "style_id": "11-neo-chinese",
+      "object": "The Brick Wall / Tsingpu Yangzhou Retreat — overhead courtyard-network view 03",
+      "local_path": "materials/images/11-neo-chinese-tsingpu-overview.jpg",
+      "record_path": "materials/records/11-neo-chinese-02.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "11-neo-chinese-03",
+      "style_id": "11-neo-chinese",
+      "object": "The Brick Wall / Tsingpu Yangzhou Retreat — enclosed courtyard view 14",
+      "local_path": "materials/images/11-neo-chinese-tsingpu-courtyard.jpg",
+      "record_path": "materials/records/11-neo-chinese-03.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "12-wabi-sabi-02",
+      "style_id": "12-wabi-sabi",
+      "object": "Black Raku Tea Bowl, Kaedegure, Met 2024.553.19",
+      "local_path": "materials/images/12-wabi-sabi-raku-bowl.jpg",
+      "record_path": "materials/records/12-wabi-sabi-02.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "13-classical-01",
+      "style_id": "13-classical",
+      "object": "Parthenon, west colonnade",
+      "local_path": "materials/images/13-classical.jpg",
+      "record_path": "materials/records/13-classical-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "14-gothic-02",
+      "style_id": "14-gothic",
+      "object": "Sainte-Chapelle upper chapel, west-facing interior with the Rose of the Apocalypse",
+      "local_path": "materials/images/14-gothic-west-interior.jpg",
+      "record_path": "materials/records/14-gothic-02.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "15-renaissance-01",
+      "style_id": "15-renaissance",
+      "object": "Central part of the facade of the Ospedale degli Innocenti, Florence",
+      "local_path": "materials/images/15-renaissance.jpg",
+      "record_path": "materials/records/15-renaissance-01.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "16-baroque-01",
+      "style_id": "16-baroque",
+      "object": "Cornaro Chapel with the Ecstasy of Saint Teresa, Santa Maria della Vittoria, Rome",
+      "local_path": "materials/images/16-baroque.jpg",
+      "record_path": "materials/records/16-baroque-01.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "17-rococo-01",
+      "style_id": "17-rococo",
+      "object": "Loving cup with cover, Met object 25.15.58a, b",
+      "local_path": "materials/images/17-rococo.jpg",
+      "record_path": "materials/records/17-rococo-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "18-neoclassical-01",
+      "style_id": "18-neoclassical",
+      "object": "Side chair (one of a set of fourteen), Met object 1996.426.10",
+      "local_path": "materials/images/18-neoclassical.jpg",
+      "record_path": "materials/records/18-neoclassical-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "19-arts-and-crafts-01",
+      "style_id": "19-arts-and-crafts",
+      "object": "Honeysuckle, Met accession 30.95.46a–f",
+      "local_path": "materials/images/19-arts-and-crafts.jpg",
+      "record_path": "materials/records/19-arts-and-crafts-01.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "included"
+    },
+    {
+      "asset_id": "20-nordic-01",
+      "style_id": "20-nordic",
+      "object": "Stool 60, single clear-lacquer birch version — official Artek product image",
+      "local_path": "materials/images/20-nordic.jpg",
+      "record_path": "materials/records/20-nordic-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "21-japandi-01",
+      "style_id": "21-japandi",
+      "object": "Kinuta Terrace apartment renovation",
+      "local_path": "materials/images/21-japandi.jpg",
+      "record_path": "materials/records/21-japandi-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "21-japandi-02",
+      "style_id": "21-japandi",
+      "object": "Kinuta Terrace, published interior view 27",
+      "local_path": "materials/images/21-japandi-kinuta-living.jpg",
+      "record_path": "materials/records/21-japandi-02.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "22-industrial-02",
+      "style_id": "22-industrial",
+      "object": "LocHal Public Library, Tilburg — exposed hall frame and inserted stair/library levels",
+      "local_path": "materials/images/22-industrial-lochal.jpg",
+      "record_path": "materials/records/22-industrial-02.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "23-mediterranean-02",
+      "style_id": "23-mediterranean",
+      "object": "White houses of Oia on Santorini — stepped Cycladic settlement view",
+      "local_path": "materials/images/23-mediterranean-oia-settlement.jpg",
+      "record_path": "materials/records/23-mediterranean-02.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "24-bohemian-01",
+      "style_id": "24-bohemian",
+      "object": "Justina Blakeney's Altadena living room",
+      "local_path": "materials/images/24-bohemian.jpg",
+      "record_path": "materials/records/24-bohemian-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "25-art-nouveau-02",
+      "style_id": "25-art-nouveau",
+      "object": "The Seasons: Summer (1896), clear digital reproduction without mount labels",
+      "local_path": "materials/images/25-art-nouveau.jpg",
+      "record_path": "materials/records/25-art-nouveau-02.json",
+      "rights_category": "public_domain",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "26-art-deco-01",
+      "style_id": "26-art-deco",
+      "object": "Chrysler Building",
+      "local_path": "materials/images/26-art-deco.jpg",
+      "record_path": "materials/records/26-art-deco-01.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "27-memphis-01",
+      "style_id": "27-memphis",
+      "object": "Carlton bookcase / room divider, photographed in Milwaukee Art Museum",
+      "local_path": "materials/images/27-memphis.jpg",
+      "record_path": "materials/records/27-memphis-01.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "28-pop-art-01",
+      "style_id": "28-pop-art",
+      "object": "Campbell's Soup Cans, MoMA 476.1996.1–32",
+      "local_path": "materials/images/28-pop-art.jpg",
+      "record_path": "materials/records/28-pop-art-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "29-surrealism-01",
+      "style_id": "29-surrealism",
+      "object": "Object, MoMA 130.1946.a–c",
+      "local_path": "materials/images/29-surrealism.jpg",
+      "record_path": "materials/records/29-surrealism-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "30-maximalism-02",
+      "style_id": "30-maximalism",
+      "object": "Dawnridge interior, published in Leslie Banker’s Think Like a Decorator, printed pages 48–49",
+      "local_path": "materials/images/30-maximalism.jpg",
+      "record_path": "materials/records/30-maximalism-02.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "31-cyberpunk-01",
+      "style_id": "31-cyberpunk",
+      "object": "Gouache concept painting by Syd Mead for Blade Runner",
+      "local_path": "materials/images/31-cyberpunk.jpg",
+      "record_path": "materials/records/31-cyberpunk-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "32-retrofuturism-03",
+      "style_id": "32-retrofuturism",
+      "object": "Fallout TV Series Pip-Boy 3000 Mk V — officially licensed replica, isolated front product view",
+      "local_path": "materials/images/32-retrofuturism-fallout.jpg",
+      "record_path": "materials/records/32-retrofuturism-03.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "33-y2k-01",
+      "style_id": "33-y2k",
+      "object": "Apple iMac G3, Graphite color, side view",
+      "local_path": "materials/images/33-y2k.jpg",
+      "record_path": "materials/records/33-y2k-01.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "34-vaporwave-01",
+      "style_id": "34-vaporwave",
+      "object": "Floral Shoppe — cover currently displayed on Vektroid’s official release page",
+      "local_path": "materials/images/34-vaporwave.jpg",
+      "record_path": "materials/records/34-vaporwave-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "35-steampunk-02",
+      "style_id": "35-steampunk",
+      "object": "The Clacker PC 2 — maker-published complete computer view",
+      "local_path": "materials/images/35-steampunk.jpg",
+      "record_path": "materials/records/35-steampunk-02.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "36-web-brutalism-01",
+      "style_id": "36-web-brutalism",
+      "object": "Gumroad published homepage as reproduced in NN/g's 2025 article",
+      "local_path": "materials/images/36-web-brutalism.png",
+      "record_path": "materials/records/36-web-brutalism-01.json",
+      "rights_category": "restricted_public_preview",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    },
+    {
+      "asset_id": "36-web-brutalism-03",
+      "style_id": "36-web-brutalism",
+      "object": "Guidelines for Brutalist Web Design — David Bryant Copeland, actual published first viewport",
+      "local_path": "materials/images/36-web-brutalism-direct-web.png",
+      "record_path": "materials/records/36-web-brutalism-03.json",
+      "rights_category": "open_license",
+      "reference_role": "style_reference",
+      "availability": "withheld",
+      "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+    }
+  ],
+  "reference_roles": {
+    "style_reference": "A scoped example for the specified claim/branch; use its distinction and limits.",
+    "context_only": "Historical/site/method background; cannot alone establish stylistic membership."
+  },
+  "review": "materials/correspondence-review.md",
+  "selection_review": "materials/selection-review.md",
+  "source_collection_review": {
+    "reviewed_on": "2026-11-05",
+    "image_count": 43,
+    "direction_count": 36,
+    "scope": "Reviewed source set before public distribution filtering; not bundled-image coverage."
+  },
+  "public_distribution": {
+    "included_images": 9,
+    "withheld_images": 34,
+    "directions_with_images": 8,
+    "directions_without_images": 28
+  }
+}

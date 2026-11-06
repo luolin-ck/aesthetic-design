@@ -1,0 +1,90 @@
+{
+  "asset_id": "10-imperial-court-decoration-04",
+  "style_id": "10-imperial-court-decoration",
+  "local_path": "materials/images/10-imperial-court-decoration-robe.jpg",
+  "record_path": "materials/records/10-imperial-court-decoration-04.json",
+  "reference_role": "style_reference",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "image_transformation": "None locally. Exact normally exposed public provider variant retained unchanged.",
+  "retrieval_method": "Normal public provider image/thumbnail download; no login, paywall or access-control bypass.",
+  "source_verification_scope": "Exact public image association, provider identity and stated rights checked. Not independent physical authentication.",
+  "rights_scope": "Provider statement retained for this image only; the depicted work, trademarks and particular uses can have separate rights.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "object": "Semi-formal Court Robe (Jifu), Cleveland Museum of Art 1983.32",
+  "creator": "Chinese Qing textile makers; individual makers not named in the museum record",
+  "work_date": "late 1700s; China, Qing dynasty (1644–1911), Jiaqing period (1796–1820), as catalogued",
+  "photographer": "Cleveland Museum of Art published collection image; individual photographer not separately identified",
+  "photo_date": "not established",
+  "branch": "Qing court garment ornament; documented semi-formal robe type",
+  "source_page": "https://www.clevelandart.org/art/1983.32",
+  "identity_source": "https://www.clevelandart.org/art/1983.32",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1983.32/1983.32_web.jpg",
+  "rights": "Cleveland Museum of Art Open Access, CC0 image of a public-domain artwork",
+  "rights_category": "public_domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Semi-formal Court Robe (Jifu), China, Qing dynasty, Jiaqing period, late 1700s. Silk: satin weave; silk and metal thread: embroidery. The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1983.32. CC0.",
+  "rights_evidence": "The exact object page permits copying/modifying/distributing without permission and links CMA Open Access. Its public API identifies this accession’s share_license_status as CC0 and supplies the exact web image URL; CMA’s Open Access page explains that CC0 applies to designated public-domain artwork images.",
+  "claim_scope": "A documented Qing semi-formal court robe type with clear field, border, cuff and hem hierarchy. A complementary textile branch to the ceramic vase; not proof of a particular ruler’s use or a universal imperial palette.",
+  "limits": "The museum catalog dates this robe late 1700s and identifies the Jiaqing period (1796–1820); preserve that wording rather than invent an exact year. Its description associates this type with the emperor’s semi-official court meetings, but does not document this individual robe’s personal use by a named ruler. One laid-flat front view does not show the back, full three-dimensional fit or microscopic stitch construction. Motif meanings, silk/thread materials and rank/use conventions are source statements, not inferred solely from yellow, dragons or visual detail. This is a different accession from the removed Met 45.18 twelve-symbol robe; do not carry over its date, title or symbol count.",
+  "observable_features": [
+    "The complete laid-flat garment is isolated against a neutral pale background, with both extended sleeves, cuffs and hem visible in color.",
+    "Dense dragons and cloud-like scrolls occupy the central body and shoulders, while long gold-colored outer sleeve fields are relatively plain.",
+    "A dark patterned border follows the collar and asymmetrical front closure, separating that edge from the main motif field.",
+    "Dark decorated cuffs form distinct sleeve-end zones; cresting wave-like bands and a wide multicolored diagonal-striped hem create separate lower registers."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://www.clevelandart.org/art/1983.32",
+      "supports": "The exact accession is catalogued as Semi-formal Court Robe (Jifu), late 1700s, Jiaqing period, in silk satin with silk/metal-thread embroidery. The description explains the robe type’s imperial semi-official court use and the dragons/clouds/waves/rocks program; it does not identify an individual wearer or a precise manufacture year."
+    },
+    {
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/?accession_number=1983.32",
+      "supports": "The public museum API for accession 1983.32 identifies this exact title and web image URL, and states share_license_status CC0."
+    },
+    {
+      "url": "https://www.clevelandart.org/open-access",
+      "supports": "The museum’s policy makes designated public-domain artwork images available under CC0; the exact object/API designation establishes that this selected image is included."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "generic dragon-pattern costume",
+      "11-neo-chinese",
+      "09-ming-style",
+      "court-style modern reproduction"
+    ],
+    "shared_appearances": "Yellow, dragons, luxurious pattern and symmetry appear in non-imperial costume, celebration and modern reproduction.",
+    "discriminating_relationships": "Use the documented court garment type together with the ordered distribution of dense body motif fields, bounded collar/front closure, distinct cuffs and lower wave/stripe registers. Those garment-boundary relationships are more specific than a dragon symbol or gold color alone.",
+    "cannot_conclude": "The museum catalog dates this robe late 1700s and identifies the Jiaqing period (1796–1820); preserve that wording rather than invent an exact year. Its description associates this type with the emperor’s semi-official court meetings, but does not document this individual robe’s personal use by a named ruler. One laid-flat front view does not show the back, full three-dimensional fit or microscopic stitch construction. Motif meanings, silk/thread materials and rank/use conventions are source statements, not inferred solely from yellow, dragons or visual detail. This is a different accession from the removed Met 45.18 twelve-symbol robe; do not carry over its date, title or symbol count."
+  },
+  "selection_quality": {
+    "improvement": "A complete full-color 1223px-wide robe view replaces the small monochrome accession photo. Major ornamental registers and borders are directly visible without museum cases, people or labels.",
+    "remaining_distractions": "Subtle creases in the pale photographic support do not conceal the garment; pattern density belongs to the object’s organization."
+  },
+  "provider_image_page": "https://www.clevelandart.org/art/1983.32",
+  "downloaded_from": "https://openaccess-cdn.clevelandart.org/1983.32/1983.32_web.jpg",
+  "resolved_image_url": "https://openaccess-cdn.clevelandart.org/1983.32/1983.32_web.jpg",
+  "bytes": 884189,
+  "sha256": "beee34feee3eeb6cdc55eee7341bfe0efde1ca264402604aea8876c8010c53e8",
+  "width": 1223,
+  "height": 893,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "replaces_asset_id": "10-imperial-court-decoration-02",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "The 542px monochrome archival photo is too small and gray for an immediate textile comparison; it suppresses field/border color distinctions and fine pattern contrast. The different documented CMA court robe supplies a complete full-color garment view with clear registers.",
+    "current_view_basis": "The complete laid-flat garment is isolated against a neutral pale background, with both extended sleeves, cuffs and hem visible in color. Dense dragons and cloud-like scrolls occupy the central body and shoulders, while long gold-colored outer sleeve fields are relatively plain. A dark patterned border follows the collar and asymmetrical front closure, separating that edge from the main motif field. Dark decorated cuffs form distinct sleeve-end zones; cresting wave-like bands and a wide multicolored diagonal-striped hem create separate lower registers.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "207b3831185e1e4c1a547d834089f6909105e32f6db8ea3673843b0641ca5f9b"
+  },
+  "availability": "included"
+}

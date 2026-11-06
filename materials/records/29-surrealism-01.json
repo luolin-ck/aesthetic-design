@@ -1,0 +1,74 @@
+{
+  "style_id": "29-surrealism",
+  "object": "Object, MoMA 130.1946.a–c",
+  "creator": "Meret Oppenheim",
+  "work_date": "Paris, 1936",
+  "photographer": "unknown",
+  "photo_date": "unknown",
+  "branch": "Surrealist object; figurative material displacement",
+  "source_page": "https://www.moma.org/collection/works/80997",
+  "image_url": "https://www.moma.org/media/W1siZiIsIjYxNDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=203e557b7d43cc8e",
+  "rights": "© 2026 Artists Rights Society (ARS), New York / Pro Litteris, Zurich; no open reuse license",
+  "license_url": null,
+  "attribution": "Meret Oppenheim, Object, Paris, 1936. Fur-covered cup, saucer and spoon. The Museum of Modern Art. © 2026 Artists Rights Society (ARS), New York / Pro Litteris, Zurich.",
+  "rights_evidence": "MoMA object page names the copyright representatives and provides reproduction licensing contacts, not CC/PD permission.",
+  "identity_source": "https://www.moma.org/collection/works/80997",
+  "limits": "Appearance and collection record support a material/use conflict, not the psychological state or subconscious of a new object's creator.",
+  "observable_features": [
+    "Normal cup, saucer and spoon forms remain recognizable",
+    "Fur covers surfaces associated with drinking and eating",
+    "Everyday function collides with tactile expectation"
+  ],
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "29-surrealism-01",
+  "downloaded_from": "https://www.moma.org/media/W1siZiIsIjYxNDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=203e557b7d43cc8e",
+  "resolved_image_url": "https://www.moma.org/media/W1siZiIsIjYxNDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=203e557b7d43cc8e",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/29-surrealism.jpg",
+  "record_path": "materials/records/29-surrealism-01.json",
+  "bytes": 514413,
+  "sha256": "3ebb88a267f97666fdd3dfa71fbed695481162f1f7ed70a298f41bac909b83d3",
+  "width": 2000,
+  "height": 1333,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Surrealist object; figurative material displacement; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.moma.org/collection/works/80997",
+      "supports": "MoMA identifies Meret Oppenheim’s Object, Paris, 1936, as a fur-covered cup, saucer and spoon, and explicitly discusses the work in a Surrealist context. This supports the named object and historical association."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "ordinary novelty/sensory product design",
+      "abstract fantasy",
+      "Maximalism"
+    ],
+    "shared_appearances": "Unusual material combinations also occur in craft experiments, novelties and contemporary art.",
+    "discriminating_relationships": "Retain as Surrealist object/material displacement branch. Historical association comes from the record; the image cannot establish a different maker's unconscious or intention.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. Appearance and collection record support a material/use conflict, not the psychological state or subconscious of a new object's creator."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The single cup/saucer/spoon group is isolated and fully visible. Fur texture directly contradicts the recognizable drinking/eating contact forms; this is a more discriminating relationship than dreamlike color or generic oddness.",
+    "current_view_basis": "The single cup/saucer/spoon group is isolated and fully visible. Fur texture directly contradicts the recognizable drinking/eating contact forms; this is a more discriminating relationship than dreamlike color or generic oddness.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

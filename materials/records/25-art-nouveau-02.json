@@ -1,0 +1,86 @@
+{
+  "asset_id": "25-art-nouveau-02",
+  "style_id": "25-art-nouveau",
+  "local_path": "materials/images/25-art-nouveau.jpg",
+  "record_path": "materials/records/25-art-nouveau-02.json",
+  "reference_role": "style_reference",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "bytes": 445651,
+  "sha256": "385f33bce096be8c146dd2e86b79c11d719307c82a9cdd9cbc52d3eb5b8b55de",
+  "width": 1041,
+  "height": 2000,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_scope": "This record preserves provider statements, not a package-wide license. Original artwork, reproduction and depicted modern designs can have separate rights.",
+  "object": "The Seasons: Summer (1896), clear digital reproduction without mount labels",
+  "creator": "Alphonse Mucha",
+  "work_date": "1896 design; individual impression and digital reproduction dates not established",
+  "photographer": "No separate photographer identified for the digital reproduction",
+  "photo_date": "not established",
+  "branch": "Art Nouveau decorative lithographic panel",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_-_The_Seasons_-_Summer_(1896).jpg",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_-_The_Seasons_-_Summer_(1896).jpg",
+  "identity_source": "https://www.muchafoundation.org/en/gallery/themes/theme/art-posters/object/82",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Alfons_Mucha_-_The_Seasons_-_Summer_%281896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Alfons_Mucha_-_The_Seasons_-_Summer_%281896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "rights_category": "public_domain",
+  "rights": "Commons identifies this faithful reproduction of an expired-copyright two-dimensional work as public domain",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution": "Alphonse Mucha, The Seasons: Summer, 1896. Digital reproduction published as Alfons Mucha - The Seasons - Summer (1896).jpg, Wikimedia Commons; provider identifies public domain. Unchanged published image.",
+  "rights_evidence": "The exact Commons file record/API identifies the work and Public domain status and links Museoteca and the Mucha Foundation as sources. This is the provider’s statement for this reproduction, not a blanket license for every Foundation image or a newly photographed original.",
+  "claim_scope": "A clear complete Art Nouveau decorative-panel composition: figure, hair, garment contours, vines and enclosing field act together. One panel and digital version; not every Art Nouveau medium.",
+  "limits": "The original design is documented, but this reproduction does not authenticate a particular surviving print or its color accuracy. Other editions, paper, printing process details and the rest of the four-panel set were not inspected. Narrow cream margins and the signature belong to the published work; no mounting inventory label or gallery setting appears.",
+  "observable_features": [
+    "The complete tall panel and rounded enclosing outline fill the image, without mounting creases, inventory labels or neighboring works.",
+    "The curving figure and draped garment connect to elongated hair loops and vine tendrils across the field.",
+    "Dark continuous contours simplify the figure and foliage into related directional bands rather than isolated botanical decorations.",
+    "Poppy flowers at the head, trailing vines and water-edge curves link the upper figure to the lower composition."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Alfons_Mucha_-_The_Seasons_-_Summer_(1896).jpg",
+      "supports": "The exact Commons record identifies the 1896 Summer panel, supplies these exact reproduction bytes and identifies them as public domain. It does not establish a specific physical impression’s provenance."
+    },
+    {
+      "url": "https://www.muchafoundation.org/en/gallery/themes/theme/art-posters/object/82",
+      "supports": "The Mucha Foundation identifies Summer as an 1896 color lithographic panel, describes the poppies, grapevine and shallow water, and situates the Seasons panels in Mucha’s decorative poster practice. It is used for work/design facts, not to license this different Commons image."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "26-art-deco",
+      "general floral illustration",
+      "Symbolism"
+    ],
+    "shared_appearances": "Flowers, women and decorative borders occur in many illustration traditions.",
+    "discriminating_relationships": "The figure, hair, drapery, vine loops and enclosing contour share sinuous directions throughout the composition. Those linked lines are stronger evidence than the presence of flowers or a pale palette alone; compare Art Deco’s stepped/radiating geometric coordination separately.",
+    "cannot_conclude": "This panel cannot authenticate a new print, establish the whole movement from one motif, or prove a newly supplied designer’s actual influences."
+  },
+  "retrieval_method": "Exact normal public Commons image variant downloaded unchanged.",
+  "image_transformation": "None locally; published complete reproduction retained.",
+  "selection_quality": {
+    "reason": "Removes the old mount, small inventory label and paper-edge clutter while preserving the complete design at 1041×2000.",
+    "remaining_limits": "A different digital reproduction of the same design; no measured color equivalence is claimed."
+  },
+  "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/0/08/Alfons_Mucha_-_The_Seasons_-_Summer_%281896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "resolved_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Alfons_Mucha_-_The_Seasons_-_Summer_%281896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "replaces_asset_id": "25-art-nouveau-01",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "The composition is typical, but the old digital photo includes a creased mount, outer paper clutter and an inventory label. A clearer complete reproduction of the same Summer design preserves line relationships without these distractions.",
+    "current_view_basis": "Removes the old mount, small inventory label and paper-edge clutter while preserving the complete design at 1041×2000.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "bbf5a179ba66c0fbe59a8fee097e156db5e15a9df5f5e4f4c5d9973c5394a0d9"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

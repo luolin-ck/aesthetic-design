@@ -1,0 +1,88 @@
+{
+  "style_id": "13-classical",
+  "style_name": "Classical",
+  "object": "Parthenon, west colonnade",
+  "creator": "Iktinos and Kallikrates; Pheidias supervised the project (Acropolis Museum)",
+  "work_date": "Construction began 447 BCE; overall project completed about fifteen years later, per Acropolis Museum",
+  "photographer": "User:Mountain",
+  "photo_date": "2006-11-26",
+  "branch": "Ancient Greek Classical / Doric architectural order; surviving monument photographed in its present condition",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Parthenon_from_west.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg",
+  "rights": "Public domain dedication by photographer (PD-self)",
+  "license_url": "https://commons.wikimedia.org/wiki/File:Parthenon_from_west.jpg#Licensing",
+  "attribution": "Mountain, Parthenon from west.jpg, 26 November 2006, public domain dedication; identify changes.",
+  "rights_evidence": "Commons states copyright holder releases the photograph worldwide into the public domain, with unrestricted fallback grant where dedication is not legally possible.",
+  "identity_source": "https://www.theacropolismuseum.gr/en/exhibit-halls/parthenon-gallery",
+  "limits": "This is a low-angle, partly cropped view of the west order, including surviving and restored stonework; it cannot establish exact optical refinements, the complete original pediment, original color, or an arbitrary new building's historical identity.",
+  "observable_features": [
+    "Fluted columns with simple rounded capitals carry a continuous horizontal entablature.",
+    "Repeated column openings form a regular support-and-void sequence.",
+    "The upper frieze alternates narrow grooved triglyphs and broader relief-bearing metope fields.",
+    "The stepped base, vertical shafts and horizontal roof-edge layers form a visible base-support-crowning sequence."
+  ],
+  "provider_metadata": {
+    "Artist": "User:Mountain",
+    "Credit": "Own work",
+    "DateTimeOriginal": "2006-11-26",
+    "LicenseShortName": "Public domain",
+    "AttributionRequired": "false",
+    "Copyrighted": "False",
+    "Restrictions": "",
+    "ImageDescription": "Parthenon from west"
+  },
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Parthenon_from_west.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "13-classical-01",
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Parthenon_from_west.jpg/1280px-Parthenon_from_west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Parthenon_from_west.jpg/1280px-Parthenon_from_west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/13-classical.jpg",
+  "record_path": "materials/records/13-classical-01.json",
+  "bytes": 370295,
+  "sha256": "8a6079ea0d895acf69c71b18de338b72d6ed58a0abf3aabaa3f63e3c9b0e4792",
+  "width": 1280,
+  "height": 960,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "visual_inspection": "Selected local JPEG inspected for the listed visible relationships; this is not an independent authentication of provenance.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "public_domain",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Ancient Greek Classical / Doric architectural order; surviving monument photographed in its present condition; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.theacropolismuseum.gr/en/exhibit-halls/parthenon-gallery",
+      "supports": "The Acropolis Museum documents the Parthenon’s construction beginning in 447 BCE, Iktinos and Kallikrates as architects, Pheidias’s supervisory role, and the temple’s architectural and sculptural program. Historical refinements or original surface colors described elsewhere are not measurements recoverable from this oblique present-day photograph."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "15-renaissance",
+      "18-neoclassical"
+    ],
+    "shared_appearances": "Orders, pediments and round or fluted supports recur in Renaissance and Neoclassical revivals.",
+    "discriminating_relationships": "Retain. Explain that shared orders establish a classical vocabulary while historical period requires records. Do not infer unpainted original white surfaces, exact optical refinements or a universal golden ratio from the current low-angle view.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. This is a low-angle, partly cropped view of the west order, including surviving and restored stonework; it cannot establish exact optical refinements, the complete original pediment, original color, or an arbitrary new building's historical identity."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The fluted shafts, simple capitals, repeated support/void rhythm, triglyph-metope frieze and stepped base are readable together. Damage and minor internal scaffold fragments do not dominate the order.",
+    "current_view_basis": "The fluted shafts, simple capitals, repeated support/void rhythm, triglyph-metope frieze and stepped base are readable together. Damage and minor internal scaffold fragments do not dominate the order.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

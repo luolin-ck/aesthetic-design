@@ -1,0 +1,88 @@
+{
+  "style_id": "20-nordic",
+  "object": "Stool 60, single clear-lacquer birch version — official Artek product image",
+  "creator": "Alvar Aalto (design); published by Artek",
+  "work_date": "1933 design; manufacture date of the depicted example is not established",
+  "photographer": "unknown / not separately credited on the inspected product page",
+  "photo_date": "unknown / image filename or CDN version does not establish creation date",
+  "branch": "Finnish Nordic modern furniture; three-legged Stool 60",
+  "source_page": "https://www.artek.fi/en/products/stool-60",
+  "image_url": "https://res.cloudinary.com/artek/image/upload/s--wo3GLe-d--/f_auto/w_1200/v1729604319/products/stool-60/Stool_60_New-6327957.jpg",
+  "rights": "Artek product-page copyright metadata: Artek — 2026; no open image reuse license established",
+  "license_url": null,
+  "attribution": "Artek, Stool 60 by Alvar Aalto (design 1933), official product image, clear-lacquer birch version. Individual image maker and creation date are not separately credited. Public product preview; no open reuse license established.",
+  "rights_evidence": "The product page exposes this exact 1200px Cloudinary image in its normal img and noscript markup. Page meta name=copyright states Artek - 2026. No CC/PD license was found. This must not inherit the replaced Commons photograph's CC0 status.",
+  "identity_source": "https://www.alvaraalto.fi/en/work/stool-60/",
+  "limits": "This is an official current product visual, not authentication of a surviving 1933 object. The product page does not separately establish whether this particular visual was camera photographed or computer rendered, so describe it as a product image rather than assert a photographic method. Exact manufacture and image-creation dates remain unknown. The rear leg's upper connection is partly hidden. White background and light wood are selection/finish choices, not necessary Nordic-style traits.",
+  "observable_features": [
+    "One round seat and three legs form a single isolated object against a plain white background.",
+    "The two foreground legs visibly curve inward beneath the seat; a third leg is visible behind them, with its upper connection partly hidden by the seat.",
+    "The round seat, slender legs and open gaps can be read without overlapping stools, stair rails, display labels or people.",
+    "Light wood grain and the layered seat edge remain visible, while the small component vocabulary governs the silhouette."
+  ],
+  "provider_image_page": "https://www.artek.fi/en/products/stool-60",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "20-nordic-01",
+  "downloaded_from": "https://res.cloudinary.com/artek/image/upload/s--wo3GLe-d--/f_auto/w_1200/v1729604319/products/stool-60/Stool_60_New-6327957.jpg",
+  "resolved_image_url": "https://res.cloudinary.com/artek/image/upload/s--wo3GLe-d--/f_auto/w_1200/v1729604319/products/stool-60/Stool_60_New-6327957.jpg",
+  "retrieved_on": "2026-11-05",
+  "local_path": "materials/images/20-nordic.jpg",
+  "record_path": "materials/records/20-nordic-01.json",
+  "bytes": 45698,
+  "sha256": "a7101deca8518d1ca4383efef054c10cf36d7d5822a5c689f44a67dbc7374cd4",
+  "width": 1200,
+  "height": 1200,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None locally; the existing publicly exposed provider 1200px version was downloaded unchanged.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-05",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Finnish Nordic modern furniture: an official current single-object Stool 60 product visual with three legs, round seat and visible bent-leg connections. Not an authenticated 1933 specimen, a whole Nordic interior or every Nordic branch.",
+  "association_evidence": [
+    {
+      "url": "https://www.artek.fi/en/products/stool-60",
+      "supports": "Artek identifies Stool 60 as Alvar Aalto's 1933 design, specifies three legs and a solid-birch edge band, describes its Finnish/modernist design context and continuous production, and labels the selected variant birch with clear lacquer. This identifies the product version, not a particular object's manufacture date."
+    },
+    {
+      "url": "https://www.alvaraalto.fi/en/work/stool-60/",
+      "supports": "The Alvar Aalto Foundation identifies the three-legged Stool 60, design Alvar Aalto 1933, and explains the L-leg bending and stacking system. Its page separately labels E60 as the four-legged variation; this prevents mixing the two models. It does not authenticate the individual product visual as a historic physical specimen."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "Mid-Century Modern",
+      "Modernism",
+      "generic minimal furniture",
+      "four-legged Stool E60"
+    ],
+    "shared_appearances": "Reduced wooden components and simple seats overlap with broader Modernism and Mid-Century Modern.",
+    "discriminating_relationships": "Use documented Finnish design context together with the round seat, three-leg arrangement and bent front leg/seat relationships. Allow broader modernist overlap. The three visible legs and Artek product identity distinguish Stool 60 from four-legged E60; pale wood alone does not identify Nordic design.",
+    "cannot_conclude": "This is an official current product visual, not authentication of a surviving 1933 object. The product page does not separately establish whether this particular visual was camera photographed or computer rendered, so describe it as a product image rather than assert a photographic method. Exact manufacture and image-creation dates remain unknown. The rear leg's upper connection is partly hidden. White background and light wood are selection/finish choices, not necessary Nordic-style traits."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_quality": {
+    "identity": "Exact product page identifies Stool 60, Alvar Aalto, 1933, and three legs; it is not the four-legged E60.",
+    "clarity": "Whole single stool is visible with no cut-off legs and minimal background interference.",
+    "discriminating_detail": "Round seat, three-leg count, two visible bent L connections and the seat/leg relation are directly inspectable.",
+    "medium_scope": "Finnish Nordic modern furniture branch only, not a whole Nordic interior or a universal pale-wood palette."
+  },
+  "asset_kind": "manufacturer_product_image",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "A single full three-legged Stool 60 is shown on white. Seat, open gaps, wood grain and two visible front L bends are unobscured, without exhibition stacks or labels.",
+    "current_view_basis": "A single full three-legged Stool 60 is shown on white. Seat, open gaps, wood grain and two visible front L bends are unobscured, without exhibition stacks or labels.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

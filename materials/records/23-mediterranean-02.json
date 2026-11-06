@@ -1,0 +1,83 @@
+{
+  "asset_id": "23-mediterranean-02",
+  "style_id": "23-mediterranean",
+  "object": "White houses of Oia on Santorini — stepped Cycladic settlement view",
+  "creator": "Multiple building makers; individual architects and construction dates not established",
+  "work_date": "Individual building dates unknown; current settlement photographed in 2017",
+  "photographer": "Radek Kucharski",
+  "photo_date": "2017-09-01, 11:55 (Commons/Flickr record)",
+  "branch": "Cycladic / Oia regional massing and exterior transitions",
+  "source_page": "https://commons.wikimedia.org/wiki/File:White_houses_of_Oia_on_Santorini_(52181448879).jpg",
+  "identity_source": "https://www.visitgreece.gr/islands/cyclades/santorini/",
+  "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/White_houses_of_Oia_on_Santorini_%2852181448879%29.jpg/1280px-White_houses_of_Oia_on_Santorini_%2852181448879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/White_houses_of_Oia_on_Santorini_%2852181448879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "local_path": "materials/images/23-mediterranean-oia-settlement.jpg",
+  "rights_category": "open_license",
+  "rights": "CC BY 2.0 Generic photograph",
+  "rights_evidence": "Commons file identifies Radek Kucharski and links the original Flickr image with CC BY 2.0. Date is recorded as the photograph date rather than the upload/publication date.",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "attribution": "Radek Kucharski, White houses of Oia on Santorini (Flickr 52181448879), 1 September 2017, CC BY 2.0, via Wikimedia Commons. Provider thumbnail retained unchanged.",
+  "claim_scope": "A regional Cycladic settlement comparator: adjoining and stacked volumes, small openings, terraces and exterior stair/path transitions. It is not a universal Mediterranean palette or evidence that every pictured building is historically original.",
+  "observable_features": [
+    "Numerous mostly white and some pastel building volumes adjoin and step across the cliff slope rather than form isolated objects on a flat site.",
+    "Flat roof terraces, rounded roof/parapet segments, small dark openings and exterior transitions recur across the cluster.",
+    "A long exterior stair/path descends alongside the settlement and connects several levels; the sea and landform provide readable setting.",
+    "Architecture dominates the view without a foreground restaurant, large flag or retail sign. A small pack-animal/rider group remains near the lower edge and does not obscure the building combinations."
+  ],
+  "limits": "This is a readable settlement overview, not a close construction detail or an unchanged historical reconstruction. Individual architects, building ages, restoration/resort adaptations, hidden wall composition and climate performance remain unverified. A small lower-edge pack-animal/rider group is visible. White and blue alone are not Mediterranean criteria; other regional traditions may use very different materials and colors.",
+  "association_evidence": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:White_houses_of_Oia_on_Santorini_(52181448879).jpg",
+      "supports": "The exact Commons/Flickr record identifies Oia on Santorini, photographer Radek Kucharski, photo date and CC BY 2.0. It does not authenticate every individual building’s age or use."
+    },
+    {
+      "url": "https://www.visitgreece.gr/islands/cyclades/santorini/",
+      "supports": "The Greek National Tourism Organisation identifies the Santorini/Oia regional setting and traditional settlements. The selected image supplies its own visible massing/transition evidence; general destination text does not establish the age of each pictured unit."
+    }
+  ],
+  "bytes": 367391,
+  "sha256": "02e3d6d90cda3d23129d03fcfe84362604260673dd30fb251eec1431aa44ab3d",
+  "width": 1280,
+  "height": 720,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "reference_role": "style_reference",
+  "retrieval_method": "Normal public provider image/thumbnail downloaded unchanged; no access-control bypass.",
+  "image_transformation": "None locally; exact delivered public provider image retained.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/White_houses_of_Oia_on_Santorini_%2852181448879%29.jpg/1280px-White_houses_of_Oia_on_Santorini_%2852181448879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/White_houses_of_Oia_on_Santorini_%2852181448879%29.jpg/1280px-White_houses_of_Oia_on_Santorini_%2852181448879%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:White_houses_of_Oia_on_Santorini_(52181448879).jpg",
+  "record_path": "materials/records/23-mediterranean-02.json",
+  "rights_scope": "The image and depicted work may have separate rights. Preserve the exact source license/credit; this package grants no broader reuse permission.",
+  "source_verification_scope": "Exact image association, provider credit/rights and named work context checked; visible relations inspected separately from documentary claims.",
+  "confusion_check": {
+    "nearest_alternatives": [
+      "generic coastal resort styling",
+      "Minimalism",
+      "other Mediterranean regional vernacular traditions"
+    ],
+    "shared_appearances": "White walls, simple volumes and blue sky also appear in generic coastal hotels or reductive modern buildings.",
+    "discriminating_relationships": "Compare the named Cycladic context together with interlocking stepped volumes, roof terraces, recurrent small openings and connected exterior level changes. The regional spatial grammar is more specific than a holiday palette or a single dome.",
+    "cannot_conclude": "This is a readable settlement overview, not a close construction detail or an unchanged historical reconstruction. Individual architects, building ages, restoration/resort adaptations, hidden wall composition and climate performance remain unverified. A small lower-edge pack-animal/rider group is visible. White and blue alone are not Mediterranean criteria; other regional traditions may use very different materials and colors."
+  },
+  "replaces_asset_id": "23-mediterranean-01",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "Restaurant umbrellas, retail signs, a prominent flag and tourists compete with the stepped white building group. The view risks teaching a holiday-tourism collage instead of regional massing and transitions.",
+    "current_view_basis": "Numerous mostly white and some pastel building volumes adjoin and step across the cliff slope rather than form isolated objects on a flat site. Flat roof terraces, rounded roof/parapet segments, small dark openings and exterior transitions recur across the cluster. A long exterior stair/path descends alongside the settlement and connects several levels; the sea and landform provide readable setting. Architecture dominates the view without a foreground restaurant, large flag or retail sign. A small pack-animal/rider group remains near the lower edge and does not obscure the building combinations.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "165d706ceef3b4f457eb1b211968b16aa200a0fcb79899d7de171a5386375a1d"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

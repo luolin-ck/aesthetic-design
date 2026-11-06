@@ -1,0 +1,79 @@
+{
+  "style_id": "12-wabi-sabi",
+  "asset_id": "12-wabi-sabi-02",
+  "file_key": "12-wabi-sabi-raku-bowl",
+  "object": "Black Raku Tea Bowl, Kaedegure, Met 2024.553.19",
+  "source_page": "https://www.metmuseum.org/art/collection/search/827671",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/827671/2324106/main-image",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "downloaded_from": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/827671/2324106/main-image",
+  "resolved_image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/827671/2324106/main-image",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/12-wabi-sabi-raku-bowl.jpg",
+  "record_path": "materials/records/12-wabi-sabi-02.json",
+  "bytes": 131774,
+  "sha256": "2bc6a8fa66beacceae4266da6f167249e918a477b1b33d710d2b4b3498aefde9",
+  "width": 1200,
+  "height": 899,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "creator": "In the style of Raku Chōjirō; individual maker not established",
+  "work_date": "17th century, Edo period",
+  "photographer": "unknown / not separately credited on the inspected provider page",
+  "photo_date": "unknown / not separately dated",
+  "branch": "Raku tea-ware / restrained individual form and documented tea-use context",
+  "rights": "Public Domain; Met Open Access CC0 image",
+  "license_url": "https://www.metmuseum.org/hubs/open-access",
+  "attribution": "Black Raku Tea Bowl, named Kaedegure (Twilight by the Maples), in the style of Raku Chōjirō, 17th century. The Metropolitan Museum of Art, Gift of Peggy and Richard M. Danziger, 2024, 2024.553.19. Public Domain.",
+  "rights_evidence": "The exact Met record marks the image Public Domain and records hand-forming and extended use. Raku Museum separately connects the emergence of Raku tea bowls to Sen Rikyū’s wabi aesthetics.",
+  "limits": "The museum says hand-formed, a regular circular foot, exterior luster and interior wear from extended tea use. The photograph does not independently distinguish use wear from firing/glaze variation; do not call it obviously broken, wholly matte, strongly asymmetric or made by Chōjirō himself. Raku ware is not automatically Wabi-sabi in every use. The connection is a documented tea-practice comparator, not a universal style certification.",
+  "observable_features": [
+    "A slightly varying rim tops a largely round body that narrows and expands before reaching the small foot.",
+    "A dark undecorated surface shows tonal layers and local sheen rather than a perfectly uniform color field.",
+    "Restrained vessel form leaves these small profile and surface differences visible without a separate figurative decoration."
+  ],
+  "identity_source": "https://www.metmuseum.org/art/collection/search/827671",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and provider rights checked; not independent physical authentication.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_category": "public_domain",
+  "rights_scope": "Provider image rights are not a package-wide license; a photo license does not automatically license underlying designs or trademarks.",
+  "claim_scope": "A scoped Wabi-sabi-like tea-object comparison using visible individuality plus separately documented wabi-cha and tea-use context; not a proof of a maker’s philosophy.",
+  "additional_context_source": "https://raku-yaki.or.jp/e/history/",
+  "reference_role": "style_reference",
+  "association_evidence": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/827671",
+      "supports": "The Met identifies Black Raku Tea Bowl, Kaedegure, in the style of Raku Chōjirō, 17th century, Edo period, accession 2024.553.19. It describes hand-forming, a regular carved foot, little warping, some exterior luster and interior wear from extended tea use. The attribution is not personal authorship by Chōjirō; recorded interior wear is not independently established by the selected exterior view."
+    },
+    {
+      "url": "https://raku-yaki.or.jp/e/history/",
+      "supports": "Raku Museum relates the emergence of Raku tea bowls to the wabi ideals advocated by Sen Rikyū and documents Chōjirō’s foundational role in the sixteenth-century tradition. This is practice history, not authentication or a specific aesthetic judgment of the Met’s later Kaedegure bowl."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "05-minimalism",
+      "21-japandi",
+      "23-mediterranean"
+    ],
+    "shared_appearances": "Dark pottery, aging, irregularity and restraint also occur in Song wares, Minimalism and ordinary damage.",
+    "discriminating_relationships": "The bowl’s restrained but nonuniform profile and surface can be inspected together; hand-forming, tea use and wabi practice are separately documented. A Japanese place, neutral palette or geometrically raked garden alone would not establish those individual and time-related relationships.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. The museum says hand-formed, a regular circular foot, exterior luster and interior wear from extended tea use. The photograph does not independently distinguish use wear from firing/glaze variation; do not call it obviously broken, wholly matte, strongly asymmetric or made by Chōjirō himself. Raku ware is not automatically Wabi-sabi in every use. The connection is a documented tea-practice comparator, not a universal style certification."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The full isolated bowl has a gently irregular rim/body profile, uneven dark surface and local sheen, with no competitive props. Its restrained format makes small material differences inspectable.",
+    "current_view_basis": "The full isolated bowl has a gently irregular rim/body profile, uneven dark surface and local sheen, with no competitive props. Its restrained format makes small material differences inspectable.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "included"
+}

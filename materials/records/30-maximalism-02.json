@@ -1,0 +1,83 @@
+{
+  "asset_id": "30-maximalism-02",
+  "style_id": "30-maximalism",
+  "local_path": "materials/images/30-maximalism.jpg",
+  "record_path": "materials/records/30-maximalism-02.json",
+  "reference_role": "style_reference",
+  "retrieved_on": "2026-11-05",
+  "source_page_verified_on": "2026-11-05",
+  "correspondence_reviewed_on": "2026-11-05",
+  "bytes": 659906,
+  "sha256": "b461a40b8c3d5dfdb0bf0292e56f99f163d7669146bd7aa9e42092be26b93fea",
+  "width": 1953,
+  "height": 1410,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "rights_scope": "This record preserves provider statements, not a package-wide license. Original artwork, reproduction and depicted modern designs can have separate rights.",
+  "object": "Dawnridge interior, published in Leslie Banker’s Think Like a Decorator, printed pages 48–49",
+  "creator": "Dawnridge associated with Tony Duquette and Hutton Wilkinson in the publisher caption; individual furnishings and later additions not itemized",
+  "work_date": "Pictured interior version date not established; reproduced in the publisher’s public sample",
+  "photographer": "Not separately credited in the inspected excerpt",
+  "photo_date": "not established",
+  "branch": "Layered eclectic maximalist interior",
+  "source_page": "https://www.rizzoliusa.com/wp-content/uploads/2023/06/Think-Like-A-Decorator_When-Youve-Got-Extra-Hours-in-the-Day.pdf",
+  "provider_image_page": "https://www.rizzoliusa.com/wp-content/uploads/2023/06/Think-Like-A-Decorator_When-Youve-Got-Extra-Hours-in-the-Day.pdf",
+  "identity_source": "https://www.rizzoliusa.com/wp-content/uploads/2023/06/Think-Like-A-Decorator_When-Youve-Got-Extra-Hours-in-the-Day.pdf",
+  "image_url": "https://www.rizzoliusa.com/wp-content/uploads/2023/06/Think-Like-A-Decorator_When-Youve-Got-Extra-Hours-in-the-Day.pdf#page=8",
+  "downloaded_from": "https://www.rizzoliusa.com/wp-content/uploads/2023/06/Think-Like-A-Decorator_When-Youve-Got-Extra-Hours-in-the-Day.pdf",
+  "resolved_image_url": "https://www.rizzoliusa.com/wp-content/uploads/2023/06/Think-Like-A-Decorator_When-Youve-Got-Extra-Hours-in-the-Day.pdf",
+  "rights_category": "restricted_public_preview",
+  "rights": "Publisher’s publicly supplied book-sample photograph; no open reuse license established",
+  "license_url": null,
+  "attribution": "Dawnridge interior, photograph reproduced in Leslie Banker, Think Like a Decorator: To Create a Comfortable, Original, and Stylish Home, Rizzoli public sample, printed pp. 48–49 (PDF page index 7). Individual image credit is not supplied in this inspected excerpt; rights retained by their respective holders.",
+  "rights_evidence": "The image is embedded in a normally accessible publisher-hosted sample PDF. Neither the sample nor the inspected caption grants an open image license. The package makes no general reuse or commercial-publication grant.",
+  "claim_scope": "A furnished room with dense coordinated layering across ceiling, curtains, upholstery, floor, lighting and objects. The publisher explicitly discusses this photographed room as maximalism; this is not a universal recipe or an exclusive historical movement identity.",
+  "limits": "One published room view; no complete-house survey, material authentication, comfort or accessibility testing. The caption spells the house “Dawnbridge”; it refers to Tony Duquette’s house associated with Hutton Wilkinson. Photograph date, exact pictured interior-version date, individual photographers and the authorship of every object are not established by this excerpt. Dense collections are part of this room’s designed layering, not evidence that arbitrary clutter or luxury automatically establishes Maximalism.",
+  "observable_features": [
+    "A complete furnished room view places a pale sofa and glass table within patterned side chairs, a foreground spotted chair, hanging cages, plants and decorative objects.",
+    "Blue swirling motifs recur on curtains and armchairs, while green ceiling, framing and foliage connect the layers across the room.",
+    "Ceiling lattice, shaped cornice, branching chandelier, cage outlines and plants create distinct overlapping scales above the seating area.",
+    "A large black-and-white diagonal floor grid contrasts with a patterned stair covering and multiple upholstery patterns, while the central table and sofa remain an identifiable focus.",
+    "No visitors, explanatory text, watermarks or gallery equipment are included in the extracted photograph."
+  ],
+  "association_evidence": [
+    {
+      "url": "https://www.rizzoliusa.com/wp-content/uploads/2023/06/Think-Like-A-Decorator_When-Youve-Got-Extra-Hours-in-the-Day.pdf",
+      "supports": "The inspected publisher sample, printed pp. 48–49 (PDF page index 7), pairs this exact photograph with a discussion headed Maximum Maximalism and identifies Tony Duquette’s house, now associated with Hutton Wilkinson. The caption describes repeated fabric, lattice, hanging birdcages, colors, textures and coordinated layers. This supports the room/image association and author’s style reading, not every object’s age or authorship."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "24-bohemian",
+      "27-memphis",
+      "historical Rococo or Baroque revival",
+      "unorganized clutter"
+    ],
+    "shared_appearances": "Mixed collections, rich patterns, plants and ornament can also occur in bohemian rooms, historical revivals or incidental clutter.",
+    "discriminating_relationships": "Repeated blue motifs and green links coordinate otherwise different patterns and object types; the floor, ceiling, upholstery and hanging layers surround a readable seating focus. This whole-room coordination is more diagnostic than counting objects or requiring historical Rococo forms. A bohemian or revival influence may coexist rather than being ruled out.",
+    "cannot_conclude": "The image cannot establish the entire house’s style, a furnishing’s provenance, comfort, cost, personal psychology or that every busy room is intentionally maximalist."
+  },
+  "retrieval_method": "Public publisher PDF downloaded normally. Its native RGB JPEG image stream was extracted without recompression, resizing, retouching or cropping and matched visually to a PDFKit-rendered source page.",
+  "image_transformation": "No image-pixel change: original embedded RGB JPEG preserved. Text and page furniture are separate PDF objects and are not part of this native photograph.",
+  "selection_quality": {
+    "reason": "Replaces a small, mostly pale exhibition view with a readable whole room whose patterns, material contrasts, repeated colors and decorative layers are directly inspectable.",
+    "remaining_limits": "One eclectic interior branch; cannot make all luxury or collection displays Maximalism."
+  },
+  "replaces_asset_id": "30-maximalism-01",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "replace",
+    "prior_view_assessment": "The 400×600 gallery view is mostly pale walls and open floor, with small material details and only a few isolated elements; its curatorial attribution is defensible but weak as the primary visual comparator. A clear Dawnridge room shows coordinated layering across ceiling, floor, curtains, upholstery and objects.",
+    "current_view_basis": "Replaces a small, mostly pale exhibition view with a readable whole room whose patterns, material contrasts, repeated colors and decorative layers are directly inspectable.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence.",
+    "replaced_image_sha256": "071698fd6d7851a61e7cc5e85dd000fcfad82f809b99ac456317b437761c1578"
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

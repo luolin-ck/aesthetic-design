@@ -1,0 +1,78 @@
+{
+  "style_id": "34-vaporwave",
+  "object": "Floral Shoppe — cover currently displayed on Vektroid’s official release page",
+  "creator": "Macintosh Plus (Vektroid), album artist; separate graphic-design authorship of the displayed cover is not established by this page",
+  "work_date": "Album released 2011-12-09; creation date of this currently displayed cover version not established",
+  "photographer": "unknown",
+  "photo_date": "unknown",
+  "branch": "Named vaporwave album-cover publication",
+  "source_page": "https://vektroid.bandcamp.com/album/floral-shoppe",
+  "image_url": "https://f4.bcbits.com/img/a4028863981_10.jpg",
+  "rights": "All rights reserved",
+  "license_url": null,
+  "attribution": "Macintosh Plus (Vektroid), Floral Shoppe, released 9 December 2011. Cover preview from the artist's official Bandcamp page. All rights reserved; cover-art attribution not separately established.",
+  "rights_evidence": "The artist’s official album page states all rights reserved. Its HTML album artwork link and og:image identify this cover; the site header banner was excluded after visual checking.",
+  "identity_source": "https://vektroid.bandcamp.com/album/floral-shoppe",
+  "limits": "This is the actual cover version displayed by the artist’s page on 2026-11-04, not proof of the exact cover used in the first 2011 release. Do not identify the blank-faced bust as a particular antiquity without another record. Cover art cannot establish audio style by appearance alone.",
+  "observable_features": [
+    "A blank-faced classical bust, flowers and a low-resolution city image are juxtaposed inside one digitally assembled cover.",
+    "A receding black checkerboard and a flat pink field create conflicting spatial layers.",
+    "Gray CD-package-like framing, Japanese text and a small green geometric icon connect the collage to consumer-media graphics."
+  ],
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "34-vaporwave-01",
+  "downloaded_from": "https://f4.bcbits.com/img/a4028863981_10.jpg",
+  "resolved_image_url": "https://f4.bcbits.com/img/a4028863981_10.jpg",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/34-vaporwave.jpg",
+  "record_path": "materials/records/34-vaporwave-01.json",
+  "bytes": 263467,
+  "sha256": "a9d015dc4ab910aefce71dc3b027de8ed25735c86747cbd8c92db41077804c1f",
+  "width": 1200,
+  "height": 1200,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Named vaporwave album-cover publication; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://vektroid.bandcamp.com/album/floral-shoppe",
+      "supports": "Vektroid’s official release page identifies Floral Shoppe by Macintosh Plus, gives the album release date as 9 December 2011, currently displays the cover downloaded for this package, and states all rights reserved. The release date alone does not establish when this particular cover version was created or first used."
+    },
+    {
+      "url": "https://www.transcript-verlag.de/media/pdf/ef/98/56/oa97838394738250S3se3DehACNa.pdf",
+      "supports": "Indexed text from Jonas Wolf’s 2024 research book Re-Composing YouTube discusses Floral Shoppe in a vaporwave context, and the indexed Figure 6 caption names the album and Macintosh Plus. The figure image itself was not inspected in this review. This source is not used to identify the faceless cover version, date that version, or confirm the artist page’s current display."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "Y2K",
+      "Retrofuturism",
+      "generic classical-bust neon collage"
+    ],
+    "shared_appearances": "Pink, classical sculpture and checkerboards occur in unrelated digital collage.",
+    "discriminating_relationships": "Retain current-version qualification; do not let busts, Japanese letters, pink or checkerboards alone become mandatory/sufficient Vaporwave criteria. A cover photograph cannot classify audio. Supplement artist publication evidence with a scholarly primary research account if a genre-association record is needed.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. This is the actual cover version displayed by the artist’s page on 2026-11-04, not proof of the exact cover used in the first 2011 release. Do not identify the blank-faced bust as a particular antiquity without another record. Cover art cannot establish audio style by appearance alone."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The complete published cover clearly juxtaposes a faceless classical bust, checkerboard perspective, flattened pink field, degraded city inset and consumer-media frame. Bust and package-like marks are intentional collage components. The exact current cover version is named; no first-release-version claim is made.",
+    "current_view_basis": "The complete published cover clearly juxtaposes a faceless classical bust, checkerboard perspective, flattened pink field, degraded city inset and consumer-media frame. Bust and package-like marks are intentional collage components. The exact current cover version is named; no first-release-version claim is made.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

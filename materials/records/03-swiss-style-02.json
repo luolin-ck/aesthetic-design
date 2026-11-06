@@ -1,0 +1,78 @@
+{
+  "style_id": "03-swiss-style",
+  "asset_id": "03-swiss-style-02",
+  "object": "Musica Viva, MoMA 491.1987",
+  "creator": "Josef Müller-Brockmann; printed by City-Druck, AG, Zürich",
+  "work_date": "1958 in MoMA catalog; the printed concert date visible on the poster is 5 May 1959. Catalog date and printed event date are retained separately; the reason for the difference is not established.",
+  "photographer": "unknown",
+  "photo_date": "unknown",
+  "branch": "Swiss Style concert-poster graphic design",
+  "source_page": "https://www.moma.org/collection/works/7233/",
+  "identity_source": "https://www.moma.org/collection/works/7233/",
+  "image_url": "https://www.moma.org/media/W1siZiIsIjIxMTU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=ac33d16e2224cdc8",
+  "rights": "No open image license shown; artwork/image rights retained by their respective holders",
+  "license_url": null,
+  "attribution": "Josef Müller-Brockmann, Musica Viva, 1958, linocut and letterpress. The Museum of Modern Art, Gift of the designer, 491.1987. Public collection-page preview; no reuse license granted by this package.",
+  "rights_evidence": "MoMA provides a public preview and directs reproduction licensing to Art Resource or Scala Archives. Public visibility is not an open license.",
+  "limits": "A single poster version within the series. Do not infer exact numerical ratios from a preview, or treat its typographic treatment as mandatory for every Swiss Style work.",
+  "observable_features": [
+    "A large rotated off-white square is cropped by the page edges against a gray-violet field.",
+    "Small red, yellow, blue and black squares repeat the same diagonal orientation, sometimes touching as pairs.",
+    "Compact lower-left information groups align with the rotated field; the text and geometric forms share a diagonal organizing direction.",
+    "An extensive open central field contrasts with the dense information area, without a centered display headline."
+  ],
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "downloaded_from": "https://www.moma.org/media/W1siZiIsIjIxMTU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=ac33d16e2224cdc8",
+  "resolved_image_url": "https://www.moma.org/media/W1siZiIsIjIxMTU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=ac33d16e2224cdc8",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/03-swiss-style-musica-viva.jpg",
+  "record_path": "materials/records/03-swiss-style-02.json",
+  "bytes": 352153,
+  "sha256": "8644f5aac9220491e0b1b6ca8e5b1b899de5bf65e19267845f995fa508c3071e",
+  "width": 1423,
+  "height": 2000,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "restricted_public_preview",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Swiss Style concert-poster graphic design; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.moma.org/collection/works/7233/",
+      "supports": "MoMA identifies Musica Viva by Josef Müller-Brockmann, catalogued 1958, as linocut and letterpress, printed by City-Druck AG, Zürich, accession 491.1987. This catalogued date does not explain the 1959 concert date printed in the poster."
+    },
+    {
+      "url": "https://www.nb.admin.ch/en/the-international-style-1950-1970",
+      "supports": "The Swiss National Library explains the general postwar International / Swiss Typographic Style and its grid, type and geometric tendencies. This is movement context; the page does not document this particular Musica Viva poster."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "01-bauhaus",
+      "02-de-stijl"
+    ],
+    "shared_appearances": "Geometric fields and restricted palettes overlap with De Stijl and Bauhaus.",
+    "discriminating_relationships": "Retain. Explicitly contrast information hierarchy and organized text/image relations with superficial primary colors. Keep the 1958 catalog date and printed 1959 event date distinct without inventing their relationship.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. A single poster version within the series. Do not infer exact numerical ratios from a preview, or treat its typographic treatment as mandatory for every Swiss Style work."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The complete high-resolution poster integrates diagonally oriented information blocks and related colored squares. Large open field and compact information zone remain readable without an installation setting.",
+    "current_view_basis": "The complete high-resolution poster integrates diagonally oriented information blocks and related colored squares. Large open field and compact information zone remain readable without an installation setting.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}

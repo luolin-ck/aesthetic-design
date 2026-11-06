@@ -1,0 +1,87 @@
+{
+  "style_id": "27-memphis",
+  "object": "Carlton bookcase / room divider, photographed in Milwaukee Art Museum",
+  "creator": "Ettore Sottsass; manufacturer Memphis, Milan",
+  "work_date": "1981 design",
+  "photographer": "Sailko",
+  "photo_date": "2016-10-30",
+  "branch": "Historical Memphis furniture",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Ettore_sottsass_per_memphis_srl.,_libreria_carlton,_milano_1981.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Ettore_sottsass_per_memphis_srl.%2C_libreria_carlton%2C_milano_1981.jpg",
+  "rights": "Photograph CC BY 3.0 Unported; do not expand this statement to all rights in the furniture design",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Ettore Sottsass for Memphis, Carlton, 1981. Photograph: Sailko, 30 October 2016, Milwaukee Art Museum, Wikimedia Commons, CC BY 3.0. Indicate changes.",
+  "rights_evidence": "Commons file records own work by Sailko and CC BY 3.0. Its license statement concerns the uploaded image; no independent blanket design-right clearance is claimed.",
+  "identity_source": "https://www.moma.org/collection/works/292736",
+  "limits": "Photographed example's manufacture date is not established. MoMA verifies the named design/maker/materials but not this particular museum object.",
+  "observable_features": [
+    "A central spine and horizontal shelves create an approximately bilateral overall arrangement.",
+    "Slanted struts and upright pieces form contrasting triangular and rectangular component groups.",
+    "Strongly contrasting colored and patterned surfaces distinguish the component planes; angled pieces can coexist with the symmetric frame."
+  ],
+  "provider_metadata": {
+    "Artist": "Sailko",
+    "Credit": "Own work",
+    "DateTimeOriginal": "2016-10-30 18:47:53",
+    "LicenseShortName": "CC BY 3.0",
+    "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "AttributionRequired": "true",
+    "Copyrighted": "True",
+    "Restrictions": "",
+    "ImageDescription": "Furniture in the Milwaukee Art Museum"
+  },
+  "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Ettore_sottsass_per_memphis_srl.%2C_libreria_carlton%2C_milano_1981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "provider_image_page": "https://commons.wikimedia.org/wiki/File:Ettore_sottsass_per_memphis_srl.,_libreria_carlton,_milano_1981.jpg",
+  "retrieval_method": "Publicly exposed provider image/thumbnail downloaded unchanged; no access control bypass.",
+  "asset_id": "27-memphis-01",
+  "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ettore_sottsass_per_memphis_srl.%2C_libreria_carlton%2C_milano_1981.jpg/1280px-Ettore_sottsass_per_memphis_srl.%2C_libreria_carlton%2C_milano_1981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "resolved_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ettore_sottsass_per_memphis_srl.%2C_libreria_carlton%2C_milano_1981.jpg/1280px-Ettore_sottsass_per_memphis_srl.%2C_libreria_carlton%2C_milano_1981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "retrieved_on": "2026-11-04",
+  "local_path": "materials/images/27-memphis.jpg",
+  "record_path": "materials/records/27-memphis-01.json",
+  "bytes": 225288,
+  "sha256": "d80aedce2943aee818abecc46c1a49e2669e0d8090f14f1ed15e9904ce576373",
+  "width": 1280,
+  "height": 1309,
+  "format": "JPEG",
+  "content_type": "image/jpeg",
+  "image_transformation": "None by this package. Provider thumbnail where available.",
+  "acquisition_status": "downloaded_and_visually_reviewed",
+  "source_page_verified_on": "2026-11-04",
+  "source_verification_scope": "Named work, published image association and stated rights checked against the linked provider records; not an independent physical authentication.",
+  "rights_category": "open_license",
+  "rights_scope": "This record preserves the provider statement, not a package-wide license. Photograph licenses do not automatically license the depicted design, artwork, trademarks or all uses in every jurisdiction.",
+  "visual_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-11-05",
+    "scope": "This exact full local image was individually inspected for visible style relationships, subject scale, framing, exposure, obstruction and unrelated salient content. This is a qualitative selection review, not a blind recognition benchmark or physical authentication."
+  },
+  "reference_role": "style_reference",
+  "claim_scope": "Historical Memphis furniture; this exact view and branch only, not an exclusive or universal style label.",
+  "association_evidence": [
+    {
+      "url": "https://www.moma.org/collection/works/292736",
+      "supports": "MoMA identifies Carlton Room Divider as Ettore Sottsass’s 1981 design, manufactured by Memphis in Milan, made of plastic laminate and wood, and places it in a postmodern design context. This documents the design; it does not authenticate the particular photographed museum instance."
+    }
+  ],
+  "confusion_check": {
+    "nearest_alternatives": [
+      "De Stijl geometric furniture",
+      "Maximalism",
+      "generic colorful geometric design"
+    ],
+    "shared_appearances": "Primary colors and geometric parts overlap with De Stijl, Pop and digital neobrutalism.",
+    "discriminating_relationships": "Carlton has an approximately bilateral overall frame with angled supports and experimental color/laminate component relations. Its documented Memphis design identity does not depend on an asymmetric total silhouette.",
+    "cannot_conclude": "The finding is limited to this recorded view/branch. Photographed example's manufacture date is not established. MoMA verifies the named design/maker/materials but not this particular museum object."
+  },
+  "correspondence_reviewed_on": "2026-11-05",
+  "selection_review": {
+    "reviewed_on": "2026-11-05",
+    "decision": "keep",
+    "prior_view_assessment": "The complete single bookcase is near-frontal, with clear central spine, opposed slanting members, differently colored planes, patterned base and large voids. The background and small edge of a display barrier do not hide component relationships. Overall bilateral balance is allowed.",
+    "current_view_basis": "The complete single bookcase is near-frontal, with clear central spine, opposed slanting members, differently colored planes, patterned base and large voids. The background and small edge of a display barrier do not hide component relationships. Overall bilateral balance is allowed.",
+    "scope": "Only the named visible medium/branch/view. Designed complexity is evidence when it organizes the object; minor context is permitted only when it neither hides nor dominates that evidence."
+  },
+  "availability": "withheld",
+  "availability_reason": "Not selected for the conservative initial public distribution; separate redistribution rights were not fully established for this release."
+}
